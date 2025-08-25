@@ -1,9 +1,3 @@
-# Analise_Completa
-Análise completa sobre uma empresa rural fictícia com todas as etapas sendo catálogadas 
-Claro! Com base no arquivo CSV fornecido e nas suas instruções, preparei uma sugestão de `README.md` bem estilizada e estruturada para o seu portfólio de análise de dados no GitHub.
-
-Você pode copiar e colar o conteúdo abaixo em um novo arquivo chamado `README.md` no seu repositório.
-
 # 📊 Projeto de Análise de Vendas - Setor Agrícola
 
 
