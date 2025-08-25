@@ -1,3 +1,4 @@
+
 # 📊 Projeto de Análise de Vendas - Setor Agrícola
 
 
@@ -28,10 +29,10 @@ O dataset utilizado, `banco_agro_projeto.csv`, é um arquivo em formato CSV que 
 | :--- | :--- | :--- | :--- |
 | `Produto` | Nome do produto agrícola (ex: Café, Soja). | `Texto` | |
 | `Categoria` | Categoria do produto (ex: Cereal, Grão, Fibra). | `Texto` | Apresenta inconsistências (ex: Arroz como Bebida). |
-| `Estoque` | Quantidade do produto em estoque. | `Texto` | Contém valores numéricos e a string "indefinido". |
+| `Estoque` | Quantidade do produto em estoque. | `Número` | Contém valores numéricos e a string "indefinido". |
 | `Vendidos` | Quantidade de unidades vendidas. | `Número` | Possui valores nulos/vazios. |
-| `Data_de_vendas` | Data da venda (formato AAAA-MM-DD). | `Texto` | Contém a string "sem data". |
-| `Data_venda` | Data da venda (formato DD/MM/AAAA). | `Texto` | Redundante e contém a string "erro". |
+| `Data_de_vendas` | Data da venda (formato AAAA-MM-DD). | `Data` | Contém a string "sem data". |
+| `Data_venda` | Data da venda (formato DD/MM/AAAA). | `Data` | Redundante e contém a string "erro". |
 | `Vendedor` | Nome do vendedor responsável pela transação. | `Texto` | Possui valores nulos/vazios. |
 
 O tratamento das inconsistências e dos dados ausentes é um dos principais desafios e uma etapa fundamental deste projeto.
