@@ -1,0 +1,2001 @@
+Produto,Categoria,Estoque,Vendidos,Data_de_vendas,Vendedor,cidade,latitude,longitude,Preco_kg
+Café,Cereal,466,277,2024-01-01,Desconhecido,São Paulo,-23.55052,-46.633308,38.57
+Soja,Grão,191,37,2024-01-02,Pedro,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Grão,241,241,2024-01-03,Fernanda,Brasília,-15.794229,-47.882166,1.28
+Arroz,Bebida,222,283,2024-01-04,Carlos,Belo Horizonte,-19.924502,-43.935237,1.56
+Arroz,Bebida,370,432,2024-01-05,Patrícia,Fortaleza,-3.71722,-38.5434,1.56
+Café,Grão,559,443,2024-01-06,Desconhecido,São Paulo,-23.55052,-46.633308,38.57
+Cana-de-açúcar,Cereal,530,337,2024-01-07,Patrícia,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Fibra,100,100,2024-01-08,Ricardo,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Bebida,52,116,2024-01-09,Desconhecido,Salvador,-12.971399,-38.501305,1.28
+Café,Cereal,187,369,2024-01-10,Pedro,Curitiba,-25.428954,-49.267137,38.57
+Soja,Cereal,929,190,2024-01-11,Pedro,São Paulo,-23.55052,-46.633308,2.33
+Cana-de-açúcar,Cereal,526,181,2024-01-12,João,Brasília,-15.794229,-47.882166,1.28
+Arroz,Bebida,438,104,2024-01-13,Ana,Curitiba,-25.428954,-49.267137,1.56
+Arroz,Cereal,315,200,2024-01-14,Carlos,Salvador,-12.971399,-38.501305,1.56
+Café,Fibra,50,377,2024-01-15,Carlos,Manaus,-3.10194,-60.025,38.57
+Café,Bebida,969,412,2024-01-16,Patrícia,Manaus,-3.10194,-60.025,38.57
+Soja,Bebida,36,36,2024-01-17,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Cereal,830,830,2024-01-18,Ricardo,Manaus,-3.10194,-60.025,1.28
+Cana-de-açúcar,Cereal,620,192,2024-01-19,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.28
+Trigo,Bebida,931,189,2024-01-20,Ana,Porto Alegre,-30.034647,-51.217658,1.42
+Café,Grão,323,278,2024-01-21,Patrícia,Belo Horizonte,-19.924502,-43.935237,38.57
+Trigo,Cereal,861,280,2024-01-22,Pedro,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Bebida,141,243,2024-01-23,Fernanda,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Bebida,612,209,2024-01-24,Pedro,Rio de Janeiro,-22.906847,-43.172896,17.68
+Milho,Bebida,432,85,2024-01-25,Ana,Recife,-8.04756,-34.877,1.09
+Trigo,Grão,865,498,2024-01-26,Carlos,Porto Alegre,-30.034647,-51.217658,1.42
+Algodão,Fibra,65,65,2024-01-27,Carlos,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Bebida,277,476,2024-01-28,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Soja,Cereal,48,48,2024-01-29,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Arroz,Bebida,278,278,2024-01-30,Fernanda,Brasília,-15.794229,-47.882166,1.56
+Cana-de-açúcar,Cereal,229,186,2024-01-31,Desconhecido,Manaus,-3.10194,-60.025,1.28
+Café,Bebida,509,327,2024-02-01,Pedro,Porto Alegre,-30.034647,-51.217658,38.57
+Trigo,Grão,529,180,2024-02-02,Fernanda,Porto Alegre,-30.034647,-51.217658,1.42
+Cana-de-açúcar,Cereal,303,68,2024-02-03,Maria,Manaus,-3.10194,-60.025,1.28
+Arroz,Grão,272,272,2024-02-04,Maria,Curitiba,-25.428954,-49.267137,1.56
+Algodão,Fibra,615,26,2024-02-05,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Soja,Grão,174,271,2024-02-06,Fernanda,Fortaleza,-3.71722,-38.5434,2.33
+Trigo,Grão,500,304,2024-02-07,Ana,Recife,-8.04756,-34.877,1.42
+Café,Fibra,454,106,2024-02-08,Fernanda,Belo Horizonte,-19.924502,-43.935237,38.57
+Algodão,Grão,109,167,2024-02-09,Patrícia,Salvador,-12.971399,-38.501305,17.68
+Café,Fibra,745,265,2024-02-10,Patrícia,Brasília,-15.794229,-47.882166,38.57
+Cana-de-açúcar,Fibra,396,377,2024-02-11,Ana,Brasília,-15.794229,-47.882166,1.28
+Soja,Cereal,154,355,2024-02-12,Carlos,Salvador,-12.971399,-38.501305,2.33
+Soja,Cereal,99,99,2024-02-13,Pedro,Belo Horizonte,-19.924502,-43.935237,2.33
+Soja,Bebida,588,179,2024-02-14,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Café,Cereal,448,292,2024-02-15,Carlos,Salvador,-12.971399,-38.501305,38.57
+Soja,Grão,525,319,2024-02-16,Maria,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Cereal,418,265,2024-02-17,Fernanda,Recife,-8.04756,-34.877,1.56
+Soja,Grão,710,1,2024-02-18,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,2.33
+Soja,Grão,253,391,2024-02-19,Pedro,São Paulo,-23.55052,-46.633308,2.33
+Milho,Cereal,242,70,2024-02-20,Ricardo,São Paulo,-23.55052,-46.633308,1.09
+Trigo,Bebida,457,457,2024-02-21,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.42
+Algodão,Fibra,720,720,2024-02-22,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Bebida,719,379,2024-02-23,Ana,Fortaleza,-3.71722,-38.5434,17.68
+Milho,Fibra,853,432,2024-02-24,Ana,Rio de Janeiro,-22.906847,-43.172896,1.09
+Cana-de-açúcar,Cereal,271,271,2024-02-25,Ana,Brasília,-15.794229,-47.882166,1.28
+Algodão,Cereal,890,345,2024-02-26,Pedro,São Paulo,-23.55052,-46.633308,17.68
+Café,Fibra,280,171,2024-02-27,Desconhecido,São Paulo,-23.55052,-46.633308,38.57
+Cana-de-açúcar,Fibra,650,238,2024-02-28,Pedro,Porto Alegre,-30.034647,-51.217658,1.28
+Milho,Bebida,372,273,2024-02-29,Ricardo,Fortaleza,-3.71722,-38.5434,1.09
+Café,Cereal,685,14,2024-03-01,Fernanda,São Paulo,-23.55052,-46.633308,38.57
+Trigo,Cereal,470,425,2024-03-02,João,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Grão,484,484,2024-03-03,Pedro,Curitiba,-25.428954,-49.267137,1.28
+Trigo,Fibra,671,3,2024-03-04,Fernanda,Porto Alegre,-30.034647,-51.217658,1.42
+Cana-de-açúcar,Fibra,438,171,2024-03-05,Maria,Belo Horizonte,-19.924502,-43.935237,1.28
+Café,Bebida,345,78,2024-03-06,Carlos,Belo Horizonte,-19.924502,-43.935237,38.57
+Cana-de-açúcar,Fibra,962,166,2024-03-06,João,Belo Horizonte,-19.924502,-43.935237,1.28
+Soja,Grão,639,140,2024-03-08,João,Salvador,-12.971399,-38.501305,2.33
+Arroz,Cereal,200,200,2024-03-09,Carlos,Curitiba,-25.428954,-49.267137,1.56
+Arroz,Fibra,247,332,2024-03-10,Ana,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Fibra,581,25,2024-03-11,Ricardo,Recife,-8.04756,-34.877,17.68
+Algodão,Fibra,65,65,2024-03-12,Fernanda,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Fibra,461,64,2024-03-13,João,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Grão,152,44,2024-03-14,Maria,Porto Alegre,-30.034647,-51.217658,1.42
+Café,Grão,996,219,2024-03-15,João,Salvador,-12.971399,-38.501305,38.57
+Cana-de-açúcar,Fibra,385,302,2024-03-16,Fernanda,Salvador,-12.971399,-38.501305,1.28
+Café,Fibra,396,23,2024-03-17,Fernanda,Manaus,-3.10194,-60.025,38.57
+Cana-de-açúcar,Grão,912,39,2024-03-18,João,São Paulo,-23.55052,-46.633308,1.28
+Café,Fibra,919,186,2024-03-19,Ricardo,Belo Horizonte,-19.924502,-43.935237,38.57
+Milho,Fibra,21,178,2024-03-20,Ricardo,São Paulo,-23.55052,-46.633308,1.09
+Trigo,Bebida,768,468,2024-03-21,Fernanda,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Fibra,89,89,2024-03-22,Ana,Porto Alegre,-30.034647,-51.217658,1.28
+Soja,Cereal,330,198,2024-03-23,João,São Paulo,-23.55052,-46.633308,2.33
+Cana-de-açúcar,Fibra,602,243,2024-03-24,Ana,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Bebida,544,323,2024-03-25,Fernanda,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Cereal,254,69,2024-03-26,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.42
+Soja,Grão,862,247,2024-03-27,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Arroz,Fibra,951,137,2024-03-28,Ricardo,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Fibra,4,242,2024-03-29,Pedro,Brasília,-15.794229,-47.882166,2.33
+Trigo,Cereal,782,361,2024-03-30,Maria,Fortaleza,-3.71722,-38.5434,1.42
+Trigo,Bebida,685,299,2024-03-31,João,Rio de Janeiro,-22.906847,-43.172896,1.42
+Cana-de-açúcar,Bebida,29,29,2024-04-01,João,Fortaleza,-3.71722,-38.5434,1.28
+Arroz,Fibra,782,315,2024-04-02,Patrícia,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Grão,503,190,2024-04-03,Maria,Brasília,-15.794229,-47.882166,1.28
+Soja,Cereal,985,323,2024-04-04,Ricardo,Recife,-8.04756,-34.877,2.33
+Cana-de-açúcar,Cereal,306,365,2024-04-05,Ricardo,Brasília,-15.794229,-47.882166,1.28
+Café,Cereal,223,277,2024-04-06,João,São Paulo,-23.55052,-46.633308,38.57
+Café,Bebida,706,347,2024-04-07,Ana,Belo Horizonte,-19.924502,-43.935237,38.57
+Cana-de-açúcar,Bebida,482,342,2024-04-08,Maria,Fortaleza,-3.71722,-38.5434,1.28
+Arroz,Fibra,17,433,2024-04-09,Ana,Curitiba,-25.428954,-49.267137,1.56
+Soja,Cereal,71,345,2024-04-10,Desconhecido,Brasília,-15.794229,-47.882166,2.33
+Algodão,Fibra,789,446,2024-04-11,Fernanda,Recife,-8.04756,-34.877,17.68
+Trigo,Bebida,193,193,2024-04-12,Ana,Brasília,-15.794229,-47.882166,1.42
+Algodão,Grão,860,175,2024-04-13,Maria,Salvador,-12.971399,-38.501305,17.68
+Soja,Bebida,905,183,2024-04-14,Ricardo,Manaus,-3.10194,-60.025,2.33
+Trigo,Cereal,128,33,2024-04-15,Fernanda,Curitiba,-25.428954,-49.267137,1.42
+Soja,Grão,162,133,2024-04-16,Carlos,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Fibra,968,240,2024-04-17,Maria,Recife,-8.04756,-34.877,1.56
+Café,Fibra,577,45,2024-04-18,Ana,Manaus,-3.10194,-60.025,38.57
+Algodão,Grão,490,234,2024-04-19,Ana,Recife,-8.04756,-34.877,17.68
+Milho,Fibra,493,377,2024-04-20,João,Fortaleza,-3.71722,-38.5434,1.09
+Café,Bebida,688,200,2024-04-21,Maria,Porto Alegre,-30.034647,-51.217658,38.57
+Trigo,Bebida,411,250,2024-04-22,João,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Cereal,321,321,2024-04-23,Ricardo,Fortaleza,-3.71722,-38.5434,1.56
+Cana-de-açúcar,Cereal,761,414,2024-04-24,Ricardo,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Bebida,432,351,2024-04-25,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Bebida,386,313,2024-04-26,Ana,Recife,-8.04756,-34.877,1.28
+Milho,Grão,330,80,2024-04-27,João,Brasília,-15.794229,-47.882166,1.09
+Soja,Grão,278,208,2024-04-28,Pedro,Manaus,-3.10194,-60.025,2.33
+Trigo,Fibra,826,105,2024-04-29,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.42
+Trigo,Bebida,724,18,2024-04-30,Desconhecido,Manaus,-3.10194,-60.025,1.42
+Milho,Grão,714,84,2024-05-01,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.09
+Cana-de-açúcar,Cereal,369,379,2024-05-02,Ricardo,Salvador,-12.971399,-38.501305,1.28
+Milho,Cereal,249,164,2024-05-03,Ana,Brasília,-15.794229,-47.882166,1.09
+Café,Cereal,41,41,2024-05-04,Pedro,São Paulo,-23.55052,-46.633308,38.57
+Arroz,Bebida,435,63,2024-05-05,Carlos,Porto Alegre,-30.034647,-51.217658,1.56
+Café,Fibra,995,188,2024-05-06,Ana,Manaus,-3.10194,-60.025,38.57
+Cana-de-açúcar,Bebida,185,185,2024-05-07,Patrícia,Brasília,-15.794229,-47.882166,1.28
+Cana-de-açúcar,Cereal,846,471,2024-05-08,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Algodão,Fibra,536,414,2024-05-09,Pedro,São Paulo,-23.55052,-46.633308,17.68
+Café,Bebida,830,364,2024-05-10,Fernanda,Porto Alegre,-30.034647,-51.217658,38.57
+Cana-de-açúcar,Bebida,431,104,2024-05-11,Ana,Fortaleza,-3.71722,-38.5434,1.28
+Cana-de-açúcar,Grão,536,77,2024-05-12,Carlos,Brasília,-15.794229,-47.882166,1.28
+Soja,Cereal,672,164,2024-05-13,Patrícia,Curitiba,-25.428954,-49.267137,2.33
+Cana-de-açúcar,Bebida,132,394,2024-05-14,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Grão,499,31,2024-05-15,João,Brasília,-15.794229,-47.882166,1.28
+Soja,Cereal,28,461,2024-05-16,Carlos,Salvador,-12.971399,-38.501305,2.33
+Milho,Cereal,437,488,2024-05-17,Ricardo,Fortaleza,-3.71722,-38.5434,1.09
+Milho,Bebida,1,1,2024-05-18,Patrícia,Porto Alegre,-30.034647,-51.217658,1.09
+Algodão,Cereal,566,355,2024-05-19,Pedro,Fortaleza,-3.71722,-38.5434,17.68
+Milho,Bebida,68,58,2024-05-20,Fernanda,Porto Alegre,-30.034647,-51.217658,1.09
+Arroz,Cereal,537,253,2024-05-21,Pedro,Manaus,-3.10194,-60.025,1.56
+Cana-de-açúcar,Grão,133,241,2024-05-22,Carlos,São Paulo,-23.55052,-46.633308,1.28
+Milho,Bebida,215,275,2024-05-23,Carlos,Salvador,-12.971399,-38.501305,1.09
+Café,Fibra,877,877,2024-05-24,Ana,Recife,-8.04756,-34.877,38.57
+Arroz,Bebida,447,360,2024-05-25,Ricardo,Curitiba,-25.428954,-49.267137,1.56
+Milho,Cereal,98,98,2024-05-26,Patrícia,Manaus,-3.10194,-60.025,1.09
+Algodão,Grão,552,329,2024-05-27,Patrícia,Recife,-8.04756,-34.877,17.68
+Soja,Bebida,265,235,2024-05-28,Ricardo,Manaus,-3.10194,-60.025,2.33
+Café,Grão,582,400,2024-05-29,Ricardo,Manaus,-3.10194,-60.025,38.57
+Arroz,Grão,121,209,2024-05-30,Ana,Rio de Janeiro,-22.906847,-43.172896,1.56
+Trigo,Bebida,948,97,2024-05-31,Pedro,Recife,-8.04756,-34.877,1.42
+Cana-de-açúcar,Cereal,681,351,2024-06-01,Patrícia,Recife,-8.04756,-34.877,1.28
+Trigo,Cereal,935,39,2024-06-02,Carlos,Belo Horizonte,-19.924502,-43.935237,1.42
+Soja,Fibra,935,33,2024-06-03,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Milho,Cereal,960,492,2024-06-04,Maria,Salvador,-12.971399,-38.501305,1.09
+Milho,Fibra,464,464,2024-06-05,Ricardo,Brasília,-15.794229,-47.882166,1.09
+Milho,Cereal,260,260,2024-06-05,Ricardo,Porto Alegre,-30.034647,-51.217658,1.09
+Trigo,Fibra,722,213,2024-06-07,Maria,Manaus,-3.10194,-60.025,1.42
+Café,Grão,8,444,2024-06-08,Ana,Curitiba,-25.428954,-49.267137,38.57
+Trigo,Fibra,714,341,2024-06-09,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.42
+Arroz,Fibra,737,393,2024-06-10,Ana,Rio de Janeiro,-22.906847,-43.172896,1.56
+Milho,Cereal,420,396,2024-06-11,Desconhecido,Belo Horizonte,-19.924502,-43.935237,1.09
+Soja,Fibra,345,23,2024-06-12,Pedro,Brasília,-15.794229,-47.882166,2.33
+Trigo,Grão,219,219,2024-06-13,Fernanda,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Grão,689,352,2024-06-14,Fernanda,São Paulo,-23.55052,-46.633308,1.28
+Arroz,Fibra,753,111,2024-06-15,Carlos,Brasília,-15.794229,-47.882166,1.56
+Cana-de-açúcar,Grão,82,334,2024-06-16,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.28
+Soja,Cereal,314,213,2024-06-17,Fernanda,Manaus,-3.10194,-60.025,2.33
+Algodão,Bebida,57,57,2024-06-18,Ana,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Cereal,596,171,2024-06-19,Ricardo,Manaus,-3.10194,-60.025,1.56
+Algodão,Bebida,823,370,2024-06-20,Fernanda,Porto Alegre,-30.034647,-51.217658,17.68
+Cana-de-açúcar,Fibra,287,287,2024-06-21,Ricardo,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Grão,480,37,2024-06-22,Fernanda,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Bebida,760,462,2024-06-23,Maria,Salvador,-12.971399,-38.501305,1.42
+Soja,Grão,881,83,2024-06-24,Maria,Belo Horizonte,-19.924502,-43.935237,2.33
+Cana-de-açúcar,Cereal,334,477,2024-06-25,Patrícia,Fortaleza,-3.71722,-38.5434,1.28
+Milho,Bebida,293,252,2024-06-26,Ana,Fortaleza,-3.71722,-38.5434,1.09
+Café,Bebida,787,205,2024-06-27,Patrícia,Brasília,-15.794229,-47.882166,38.57
+Café,Grão,94,94,2024-06-28,Pedro,Porto Alegre,-30.034647,-51.217658,38.57
+Café,Fibra,409,113,2024-06-29,Desconhecido,Fortaleza,-3.71722,-38.5434,38.57
+Trigo,Grão,251,496,2024-06-30,Fernanda,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Grão,325,402,2024-07-01,Ana,São Paulo,-23.55052,-46.633308,1.28
+Trigo,Grão,744,353,2024-07-02,João,Porto Alegre,-30.034647,-51.217658,1.42
+Algodão,Fibra,134,216,2024-07-03,Ana,Fortaleza,-3.71722,-38.5434,17.68
+Trigo,Fibra,862,23,2024-07-04,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.42
+Algodão,Cereal,762,4,2024-07-05,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Fibra,799,124,2024-07-06,Fernanda,Manaus,-3.10194,-60.025,17.68
+Algodão,Cereal,470,46,2024-07-07,Ana,Porto Alegre,-30.034647,-51.217658,17.68
+Trigo,Cereal,989,81,2024-07-08,Patrícia,Porto Alegre,-30.034647,-51.217658,1.42
+Cana-de-açúcar,Grão,733,61,2024-07-09,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.28
+Cana-de-açúcar,Cereal,398,247,2024-07-10,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Grão,890,253,2024-07-11,João,São Paulo,-23.55052,-46.633308,38.57
+Café,Cereal,274,274,2024-07-12,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Soja,Grão,322,190,2024-07-13,Patrícia,Fortaleza,-3.71722,-38.5434,2.33
+Trigo,Grão,669,63,2024-07-14,Fernanda,Recife,-8.04756,-34.877,1.42
+Soja,Cereal,685,239,2024-07-15,João,Fortaleza,-3.71722,-38.5434,2.33
+Algodão,Bebida,688,100,2024-07-16,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Soja,Bebida,57,491,2024-07-17,Patrícia,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Fibra,11,237,2024-07-18,Fernanda,Fortaleza,-3.71722,-38.5434,1.56
+Trigo,Grão,819,94,2024-07-19,Ricardo,Salvador,-12.971399,-38.501305,1.42
+Arroz,Cereal,387,212,2024-07-20,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Fibra,103,168,2024-07-21,Maria,Manaus,-3.10194,-60.025,38.57
+Algodão,Bebida,652,53,2024-07-22,Ricardo,Salvador,-12.971399,-38.501305,17.68
+Soja,Fibra,616,100,2024-07-23,Pedro,Salvador,-12.971399,-38.501305,2.33
+Cana-de-açúcar,Cereal,276,16,2024-07-24,Ana,Manaus,-3.10194,-60.025,1.28
+Arroz,Cereal,824,208,2024-07-25,João,São Paulo,-23.55052,-46.633308,1.56
+Milho,Bebida,724,465,2024-07-26,João,Brasília,-15.794229,-47.882166,1.09
+Café,Fibra,459,90,2024-07-27,Ana,Recife,-8.04756,-34.877,38.57
+Soja,Fibra,658,90,2024-07-28,Fernanda,Porto Alegre,-30.034647,-51.217658,2.33
+Milho,Fibra,831,375,2024-07-29,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.09
+Trigo,Bebida,151,404,2024-07-30,Fernanda,Manaus,-3.10194,-60.025,1.42
+Algodão,Fibra,453,193,2024-07-31,Ana,Recife,-8.04756,-34.877,17.68
+Trigo,Fibra,778,778,2024-08-01,Patrícia,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Bebida,46,46,2024-08-02,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Cereal,1,1,2024-08-03,Maria,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Fibra,834,257,2024-08-04,João,Fortaleza,-3.71722,-38.5434,1.42
+Milho,Cereal,674,267,2024-08-05,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Café,Cereal,349,349,2024-08-06,Fernanda,Porto Alegre,-30.034647,-51.217658,38.57
+Café,Cereal,458,360,2024-08-07,Pedro,Curitiba,-25.428954,-49.267137,38.57
+Algodão,Grão,930,291,2024-08-08,Ana,Salvador,-12.971399,-38.501305,17.68
+Café,Grão,46,375,2024-08-09,Fernanda,Fortaleza,-3.71722,-38.5434,38.57
+Algodão,Grão,195,167,2024-08-10,Patrícia,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Grão,697,147,2024-08-11,Patrícia,Porto Alegre,-30.034647,-51.217658,1.28
+Milho,Grão,782,142,2024-08-12,Maria,Belo Horizonte,-19.924502,-43.935237,1.09
+Algodão,Fibra,932,120,2024-08-13,Maria,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Fibra,847,847,2024-08-14,Ana,Recife,-8.04756,-34.877,1.42
+Soja,Cereal,269,353,2024-08-15,Pedro,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Cereal,827,9,2024-08-16,Maria,Rio de Janeiro,-22.906847,-43.172896,1.56
+Arroz,Cereal,75,444,2024-08-17,João,Salvador,-12.971399,-38.501305,1.56
+Café,Grão,892,323,2024-08-18,Ricardo,Brasília,-15.794229,-47.882166,38.57
+Trigo,Bebida,293,361,2024-08-19,Maria,Fortaleza,-3.71722,-38.5434,1.42
+Algodão,Fibra,644,428,2024-08-19,Ricardo,Manaus,-3.10194,-60.025,17.68
+Trigo,Fibra,740,117,2024-08-21,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Algodão,Bebida,526,134,2024-08-22,Desconhecido,São Paulo,-23.55052,-46.633308,17.68
+Arroz,Cereal,166,29,2024-08-23,Pedro,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Fibra,658,385,2024-08-24,Desconhecido,Manaus,-3.10194,-60.025,17.68
+Milho,Fibra,221,452,2024-08-25,Carlos,Brasília,-15.794229,-47.882166,1.09
+Cana-de-açúcar,Fibra,184,184,2024-08-26,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Bebida,627,436,2024-08-27,Ricardo,Recife,-8.04756,-34.877,38.57
+Trigo,Grão,40,170,2024-08-28,Fernanda,Brasília,-15.794229,-47.882166,1.42
+Algodão,Bebida,535,299,2024-08-29,Ricardo,Recife,-8.04756,-34.877,17.68
+Algodão,Fibra,902,357,2024-08-29,Maria,Brasília,-15.794229,-47.882166,17.68
+Algodão,Cereal,134,134,2024-08-31,Fernanda,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Grão,430,430,2024-09-01,Pedro,Fortaleza,-3.71722,-38.5434,1.56
+Trigo,Bebida,440,248,2024-09-02,Patrícia,Porto Alegre,-30.034647,-51.217658,1.42
+Algodão,Cereal,68,68,2024-09-03,João,Manaus,-3.10194,-60.025,17.68
+Soja,Fibra,54,29,2024-09-04,Pedro,Salvador,-12.971399,-38.501305,2.33
+Cana-de-açúcar,Grão,705,485,2024-09-05,Ricardo,Belo Horizonte,-19.924502,-43.935237,1.28
+Café,Bebida,77,275,2024-09-06,Maria,Fortaleza,-3.71722,-38.5434,38.57
+Arroz,Fibra,167,167,2024-09-07,Patrícia,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Bebida,954,337,2024-09-08,Patrícia,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Cereal,500,157,2024-09-09,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Soja,Fibra,575,143,2024-09-10,João,Porto Alegre,-30.034647,-51.217658,2.33
+Cana-de-açúcar,Fibra,566,214,2024-09-11,Maria,Brasília,-15.794229,-47.882166,1.28
+Trigo,Grão,550,397,2024-09-12,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.42
+Soja,Fibra,600,338,2024-09-13,Carlos,São Paulo,-23.55052,-46.633308,2.33
+Algodão,Fibra,330,245,2024-09-14,Ricardo,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Bebida,237,209,2024-09-15,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.28
+Trigo,Bebida,761,127,2024-09-16,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Algodão,Grão,180,273,2024-09-17,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Bebida,434,235,2024-09-18,Ana,Manaus,-3.10194,-60.025,17.68
+Milho,Fibra,708,178,2024-09-19,Carlos,Fortaleza,-3.71722,-38.5434,1.09
+Algodão,Fibra,641,66,2024-09-20,Ricardo,Porto Alegre,-30.034647,-51.217658,17.68
+Soja,Grão,460,460,2024-09-21,Ana,Recife,-8.04756,-34.877,2.33
+Soja,Fibra,694,387,2024-09-22,Patrícia,Manaus,-3.10194,-60.025,2.33
+Milho,Bebida,488,354,2024-09-23,Maria,Curitiba,-25.428954,-49.267137,1.09
+Milho,Bebida,213,117,2024-09-24,Maria,Curitiba,-25.428954,-49.267137,1.09
+Trigo,Fibra,974,133,2024-09-25,Ana,Curitiba,-25.428954,-49.267137,1.42
+Soja,Cereal,777,194,2024-09-26,Carlos,Porto Alegre,-30.034647,-51.217658,2.33
+Soja,Fibra,266,17,2024-09-27,Carlos,Recife,-8.04756,-34.877,2.33
+Algodão,Cereal,908,465,2024-09-28,Desconhecido,Salvador,-12.971399,-38.501305,17.68
+Algodão,Cereal,917,311,2024-09-29,Carlos,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Bebida,705,414,2024-09-30,Maria,Recife,-8.04756,-34.877,1.28
+Algodão,Bebida,973,382,2024-10-01,Ana,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Grão,385,222,2024-10-02,Carlos,Salvador,-12.971399,-38.501305,1.42
+Algodão,Bebida,629,132,2024-10-03,Pedro,Belo Horizonte,-19.924502,-43.935237,17.68
+Cana-de-açúcar,Bebida,941,84,2024-10-04,Ana,Salvador,-12.971399,-38.501305,1.28
+Cana-de-açúcar,Cereal,16,119,2024-10-05,João,Brasília,-15.794229,-47.882166,1.28
+Cana-de-açúcar,Cereal,827,827,2024-10-06,Ricardo,São Paulo,-23.55052,-46.633308,1.28
+Trigo,Grão,933,69,2024-10-07,Carlos,Manaus,-3.10194,-60.025,1.42
+Café,Cereal,217,410,2024-10-08,Carlos,Manaus,-3.10194,-60.025,38.57
+Arroz,Cereal,227,227,2024-10-09,Patrícia,Manaus,-3.10194,-60.025,1.56
+Algodão,Cereal,895,326,2024-10-10,João,Manaus,-3.10194,-60.025,17.68
+Milho,Grão,866,498,2024-10-11,Pedro,Belo Horizonte,-19.924502,-43.935237,1.09
+Soja,Bebida,153,153,2024-10-12,Ana,Manaus,-3.10194,-60.025,2.33
+Trigo,Cereal,221,51,2024-10-13,Carlos,Recife,-8.04756,-34.877,1.42
+Café,Cereal,231,231,2024-10-14,Fernanda,Manaus,-3.10194,-60.025,38.57
+Algodão,Cereal,47,291,2024-10-15,Desconhecido,Manaus,-3.10194,-60.025,17.68
+Milho,Cereal,480,364,2024-10-16,Fernanda,Curitiba,-25.428954,-49.267137,1.09
+Trigo,Grão,351,274,2024-10-17,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Soja,Grão,955,189,2024-10-18,Maria,Manaus,-3.10194,-60.025,2.33
+Café,Cereal,859,410,2024-10-19,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Arroz,Cereal,167,472,2024-10-20,Pedro,Recife,-8.04756,-34.877,1.56
+Soja,Fibra,458,275,2024-10-21,Fernanda,Belo Horizonte,-19.924502,-43.935237,2.33
+Milho,Cereal,6,266,2024-10-22,Fernanda,Brasília,-15.794229,-47.882166,1.09
+Arroz,Grão,421,365,2024-10-23,Maria,Brasília,-15.794229,-47.882166,1.56
+Cana-de-açúcar,Cereal,119,295,2024-10-24,João,Curitiba,-25.428954,-49.267137,1.28
+Milho,Grão,81,50,2024-10-25,Ricardo,Manaus,-3.10194,-60.025,1.09
+Algodão,Fibra,954,62,2024-10-26,Maria,Curitiba,-25.428954,-49.267137,17.68
+Milho,Grão,925,305,2024-10-27,Ricardo,Manaus,-3.10194,-60.025,1.09
+Trigo,Fibra,229,401,2024-10-28,Ricardo,Recife,-8.04756,-34.877,1.42
+Café,Fibra,990,306,2024-10-29,Pedro,Porto Alegre,-30.034647,-51.217658,38.57
+Cana-de-açúcar,Bebida,903,447,2024-10-30,Pedro,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Cereal,487,333,2024-10-31,Ana,Manaus,-3.10194,-60.025,1.28
+Trigo,Fibra,220,220,2024-11-01,Pedro,Recife,-8.04756,-34.877,1.42
+Soja,Bebida,803,64,2024-11-02,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Fibra,407,61,2024-11-03,Ana,Manaus,-3.10194,-60.025,1.56
+Soja,Bebida,606,334,2024-11-04,Ricardo,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Cereal,315,276,2024-11-05,João,Brasília,-15.794229,-47.882166,1.56
+Milho,Grão,765,454,2024-11-06,João,Fortaleza,-3.71722,-38.5434,1.09
+Arroz,Grão,464,454,2024-11-07,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.56
+Arroz,Cereal,523,285,2024-11-08,Ricardo,Manaus,-3.10194,-60.025,1.56
+Algodão,Cereal,111,158,2024-11-09,Fernanda,Fortaleza,-3.71722,-38.5434,17.68
+Soja,Grão,303,303,2024-11-10,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,2.33
+Algodão,Fibra,544,173,2024-11-11,Patrícia,Fortaleza,-3.71722,-38.5434,17.68
+Arroz,Fibra,282,282,2024-11-12,Carlos,Belo Horizonte,-19.924502,-43.935237,1.56
+Cana-de-açúcar,Bebida,533,356,2024-11-13,Pedro,Manaus,-3.10194,-60.025,1.28
+Trigo,Bebida,424,424,2024-11-14,Patrícia,Salvador,-12.971399,-38.501305,1.42
+Soja,Grão,838,230,2024-11-15,Fernanda,Recife,-8.04756,-34.877,2.33
+Algodão,Cereal,513,50,2024-11-16,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Arroz,Grão,806,129,2024-11-17,Ricardo,Brasília,-15.794229,-47.882166,1.56
+Milho,Cereal,431,250,2024-11-18,Desconhecido,Brasília,-15.794229,-47.882166,1.09
+Soja,Grão,67,370,2024-11-19,Maria,Salvador,-12.971399,-38.501305,2.33
+Soja,Cereal,534,287,2024-11-20,Carlos,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Cereal,426,426,2024-11-21,Pedro,Belo Horizonte,-19.924502,-43.935237,1.56
+Algodão,Bebida,969,397,2024-11-22,Desconhecido,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Fibra,371,262,2024-11-23,Fernanda,Curitiba,-25.428954,-49.267137,1.42
+Soja,Bebida,924,460,2024-11-24,Ricardo,Salvador,-12.971399,-38.501305,2.33
+Arroz,Bebida,602,278,2024-11-25,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.56
+Soja,Bebida,458,436,2024-11-26,Ana,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Cereal,912,139,2024-11-27,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Café,Fibra,635,400,2024-11-28,Carlos,Rio de Janeiro,-22.906847,-43.172896,38.57
+Arroz,Fibra,459,202,2024-11-29,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.56
+Trigo,Grão,71,71,2024-11-30,Maria,Fortaleza,-3.71722,-38.5434,1.42
+Algodão,Grão,123,124,2024-12-01,João,São Paulo,-23.55052,-46.633308,17.68
+Café,Cereal,182,158,2024-12-02,Patrícia,Porto Alegre,-30.034647,-51.217658,38.57
+Arroz,Fibra,395,263,2024-12-03,Fernanda,Fortaleza,-3.71722,-38.5434,1.56
+Milho,Fibra,737,396,2024-12-04,Patrícia,Brasília,-15.794229,-47.882166,1.09
+Café,Grão,582,582,2024-12-05,Ana,Salvador,-12.971399,-38.501305,38.57
+Milho,Grão,388,388,2024-12-06,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Cana-de-açúcar,Fibra,270,177,2024-12-07,Maria,Salvador,-12.971399,-38.501305,1.28
+Arroz,Fibra,375,375,2024-12-08,Ana,Manaus,-3.10194,-60.025,1.56
+Milho,Grão,939,429,2024-12-09,Maria,São Paulo,-23.55052,-46.633308,1.09
+Café,Bebida,248,401,2024-12-10,Carlos,Recife,-8.04756,-34.877,38.57
+Algodão,Bebida,220,257,2024-12-11,Maria,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Bebida,881,364,2024-12-12,Ana,São Paulo,-23.55052,-46.633308,1.56
+Café,Bebida,319,319,2024-12-13,Fernanda,São Paulo,-23.55052,-46.633308,38.57
+Cana-de-açúcar,Cereal,904,421,2024-12-14,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.28
+Soja,Cereal,559,559,2024-12-15,Ana,Salvador,-12.971399,-38.501305,2.33
+Algodão,Cereal,287,224,2024-12-16,Ricardo,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Fibra,436,436,2024-12-17,Ricardo,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Grão,11,168,2024-12-18,Patrícia,Fortaleza,-3.71722,-38.5434,1.56
+Trigo,Bebida,70,449,2024-12-19,Pedro,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Cereal,187,187,2024-12-20,Carlos,Fortaleza,-3.71722,-38.5434,1.56
+Trigo,Cereal,0,138,2024-12-21,Ana,Belo Horizonte,-19.924502,-43.935237,1.42
+Trigo,Cereal,713,407,2024-12-22,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.42
+Café,Bebida,786,202,2024-12-23,Fernanda,Fortaleza,-3.71722,-38.5434,38.57
+Arroz,Cereal,844,21,2024-12-24,Ana,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Grão,849,193,2024-12-25,Maria,Brasília,-15.794229,-47.882166,1.28
+Arroz,Grão,918,467,2024-12-26,Ana,Salvador,-12.971399,-38.501305,1.56
+Soja,Bebida,807,160,2024-12-27,Patrícia,Porto Alegre,-30.034647,-51.217658,2.33
+Trigo,Bebida,863,863,2024-12-28,Fernanda,Fortaleza,-3.71722,-38.5434,1.42
+Soja,Fibra,965,271,2024-12-29,Ana,Curitiba,-25.428954,-49.267137,2.33
+Algodão,Cereal,717,99,2024-12-30,Fernanda,Curitiba,-25.428954,-49.267137,17.68
+Cana-de-açúcar,Cereal,431,456,2024-12-31,Maria,Fortaleza,-3.71722,-38.5434,1.28
+Trigo,Bebida,650,120,2025-01-01,Maria,Recife,-8.04756,-34.877,1.42
+Trigo,Bebida,974,974,2025-01-02,Carlos,São Paulo,-23.55052,-46.633308,1.42
+Soja,Fibra,222,272,2025-01-03,Ana,Manaus,-3.10194,-60.025,2.33
+Algodão,Bebida,11,373,2025-01-04,Patrícia,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Fibra,899,147,2025-01-05,Maria,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Bebida,49,69,2025-01-06,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Milho,Fibra,758,143,2025-01-07,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.09
+Trigo,Fibra,214,414,2025-01-08,Fernanda,São Paulo,-23.55052,-46.633308,1.42
+Soja,Fibra,147,137,2025-01-09,Carlos,Manaus,-3.10194,-60.025,2.33
+Café,Grão,66,292,2025-01-10,Desconhecido,Brasília,-15.794229,-47.882166,38.57
+Milho,Grão,814,162,2025-01-11,João,Manaus,-3.10194,-60.025,1.09
+Cana-de-açúcar,Grão,682,460,2025-01-12,Pedro,Fortaleza,-3.71722,-38.5434,1.28
+Cana-de-açúcar,Grão,918,1,2025-01-13,Fernanda,Brasília,-15.794229,-47.882166,1.28
+Milho,Fibra,636,311,2025-01-14,Maria,Salvador,-12.971399,-38.501305,1.09
+Café,Grão,423,17,2025-01-15,Ricardo,Porto Alegre,-30.034647,-51.217658,38.57
+Arroz,Cereal,732,498,2025-01-16,Carlos,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Grão,656,656,2025-01-17,Ana,Porto Alegre,-30.034647,-51.217658,2.33
+Milho,Cereal,479,132,2025-01-18,Ana,São Paulo,-23.55052,-46.633308,1.09
+Cana-de-açúcar,Bebida,448,184,2025-01-19,Pedro,Brasília,-15.794229,-47.882166,1.28
+Arroz,Fibra,352,208,2025-01-20,Fernanda,Manaus,-3.10194,-60.025,1.56
+Soja,Grão,64,64,2025-01-21,Patrícia,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Fibra,250,112,2025-01-22,Ricardo,Porto Alegre,-30.034647,-51.217658,1.28
+Algodão,Fibra,865,68,2025-01-23,Pedro,Porto Alegre,-30.034647,-51.217658,17.68
+Café,Grão,471,123,2025-01-24,Ana,Manaus,-3.10194,-60.025,38.57
+Milho,Grão,190,400,2025-01-25,Ricardo,Fortaleza,-3.71722,-38.5434,1.09
+Arroz,Bebida,101,101,2025-01-26,Carlos,Fortaleza,-3.71722,-38.5434,1.56
+Café,Bebida,567,420,2025-01-27,Pedro,Brasília,-15.794229,-47.882166,38.57
+Arroz,Cereal,212,2,2025-01-28,Pedro,Salvador,-12.971399,-38.501305,1.56
+Café,Bebida,51,260,2025-01-29,Pedro,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Fibra,677,677,2025-01-30,Carlos,Belo Horizonte,-19.924502,-43.935237,2.33
+Cana-de-açúcar,Bebida,993,75,2025-01-31,João,Curitiba,-25.428954,-49.267137,1.28
+Algodão,Grão,812,187,2025-02-01,Ricardo,Recife,-8.04756,-34.877,17.68
+Soja,Bebida,947,199,2025-02-02,João,Belo Horizonte,-19.924502,-43.935237,2.33
+Algodão,Fibra,397,66,2025-02-03,Fernanda,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Bebida,134,182,2025-02-04,Carlos,Curitiba,-25.428954,-49.267137,1.42
+Café,Cereal,916,460,2025-02-05,Fernanda,Manaus,-3.10194,-60.025,38.57
+Trigo,Cereal,267,267,2025-02-06,Ana,Salvador,-12.971399,-38.501305,1.42
+Milho,Grão,318,239,2025-02-07,Carlos,Curitiba,-25.428954,-49.267137,1.09
+Cana-de-açúcar,Cereal,460,130,2025-02-08,Ricardo,São Paulo,-23.55052,-46.633308,1.28
+Trigo,Bebida,355,355,2025-02-09,Maria,Brasília,-15.794229,-47.882166,1.42
+Café,Grão,625,29,2025-02-10,João,Belo Horizonte,-19.924502,-43.935237,38.57
+Café,Bebida,433,429,2025-02-11,Desconhecido,Manaus,-3.10194,-60.025,38.57
+Algodão,Grão,899,466,2025-02-12,João,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Grão,629,326,2025-02-13,Ana,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Bebida,661,381,2025-02-14,Carlos,Manaus,-3.10194,-60.025,1.28
+Milho,Grão,61,252,2025-02-15,Patrícia,Curitiba,-25.428954,-49.267137,1.09
+Milho,Bebida,120,120,2025-02-16,Fernanda,Manaus,-3.10194,-60.025,1.09
+Algodão,Cereal,96,230,2025-02-17,João,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Grão,124,310,2025-02-18,Patrícia,Curitiba,-25.428954,-49.267137,17.68
+Soja,Grão,20,116,2025-02-19,Ricardo,Recife,-8.04756,-34.877,2.33
+Arroz,Fibra,670,178,2025-02-20,Ana,São Paulo,-23.55052,-46.633308,1.56
+Trigo,Grão,904,394,2025-02-21,Desconhecido,Brasília,-15.794229,-47.882166,1.42
+Arroz,Fibra,935,490,2025-02-21,Maria,Brasília,-15.794229,-47.882166,1.56
+Café,Cereal,314,314,2025-02-23,Patrícia,Curitiba,-25.428954,-49.267137,38.57
+Soja,Fibra,781,464,2025-02-24,Maria,Manaus,-3.10194,-60.025,2.33
+Café,Bebida,680,441,2025-02-25,Ricardo,Fortaleza,-3.71722,-38.5434,38.57
+Trigo,Cereal,263,257,2025-02-26,Pedro,São Paulo,-23.55052,-46.633308,1.42
+Trigo,Cereal,929,72,2025-02-27,Ana,Brasília,-15.794229,-47.882166,1.42
+Trigo,Grão,258,1,2025-02-28,Fernanda,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Bebida,25,318,2025-03-01,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Fibra,888,484,2025-03-02,Pedro,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Fibra,96,77,2025-03-03,Fernanda,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Fibra,495,495,2025-03-04,João,Recife,-8.04756,-34.877,17.68
+Arroz,Bebida,938,35,2025-03-05,Pedro,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Grão,964,327,2025-03-05,Maria,Porto Alegre,-30.034647,-51.217658,2.33
+Soja,Grão,951,215,2025-03-07,Fernanda,São Paulo,-23.55052,-46.633308,2.33
+Café,Cereal,334,334,2025-03-08,Patrícia,Curitiba,-25.428954,-49.267137,38.57
+Arroz,Grão,239,199,2025-03-09,Patrícia,São Paulo,-23.55052,-46.633308,1.56
+Trigo,Grão,44,44,2025-03-10,Carlos,Fortaleza,-3.71722,-38.5434,1.42
+Milho,Cereal,5,133,2025-03-11,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.09
+Milho,Cereal,962,418,2025-03-12,Maria,Manaus,-3.10194,-60.025,1.09
+Trigo,Fibra,877,877,2025-03-13,Ricardo,Recife,-8.04756,-34.877,1.42
+Soja,Cereal,167,478,2025-03-14,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Café,Cereal,139,66,2025-03-15,Fernanda,Recife,-8.04756,-34.877,38.57
+Milho,Grão,622,82,2025-03-16,Ricardo,Belo Horizonte,-19.924502,-43.935237,1.09
+Arroz,Grão,485,47,2025-03-17,Carlos,Brasília,-15.794229,-47.882166,1.56
+Trigo,Bebida,424,24,2025-03-18,Maria,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Grão,657,284,2025-03-19,Maria,Belo Horizonte,-19.924502,-43.935237,1.42
+Trigo,Cereal,425,272,2025-03-20,Ricardo,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Fibra,471,140,2025-03-21,Carlos,São Paulo,-23.55052,-46.633308,17.68
+Café,Fibra,218,218,2025-03-22,Maria,Rio de Janeiro,-22.906847,-43.172896,38.57
+Cana-de-açúcar,Grão,754,458,2025-03-23,Pedro,Fortaleza,-3.71722,-38.5434,1.28
+Café,Grão,799,232,2025-03-24,João,Curitiba,-25.428954,-49.267137,38.57
+Cana-de-açúcar,Fibra,737,85,2025-03-25,Maria,Belo Horizonte,-19.924502,-43.935237,1.28
+Café,Fibra,720,167,2025-03-26,Patrícia,Rio de Janeiro,-22.906847,-43.172896,38.57
+Soja,Fibra,708,110,2025-03-27,Ricardo,Curitiba,-25.428954,-49.267137,2.33
+Soja,Bebida,637,40,2025-03-28,Maria,Brasília,-15.794229,-47.882166,2.33
+Algodão,Cereal,53,419,2025-03-29,João,Manaus,-3.10194,-60.025,17.68
+Café,Grão,792,262,2025-03-30,Pedro,Porto Alegre,-30.034647,-51.217658,38.57
+Algodão,Bebida,857,415,2025-03-31,Carlos,Rio de Janeiro,-22.906847,-43.172896,17.68
+Milho,Fibra,104,402,2025-04-01,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.09
+Cana-de-açúcar,Fibra,258,226,2025-04-02,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.28
+Milho,Fibra,808,467,2025-04-03,Carlos,Recife,-8.04756,-34.877,1.09
+Café,Grão,420,251,2025-04-04,Desconhecido,Belo Horizonte,-19.924502,-43.935237,38.57
+Milho,Cereal,782,311,2025-04-05,Ana,Salvador,-12.971399,-38.501305,1.09
+Algodão,Bebida,651,50,2025-04-06,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,17.68
+Cana-de-açúcar,Fibra,31,317,2025-04-07,Maria,Rio de Janeiro,-22.906847,-43.172896,1.28
+Arroz,Fibra,139,73,2025-04-08,Carlos,Brasília,-15.794229,-47.882166,1.56
+Soja,Cereal,34,417,2025-04-09,Fernanda,São Paulo,-23.55052,-46.633308,2.33
+Arroz,Cereal,870,283,2025-04-10,Pedro,Belo Horizonte,-19.924502,-43.935237,1.56
+Trigo,Bebida,238,70,2025-04-11,Pedro,Belo Horizonte,-19.924502,-43.935237,1.42
+Algodão,Grão,184,307,2025-04-12,João,Curitiba,-25.428954,-49.267137,17.68
+Soja,Grão,839,134,2025-04-13,Ana,Salvador,-12.971399,-38.501305,2.33
+Milho,Grão,608,395,2025-04-14,Ana,Recife,-8.04756,-34.877,1.09
+Soja,Cereal,3,163,2025-04-15,João,Porto Alegre,-30.034647,-51.217658,2.33
+Algodão,Bebida,955,316,2025-04-16,João,Fortaleza,-3.71722,-38.5434,17.68
+Café,Grão,288,490,2025-04-17,Patrícia,Belo Horizonte,-19.924502,-43.935237,38.57
+Cana-de-açúcar,Fibra,688,184,2025-04-18,Pedro,Porto Alegre,-30.034647,-51.217658,1.28
+Algodão,Fibra,237,328,2025-04-19,Fernanda,Salvador,-12.971399,-38.501305,17.68
+Milho,Fibra,836,473,2025-04-20,João,Brasília,-15.794229,-47.882166,1.09
+Algodão,Cereal,974,36,2025-04-21,Ana,Porto Alegre,-30.034647,-51.217658,17.68
+Algodão,Grão,524,182,2025-04-22,Pedro,São Paulo,-23.55052,-46.633308,17.68
+Algodão,Grão,21,187,2025-04-23,Ana,Porto Alegre,-30.034647,-51.217658,17.68
+Trigo,Grão,105,158,2025-04-24,Fernanda,Salvador,-12.971399,-38.501305,1.42
+Soja,Bebida,259,219,2025-04-25,Pedro,Curitiba,-25.428954,-49.267137,2.33
+Arroz,Fibra,111,111,2025-04-26,Patrícia,Fortaleza,-3.71722,-38.5434,1.56
+Soja,Bebida,281,39,2025-04-27,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Cana-de-açúcar,Grão,265,140,2025-04-28,Ana,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Cereal,29,212,2025-04-29,Fernanda,Brasília,-15.794229,-47.882166,38.57
+Algodão,Cereal,480,179,2025-04-30,Fernanda,Salvador,-12.971399,-38.501305,17.68
+Trigo,Grão,569,569,2025-05-01,Fernanda,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Bebida,238,399,2025-05-02,Maria,Curitiba,-25.428954,-49.267137,1.28
+Arroz,Fibra,562,142,2025-05-03,Ricardo,Recife,-8.04756,-34.877,1.56
+Algodão,Cereal,354,58,2025-05-04,Ana,Recife,-8.04756,-34.877,17.68
+Trigo,Cereal,211,211,2025-05-05,Fernanda,Manaus,-3.10194,-60.025,1.42
+Trigo,Fibra,228,383,2025-05-06,Ricardo,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Cereal,657,279,2025-05-07,Pedro,Salvador,-12.971399,-38.501305,1.28
+Café,Bebida,761,85,2025-05-08,Pedro,Recife,-8.04756,-34.877,38.57
+Arroz,Cereal,196,287,2025-05-09,Maria,Brasília,-15.794229,-47.882166,1.56
+Milho,Bebida,834,296,2025-05-10,Fernanda,São Paulo,-23.55052,-46.633308,1.09
+Algodão,Grão,69,480,2025-05-11,Desconhecido,Manaus,-3.10194,-60.025,17.68
+Café,Grão,995,266,2025-05-12,Patrícia,Recife,-8.04756,-34.877,38.57
+Milho,Fibra,288,258,2025-05-13,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.09
+Cana-de-açúcar,Grão,48,377,2025-05-14,João,Salvador,-12.971399,-38.501305,1.28
+Milho,Grão,484,484,2025-05-15,Pedro,Curitiba,-25.428954,-49.267137,1.09
+Milho,Fibra,597,96,2025-05-16,Maria,Salvador,-12.971399,-38.501305,1.09
+Trigo,Fibra,638,21,2025-05-17,Ricardo,Salvador,-12.971399,-38.501305,1.42
+Cana-de-açúcar,Cereal,106,106,2025-05-18,Ana,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Bebida,883,240,2025-05-19,Fernanda,Recife,-8.04756,-34.877,17.68
+Arroz,Fibra,358,28,2025-05-20,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Cereal,158,158,2025-05-21,Ricardo,São Paulo,-23.55052,-46.633308,38.57
+Cana-de-açúcar,Cereal,892,380,2025-05-22,Carlos,Curitiba,-25.428954,-49.267137,1.28
+Milho,Bebida,67,121,2025-05-23,Carlos,Curitiba,-25.428954,-49.267137,1.09
+Trigo,Bebida,459,39,2025-05-24,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Trigo,Cereal,612,207,2025-05-25,João,Recife,-8.04756,-34.877,1.42
+Cana-de-açúcar,Cereal,576,18,2025-05-26,João,Rio de Janeiro,-22.906847,-43.172896,1.28
+Trigo,Fibra,522,400,2025-05-27,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Algodão,Grão,331,364,2025-05-28,Pedro,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Cereal,140,20,2025-05-29,Patrícia,Manaus,-3.10194,-60.025,1.42
+Soja,Bebida,988,76,2025-05-30,Ana,Brasília,-15.794229,-47.882166,2.33
+Soja,Cereal,866,154,2025-05-31,João,Fortaleza,-3.71722,-38.5434,2.33
+Milho,Fibra,443,443,2025-06-01,João,São Paulo,-23.55052,-46.633308,1.09
+Algodão,Bebida,462,424,2025-06-02,João,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Fibra,85,175,2025-06-03,Patrícia,Manaus,-3.10194,-60.025,17.68
+Milho,Fibra,811,42,2025-06-04,Ricardo,Curitiba,-25.428954,-49.267137,1.09
+Cana-de-açúcar,Grão,225,423,2025-06-05,João,Brasília,-15.794229,-47.882166,1.28
+Café,Fibra,693,693,2025-06-06,Maria,Rio de Janeiro,-22.906847,-43.172896,38.57
+Arroz,Cereal,446,273,2025-06-07,Ana,Fortaleza,-3.71722,-38.5434,1.56
+Cana-de-açúcar,Grão,25,161,2025-06-08,Maria,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Bebida,498,348,2025-06-09,Ana,Salvador,-12.971399,-38.501305,1.42
+Milho,Grão,556,230,2025-06-10,João,Curitiba,-25.428954,-49.267137,1.09
+Algodão,Fibra,869,384,2025-06-11,Fernanda,São Paulo,-23.55052,-46.633308,17.68
+Café,Bebida,10,145,2025-06-12,João,Brasília,-15.794229,-47.882166,38.57
+Cana-de-açúcar,Grão,323,265,2025-06-13,Ricardo,São Paulo,-23.55052,-46.633308,1.28
+Cana-de-açúcar,Bebida,370,233,2025-06-14,Carlos,Manaus,-3.10194,-60.025,1.28
+Milho,Bebida,348,144,2025-06-15,Desconhecido,Salvador,-12.971399,-38.501305,1.09
+Algodão,Grão,647,91,2025-06-16,Maria,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Bebida,356,146,2025-06-17,Patrícia,Salvador,-12.971399,-38.501305,1.42
+Cana-de-açúcar,Bebida,100,373,2025-06-18,Ricardo,Fortaleza,-3.71722,-38.5434,1.28
+Trigo,Bebida,560,10,2025-06-19,Patrícia,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Grão,914,110,2025-06-20,João,Manaus,-3.10194,-60.025,1.42
+Café,Cereal,386,191,2025-06-21,Ana,Porto Alegre,-30.034647,-51.217658,38.57
+Milho,Fibra,451,451,2025-06-22,Pedro,Manaus,-3.10194,-60.025,1.09
+Cana-de-açúcar,Grão,988,244,2025-06-23,Maria,Fortaleza,-3.71722,-38.5434,1.28
+Trigo,Cereal,815,417,2025-06-24,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Algodão,Cereal,897,332,2025-06-25,Ricardo,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Grão,88,321,2025-06-26,Ana,Porto Alegre,-30.034647,-51.217658,17.68
+Trigo,Grão,704,22,2025-06-27,Ana,Manaus,-3.10194,-60.025,1.42
+Trigo,Bebida,617,86,2025-06-28,João,Manaus,-3.10194,-60.025,1.42
+Milho,Bebida,982,194,2025-06-29,Fernanda,Salvador,-12.971399,-38.501305,1.09
+Trigo,Fibra,867,246,2025-06-30,Ana,Curitiba,-25.428954,-49.267137,1.42
+Café,Fibra,199,199,2025-07-01,Ricardo,Salvador,-12.971399,-38.501305,38.57
+Cana-de-açúcar,Bebida,869,444,2025-07-02,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Fibra,52,160,2025-07-03,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Café,Fibra,156,35,2025-07-04,Carlos,Salvador,-12.971399,-38.501305,38.57
+Arroz,Bebida,697,211,2025-07-05,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.56
+Cana-de-açúcar,Fibra,810,75,2025-07-06,Ricardo,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Fibra,258,52,2025-07-07,Fernanda,Recife,-8.04756,-34.877,1.42
+Trigo,Grão,346,372,2025-07-08,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Bebida,728,184,2025-07-09,Ricardo,Manaus,-3.10194,-60.025,1.28
+Algodão,Grão,100,372,2025-07-10,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Soja,Fibra,295,392,2025-07-11,Ana,Curitiba,-25.428954,-49.267137,2.33
+Cana-de-açúcar,Bebida,998,998,2025-07-12,Maria,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Bebida,204,80,2025-07-13,João,Recife,-8.04756,-34.877,17.68
+Milho,Grão,206,110,2025-07-14,João,Rio de Janeiro,-22.906847,-43.172896,1.09
+Arroz,Cereal,829,422,2025-07-15,Patrícia,Recife,-8.04756,-34.877,1.56
+Soja,Fibra,420,420,2025-07-16,Ricardo,Brasília,-15.794229,-47.882166,2.33
+Soja,Grão,341,93,2025-07-17,Ricardo,Salvador,-12.971399,-38.501305,2.33
+Trigo,Grão,618,234,2025-07-18,João,Porto Alegre,-30.034647,-51.217658,1.42
+Soja,Cereal,178,279,2025-07-19,Patrícia,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Grão,599,305,2025-07-20,João,Recife,-8.04756,-34.877,1.56
+Milho,Bebida,191,191,2025-07-21,Patrícia,Fortaleza,-3.71722,-38.5434,1.09
+Algodão,Cereal,859,484,2025-07-22,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Algodão,Fibra,249,15,2025-07-23,Pedro,Manaus,-3.10194,-60.025,17.68
+Cana-de-açúcar,Cereal,23,408,2025-07-24,Pedro,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Cereal,200,395,2025-07-25,Desconhecido,Brasília,-15.794229,-47.882166,1.42
+Soja,Fibra,58,79,2025-07-26,Ana,Recife,-8.04756,-34.877,2.33
+Arroz,Bebida,24,127,2025-07-27,Maria,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Grão,59,241,2025-07-28,Patrícia,Brasília,-15.794229,-47.882166,1.28
+Café,Bebida,257,417,2025-07-29,Maria,Rio de Janeiro,-22.906847,-43.172896,38.57
+Soja,Bebida,881,142,2025-07-30,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Café,Fibra,702,357,2025-07-31,Pedro,Brasília,-15.794229,-47.882166,38.57
+Arroz,Cereal,606,94,2025-08-01,Maria,São Paulo,-23.55052,-46.633308,1.56
+Milho,Bebida,314,314,2025-08-02,Desconhecido,Salvador,-12.971399,-38.501305,1.09
+Cana-de-açúcar,Bebida,953,478,2025-08-03,Fernanda,Fortaleza,-3.71722,-38.5434,1.28
+Trigo,Grão,474,122,2025-08-04,Carlos,Salvador,-12.971399,-38.501305,1.42
+Algodão,Cereal,678,294,2025-08-05,Patrícia,Salvador,-12.971399,-38.501305,17.68
+Arroz,Bebida,72,72,2025-08-06,João,São Paulo,-23.55052,-46.633308,1.56
+Milho,Grão,315,315,2025-08-07,Ana,Recife,-8.04756,-34.877,1.09
+Milho,Bebida,527,141,2025-08-08,Patrícia,Recife,-8.04756,-34.877,1.09
+Café,Cereal,956,130,2025-08-09,Ana,Salvador,-12.971399,-38.501305,38.57
+Soja,Cereal,383,383,2025-08-10,Desconhecido,São Paulo,-23.55052,-46.633308,2.33
+Soja,Fibra,992,215,2025-08-11,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Soja,Grão,381,87,2025-08-12,Fernanda,Porto Alegre,-30.034647,-51.217658,2.33
+Café,Grão,102,269,2025-08-13,Patrícia,Salvador,-12.971399,-38.501305,38.57
+Milho,Fibra,289,210,2025-08-14,Maria,Brasília,-15.794229,-47.882166,1.09
+Trigo,Cereal,694,128,2025-08-15,João,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Grão,154,154,2025-08-16,Fernanda,Manaus,-3.10194,-60.025,1.42
+Milho,Bebida,21,449,2025-08-17,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Algodão,Bebida,286,486,2025-08-18,Patrícia,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Fibra,472,438,2025-08-19,Pedro,Porto Alegre,-30.034647,-51.217658,17.68
+Soja,Cereal,250,220,2025-08-20,Fernanda,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Fibra,636,110,2025-08-21,Ricardo,Curitiba,-25.428954,-49.267137,1.56
+Café,Grão,795,260,2025-08-22,Patrícia,Brasília,-15.794229,-47.882166,38.57
+Soja,Cereal,585,75,2025-08-23,Desconhecido,Brasília,-15.794229,-47.882166,2.33
+Arroz,Grão,365,228,2025-08-24,Carlos,Salvador,-12.971399,-38.501305,1.56
+Cana-de-açúcar,Fibra,367,294,2025-08-25,Pedro,Manaus,-3.10194,-60.025,1.28
+Trigo,Bebida,559,287,2025-08-26,João,São Paulo,-23.55052,-46.633308,1.42
+Café,Fibra,626,256,2025-08-27,Pedro,Rio de Janeiro,-22.906847,-43.172896,38.57
+Algodão,Bebida,156,315,2025-08-28,Pedro,São Paulo,-23.55052,-46.633308,17.68
+Soja,Cereal,299,299,2025-08-29,Ana,Curitiba,-25.428954,-49.267137,2.33
+Milho,Grão,999,137,2025-08-30,Carlos,Curitiba,-25.428954,-49.267137,1.09
+Cana-de-açúcar,Cereal,330,86,2025-08-31,João,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Bebida,774,240,2025-09-01,Maria,Manaus,-3.10194,-60.025,1.28
+Algodão,Grão,619,619,2025-09-02,Patrícia,Manaus,-3.10194,-60.025,17.68
+Trigo,Bebida,855,462,2025-09-03,Carlos,Porto Alegre,-30.034647,-51.217658,1.42
+Milho,Cereal,453,220,2025-09-04,Ricardo,Curitiba,-25.428954,-49.267137,1.09
+Milho,Bebida,927,2,2025-09-05,Ana,Recife,-8.04756,-34.877,1.09
+Algodão,Grão,16,412,2025-09-06,Fernanda,Recife,-8.04756,-34.877,17.68
+Milho,Fibra,197,326,2025-09-07,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.09
+Algodão,Cereal,423,205,2025-09-08,Fernanda,Porto Alegre,-30.034647,-51.217658,17.68
+Café,Bebida,125,458,2025-09-09,Pedro,Curitiba,-25.428954,-49.267137,38.57
+Arroz,Grão,966,481,2025-09-10,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Soja,Cereal,472,384,2025-09-11,Ricardo,Salvador,-12.971399,-38.501305,2.33
+Algodão,Bebida,498,498,2025-09-12,Ricardo,Salvador,-12.971399,-38.501305,17.68
+Café,Grão,575,13,2025-09-13,Ricardo,Porto Alegre,-30.034647,-51.217658,38.57
+Milho,Cereal,75,107,2025-09-14,Patrícia,Manaus,-3.10194,-60.025,1.09
+Milho,Grão,270,300,2025-09-15,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Cana-de-açúcar,Grão,850,429,2025-09-16,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Bebida,167,167,2025-09-17,Pedro,Fortaleza,-3.71722,-38.5434,38.57
+Cana-de-açúcar,Bebida,190,190,2025-09-18,Maria,Manaus,-3.10194,-60.025,1.28
+Soja,Fibra,158,158,2025-09-19,Ricardo,Curitiba,-25.428954,-49.267137,2.33
+Algodão,Grão,850,302,2025-09-20,Ricardo,Rio de Janeiro,-22.906847,-43.172896,17.68
+Milho,Cereal,314,314,2025-09-21,Maria,São Paulo,-23.55052,-46.633308,1.09
+Milho,Fibra,921,332,2025-09-22,Fernanda,Brasília,-15.794229,-47.882166,1.09
+Algodão,Fibra,954,394,2025-09-23,Pedro,Manaus,-3.10194,-60.025,17.68
+Milho,Cereal,432,171,2025-09-24,Pedro,Brasília,-15.794229,-47.882166,1.09
+Café,Fibra,927,472,2025-09-25,Fernanda,Salvador,-12.971399,-38.501305,38.57
+Algodão,Cereal,60,60,2025-09-26,João,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Grão,20,343,2025-09-27,João,Manaus,-3.10194,-60.025,1.56
+Algodão,Bebida,447,141,2025-09-28,Carlos,Salvador,-12.971399,-38.501305,17.68
+Algodão,Bebida,449,161,2025-09-29,Fernanda,Recife,-8.04756,-34.877,17.68
+Milho,Grão,630,215,2025-09-30,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Algodão,Fibra,540,108,2025-10-01,Maria,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Bebida,468,72,2025-10-02,Patrícia,Brasília,-15.794229,-47.882166,1.42
+Soja,Bebida,256,112,2025-10-03,Pedro,Brasília,-15.794229,-47.882166,2.33
+Arroz,Fibra,508,235,2025-10-04,Maria,Rio de Janeiro,-22.906847,-43.172896,1.56
+Cana-de-açúcar,Bebida,719,29,2025-10-05,Maria,Recife,-8.04756,-34.877,1.28
+Soja,Fibra,320,320,2025-10-06,Patrícia,Fortaleza,-3.71722,-38.5434,2.33
+Café,Fibra,690,123,2025-10-07,Ricardo,Manaus,-3.10194,-60.025,38.57
+Soja,Cereal,945,423,2025-10-08,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Soja,Fibra,764,297,2025-10-09,Fernanda,Curitiba,-25.428954,-49.267137,2.33
+Soja,Cereal,237,259,2025-10-10,Fernanda,Curitiba,-25.428954,-49.267137,2.33
+Soja,Cereal,178,178,2025-10-11,Maria,Brasília,-15.794229,-47.882166,2.33
+Cana-de-açúcar,Cereal,446,195,2025-10-12,Ricardo,Brasília,-15.794229,-47.882166,1.28
+Café,Grão,814,474,2025-10-13,Pedro,Salvador,-12.971399,-38.501305,38.57
+Café,Fibra,383,383,2025-10-14,Carlos,Manaus,-3.10194,-60.025,38.57
+Trigo,Grão,989,989,2025-10-14,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Cana-de-açúcar,Fibra,341,341,2025-10-16,João,Belo Horizonte,-19.924502,-43.935237,1.28
+Milho,Cereal,845,429,2025-10-17,Maria,Salvador,-12.971399,-38.501305,1.09
+Trigo,Fibra,951,87,2025-10-18,Maria,Porto Alegre,-30.034647,-51.217658,1.42
+Soja,Grão,405,485,2025-10-19,Ana,Recife,-8.04756,-34.877,2.33
+Trigo,Grão,615,268,2025-10-20,Ana,Recife,-8.04756,-34.877,1.42
+Trigo,Bebida,616,74,2025-10-21,João,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Grão,515,457,2025-10-22,João,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Bebida,831,136,2025-10-23,João,São Paulo,-23.55052,-46.633308,1.42
+Soja,Bebida,139,139,2025-10-24,Maria,São Paulo,-23.55052,-46.633308,2.33
+Café,Fibra,971,461,2025-10-25,Ana,Rio de Janeiro,-22.906847,-43.172896,38.57
+Arroz,Bebida,58,125,2025-10-26,Fernanda,Recife,-8.04756,-34.877,1.56
+Arroz,Grão,710,66,2025-10-27,Ricardo,Porto Alegre,-30.034647,-51.217658,1.56
+Arroz,Bebida,616,175,2025-10-28,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.56
+Arroz,Bebida,305,146,2025-10-29,Fernanda,Recife,-8.04756,-34.877,1.56
+Algodão,Cereal,773,162,2025-10-30,Carlos,Brasília,-15.794229,-47.882166,17.68
+Cana-de-açúcar,Cereal,391,259,2025-10-31,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.28
+Trigo,Cereal,509,251,2025-11-01,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Cana-de-açúcar,Fibra,577,351,2025-11-02,Carlos,Recife,-8.04756,-34.877,1.28
+Trigo,Grão,844,844,2025-11-03,João,São Paulo,-23.55052,-46.633308,1.42
+Soja,Grão,419,165,2025-11-04,Ricardo,Fortaleza,-3.71722,-38.5434,2.33
+Arroz,Bebida,286,396,2025-11-05,Pedro,Recife,-8.04756,-34.877,1.56
+Milho,Fibra,9,324,2025-11-06,Carlos,Salvador,-12.971399,-38.501305,1.09
+Café,Fibra,901,291,2025-11-07,Carlos,Rio de Janeiro,-22.906847,-43.172896,38.57
+Soja,Bebida,381,241,2025-11-08,Ricardo,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Bebida,469,436,2025-11-09,Ana,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Grão,588,325,2025-11-10,João,Brasília,-15.794229,-47.882166,38.57
+Café,Cereal,785,464,2025-11-11,Carlos,Belo Horizonte,-19.924502,-43.935237,38.57
+Trigo,Cereal,450,443,2025-11-12,Ricardo,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Bebida,271,282,2025-11-13,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Algodão,Bebida,330,218,2025-11-14,Carlos,Belo Horizonte,-19.924502,-43.935237,17.68
+Café,Fibra,141,141,2025-11-15,João,Brasília,-15.794229,-47.882166,38.57
+Café,Bebida,570,128,2025-11-16,João,Salvador,-12.971399,-38.501305,38.57
+Algodão,Cereal,623,233,2025-11-17,Patrícia,Curitiba,-25.428954,-49.267137,17.68
+Milho,Bebida,890,14,2025-11-18,Fernanda,Recife,-8.04756,-34.877,1.09
+Café,Fibra,445,301,2025-11-19,Fernanda,Recife,-8.04756,-34.877,38.57
+Trigo,Bebida,397,397,2025-11-20,João,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Bebida,588,186,2025-11-21,Pedro,Curitiba,-25.428954,-49.267137,1.42
+Algodão,Cereal,817,103,2025-11-22,Fernanda,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Grão,134,343,2025-11-23,Ricardo,Curitiba,-25.428954,-49.267137,1.28
+Café,Bebida,516,22,2025-11-24,Fernanda,Brasília,-15.794229,-47.882166,38.57
+Soja,Cereal,458,4,2025-11-25,Fernanda,Porto Alegre,-30.034647,-51.217658,2.33
+Cana-de-açúcar,Cereal,429,36,2025-11-26,Ricardo,São Paulo,-23.55052,-46.633308,1.28
+Soja,Bebida,666,110,2025-11-27,Maria,Fortaleza,-3.71722,-38.5434,2.33
+Arroz,Fibra,371,371,2025-11-28,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Fibra,396,492,2025-11-29,Carlos,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Cereal,947,301,2025-11-30,Desconhecido,Fortaleza,-3.71722,-38.5434,17.68
+Cana-de-açúcar,Fibra,618,82,2025-12-01,Pedro,São Paulo,-23.55052,-46.633308,1.28
+Arroz,Fibra,332,395,2025-12-02,Fernanda,Brasília,-15.794229,-47.882166,1.56
+Trigo,Bebida,537,123,2025-12-03,Ricardo,Manaus,-3.10194,-60.025,1.42
+Café,Fibra,556,132,2025-12-04,Desconhecido,Brasília,-15.794229,-47.882166,38.57
+Arroz,Bebida,775,301,2025-12-05,Ricardo,São Paulo,-23.55052,-46.633308,1.56
+Trigo,Grão,315,440,2025-12-06,João,Rio de Janeiro,-22.906847,-43.172896,1.42
+Soja,Cereal,751,192,2025-12-07,Maria,Recife,-8.04756,-34.877,2.33
+Arroz,Cereal,49,240,2025-12-08,Ricardo,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Fibra,409,220,2025-12-09,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Grão,607,361,2025-12-10,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Fibra,670,125,2025-12-11,Patrícia,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Cereal,652,353,2025-12-12,Carlos,Recife,-8.04756,-34.877,17.68
+Algodão,Grão,437,150,2025-12-13,Fernanda,Manaus,-3.10194,-60.025,17.68
+Arroz,Fibra,627,383,2025-12-14,Pedro,São Paulo,-23.55052,-46.633308,1.56
+Café,Grão,107,76,2025-12-15,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Arroz,Cereal,766,36,2025-12-16,João,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Cereal,833,158,2025-12-17,Patrícia,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Cereal,797,460,2025-12-18,Ana,Rio de Janeiro,-22.906847,-43.172896,1.56
+Milho,Bebida,31,118,2025-12-19,Ana,Brasília,-15.794229,-47.882166,1.09
+Café,Bebida,398,66,2025-12-20,Maria,Brasília,-15.794229,-47.882166,38.57
+Soja,Fibra,622,345,2025-12-21,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Trigo,Fibra,548,410,2025-12-22,João,Manaus,-3.10194,-60.025,1.42
+Arroz,Bebida,671,671,2025-12-23,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Cereal,790,369,2025-12-24,Ricardo,Brasília,-15.794229,-47.882166,38.57
+Milho,Grão,991,39,2025-12-25,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.09
+Algodão,Fibra,250,27,2025-12-26,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Café,Bebida,612,17,2025-12-27,Maria,Salvador,-12.971399,-38.501305,38.57
+Soja,Cereal,341,472,2025-12-28,Patrícia,Recife,-8.04756,-34.877,2.33
+Cana-de-açúcar,Bebida,446,483,2025-12-29,Fernanda,São Paulo,-23.55052,-46.633308,1.28
+Milho,Fibra,618,414,2025-12-30,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.09
+Soja,Grão,397,20,2025-12-31,Ricardo,Belo Horizonte,-19.924502,-43.935237,2.33
+Milho,Fibra,283,374,2025-12-31,Ricardo,Brasília,-15.794229,-47.882166,1.09
+Arroz,Fibra,968,369,2026-01-02,Fernanda,Curitiba,-25.428954,-49.267137,1.56
+Cana-de-açúcar,Bebida,41,59,2026-01-03,João,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Bebida,643,643,2026-01-04,Carlos,São Paulo,-23.55052,-46.633308,38.57
+Cana-de-açúcar,Bebida,936,167,2026-01-05,Ricardo,Manaus,-3.10194,-60.025,1.28
+Soja,Grão,636,105,2026-01-06,Patrícia,Rio de Janeiro,-22.906847,-43.172896,2.33
+Algodão,Fibra,483,483,2026-01-07,Ana,Fortaleza,-3.71722,-38.5434,17.68
+Soja,Cereal,97,303,2026-01-08,Maria,Manaus,-3.10194,-60.025,2.33
+Trigo,Grão,261,129,2026-01-09,Fernanda,Curitiba,-25.428954,-49.267137,1.42
+Arroz,Grão,899,120,2026-01-10,Fernanda,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Bebida,49,109,2026-01-11,Ana,Curitiba,-25.428954,-49.267137,17.68
+Soja,Grão,578,245,2026-01-12,João,Manaus,-3.10194,-60.025,2.33
+Soja,Cereal,918,918,2026-01-13,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Trigo,Bebida,676,172,2026-01-14,Ricardo,Brasília,-15.794229,-47.882166,1.42
+Milho,Cereal,244,244,2026-01-15,Ricardo,Brasília,-15.794229,-47.882166,1.09
+Arroz,Bebida,848,848,2026-01-16,Maria,Salvador,-12.971399,-38.501305,1.56
+Milho,Bebida,666,129,2026-01-17,Pedro,Recife,-8.04756,-34.877,1.09
+Algodão,Fibra,40,60,2026-01-18,Ana,São Paulo,-23.55052,-46.633308,17.68
+Arroz,Grão,443,465,2026-01-19,Fernanda,Recife,-8.04756,-34.877,1.56
+Milho,Fibra,498,444,2026-01-20,Carlos,Brasília,-15.794229,-47.882166,1.09
+Trigo,Cereal,14,14,2026-01-21,Desconhecido,Manaus,-3.10194,-60.025,1.42
+Algodão,Fibra,816,319,2026-01-22,Maria,Manaus,-3.10194,-60.025,17.68
+Café,Fibra,799,339,2026-01-23,Ana,Rio de Janeiro,-22.906847,-43.172896,38.57
+Café,Bebida,24,258,2026-01-24,João,Brasília,-15.794229,-47.882166,38.57
+Trigo,Fibra,36,92,2026-01-25,Maria,Belo Horizonte,-19.924502,-43.935237,1.42
+Café,Bebida,182,266,2026-01-26,Maria,São Paulo,-23.55052,-46.633308,38.57
+Soja,Cereal,674,88,2026-01-27,Desconhecido,Belo Horizonte,-19.924502,-43.935237,2.33
+Cana-de-açúcar,Grão,823,408,2026-01-28,Ricardo,Fortaleza,-3.71722,-38.5434,1.28
+Café,Grão,76,76,2026-01-29,Desconhecido,Belo Horizonte,-19.924502,-43.935237,38.57
+Cana-de-açúcar,Fibra,896,131,2026-01-30,Pedro,Curitiba,-25.428954,-49.267137,1.28
+Café,Bebida,940,389,2026-01-31,Ana,Rio de Janeiro,-22.906847,-43.172896,38.57
+Milho,Cereal,825,260,2026-02-01,João,Recife,-8.04756,-34.877,1.09
+Cana-de-açúcar,Grão,102,471,2026-02-02,Ana,Porto Alegre,-30.034647,-51.217658,1.28
+Arroz,Cereal,673,198,2026-02-03,Pedro,Belo Horizonte,-19.924502,-43.935237,1.56
+Trigo,Fibra,160,378,2026-02-04,Carlos,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Bebida,691,691,2026-02-05,Pedro,Belo Horizonte,-19.924502,-43.935237,1.42
+Café,Grão,976,365,2026-02-06,Desconhecido,São Paulo,-23.55052,-46.633308,38.57
+Soja,Bebida,760,166,2026-02-07,Fernanda,Fortaleza,-3.71722,-38.5434,2.33
+Café,Grão,80,226,2026-02-08,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Milho,Bebida,991,338,2026-02-09,Patrícia,Fortaleza,-3.71722,-38.5434,1.09
+Arroz,Bebida,132,276,2026-02-10,Ana,Belo Horizonte,-19.924502,-43.935237,1.56
+Trigo,Bebida,619,412,2026-02-11,Desconhecido,Salvador,-12.971399,-38.501305,1.42
+Milho,Grão,756,8,2026-02-12,Patrícia,Fortaleza,-3.71722,-38.5434,1.09
+Algodão,Bebida,781,781,2026-02-13,Patrícia,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Fibra,439,310,2026-02-14,Maria,Rio de Janeiro,-22.906847,-43.172896,1.56
+Arroz,Cereal,200,314,2026-02-15,Carlos,São Paulo,-23.55052,-46.633308,1.56
+Soja,Grão,528,133,2026-02-16,Carlos,Manaus,-3.10194,-60.025,2.33
+Milho,Cereal,404,399,2026-02-17,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.09
+Algodão,Bebida,295,56,2026-02-18,Carlos,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Grão,719,430,2026-02-19,Maria,Recife,-8.04756,-34.877,1.42
+Trigo,Cereal,519,467,2026-02-20,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Trigo,Bebida,39,80,2026-02-21,Ana,Salvador,-12.971399,-38.501305,1.42
+Soja,Cereal,573,315,2026-02-22,Maria,Brasília,-15.794229,-47.882166,2.33
+Café,Fibra,324,324,2026-02-23,Patrícia,Salvador,-12.971399,-38.501305,38.57
+Soja,Bebida,119,403,2026-02-24,Ricardo,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Cereal,39,39,2026-02-25,Fernanda,Recife,-8.04756,-34.877,1.28
+Arroz,Fibra,401,408,2026-02-26,Carlos,Salvador,-12.971399,-38.501305,1.56
+Algodão,Bebida,572,117,2026-02-27,Pedro,Belo Horizonte,-19.924502,-43.935237,17.68
+Milho,Bebida,306,27,2026-02-28,Maria,Belo Horizonte,-19.924502,-43.935237,1.09
+Milho,Bebida,495,166,2026-03-01,João,São Paulo,-23.55052,-46.633308,1.09
+Algodão,Fibra,99,394,2026-03-02,Pedro,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Grão,978,265,2026-03-03,Fernanda,Manaus,-3.10194,-60.025,1.42
+Trigo,Grão,586,464,2026-03-04,João,Curitiba,-25.428954,-49.267137,1.42
+Café,Grão,308,96,2026-03-05,Carlos,Manaus,-3.10194,-60.025,38.57
+Milho,Cereal,65,65,2026-03-06,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.09
+Trigo,Fibra,208,229,2026-03-07,João,Curitiba,-25.428954,-49.267137,1.42
+Arroz,Grão,263,263,2026-03-08,Fernanda,São Paulo,-23.55052,-46.633308,1.56
+Café,Fibra,592,47,2026-03-09,Ricardo,Manaus,-3.10194,-60.025,38.57
+Arroz,Cereal,517,234,2026-03-10,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.56
+Arroz,Fibra,454,359,2026-03-11,Desconhecido,Salvador,-12.971399,-38.501305,1.56
+Milho,Bebida,114,383,2026-03-12,Carlos,Belo Horizonte,-19.924502,-43.935237,1.09
+Trigo,Bebida,760,219,2026-03-13,Fernanda,Manaus,-3.10194,-60.025,1.42
+Algodão,Cereal,90,193,2026-03-14,Ricardo,Curitiba,-25.428954,-49.267137,17.68
+Milho,Fibra,248,241,2026-03-15,Maria,Fortaleza,-3.71722,-38.5434,1.09
+Arroz,Grão,217,159,2026-03-16,Fernanda,Brasília,-15.794229,-47.882166,1.56
+Milho,Grão,895,128,2026-03-17,Ana,Brasília,-15.794229,-47.882166,1.09
+Soja,Bebida,316,75,2026-03-18,Ana,São Paulo,-23.55052,-46.633308,2.33
+Cana-de-açúcar,Grão,657,42,2026-03-19,Patrícia,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Grão,780,417,2026-03-20,Carlos,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Grão,129,129,2026-03-21,Patrícia,Recife,-8.04756,-34.877,17.68
+Trigo,Fibra,680,324,2026-03-22,Maria,São Paulo,-23.55052,-46.633308,1.42
+Cana-de-açúcar,Bebida,357,358,2026-03-23,Ricardo,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Fibra,35,76,2026-03-24,Pedro,Brasília,-15.794229,-47.882166,1.42
+Algodão,Grão,915,14,2026-03-25,Carlos,São Paulo,-23.55052,-46.633308,17.68
+Cana-de-açúcar,Fibra,622,275,2026-03-26,Desconhecido,São Paulo,-23.55052,-46.633308,1.28
+Cana-de-açúcar,Fibra,527,425,2026-03-27,Pedro,Manaus,-3.10194,-60.025,1.28
+Milho,Grão,754,106,2026-03-28,Desconhecido,Recife,-8.04756,-34.877,1.09
+Trigo,Cereal,235,31,2026-03-29,Maria,Fortaleza,-3.71722,-38.5434,1.42
+Milho,Cereal,862,114,2026-03-30,Carlos,Manaus,-3.10194,-60.025,1.09
+Algodão,Cereal,378,58,2026-03-31,Maria,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Cereal,331,264,2026-04-01,João,Salvador,-12.971399,-38.501305,1.28
+Milho,Fibra,693,210,2026-04-02,João,Belo Horizonte,-19.924502,-43.935237,1.09
+Cana-de-açúcar,Cereal,780,321,2026-04-03,Ana,Fortaleza,-3.71722,-38.5434,1.28
+Cana-de-açúcar,Bebida,404,457,2026-04-04,João,Porto Alegre,-30.034647,-51.217658,1.28
+Cana-de-açúcar,Bebida,686,148,2026-04-05,João,Manaus,-3.10194,-60.025,1.28
+Cana-de-açúcar,Cereal,143,21,2026-04-06,Ricardo,Porto Alegre,-30.034647,-51.217658,1.28
+Café,Fibra,158,284,2026-04-07,Maria,Belo Horizonte,-19.924502,-43.935237,38.57
+Milho,Bebida,262,403,2026-04-08,Ana,Rio de Janeiro,-22.906847,-43.172896,1.09
+Soja,Bebida,792,375,2026-04-09,João,São Paulo,-23.55052,-46.633308,2.33
+Milho,Bebida,379,132,2026-04-10,Ana,Brasília,-15.794229,-47.882166,1.09
+Cana-de-açúcar,Fibra,331,28,2026-04-11,Maria,Rio de Janeiro,-22.906847,-43.172896,1.28
+Milho,Cereal,139,308,2026-04-12,Ana,São Paulo,-23.55052,-46.633308,1.09
+Soja,Cereal,756,282,2026-04-13,Maria,Brasília,-15.794229,-47.882166,2.33
+Algodão,Fibra,164,29,2026-04-14,Patrícia,Brasília,-15.794229,-47.882166,17.68
+Soja,Fibra,336,226,2026-04-15,Maria,Fortaleza,-3.71722,-38.5434,2.33
+Algodão,Grão,376,234,2026-04-16,Ricardo,Manaus,-3.10194,-60.025,17.68
+Trigo,Cereal,323,323,2026-04-17,João,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Grão,365,258,2026-04-18,Maria,Salvador,-12.971399,-38.501305,1.28
+Arroz,Grão,132,77,2026-04-19,Ricardo,Brasília,-15.794229,-47.882166,1.56
+Cana-de-açúcar,Bebida,78,75,2026-04-20,Maria,Porto Alegre,-30.034647,-51.217658,1.28
+Arroz,Grão,262,258,2026-04-21,Maria,Curitiba,-25.428954,-49.267137,1.56
+Trigo,Cereal,276,220,2026-04-22,Maria,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Grão,115,115,2026-04-23,Fernanda,Salvador,-12.971399,-38.501305,17.68
+Trigo,Bebida,60,189,2026-04-24,Carlos,Curitiba,-25.428954,-49.267137,1.42
+Milho,Cereal,767,156,2026-04-25,João,Curitiba,-25.428954,-49.267137,1.09
+Algodão,Cereal,323,323,2026-04-26,Maria,Recife,-8.04756,-34.877,17.68
+Trigo,Fibra,386,327,2026-04-27,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Soja,Grão,318,318,2026-04-28,Ricardo,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Cereal,455,289,2026-04-29,João,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Bebida,371,371,2026-04-30,Ricardo,Manaus,-3.10194,-60.025,17.68
+Soja,Bebida,514,54,2026-05-01,Carlos,Porto Alegre,-30.034647,-51.217658,2.33
+Milho,Fibra,748,285,2026-05-02,Ricardo,Porto Alegre,-30.034647,-51.217658,1.09
+Cana-de-açúcar,Bebida,784,31,2026-05-03,Desconhecido,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Cereal,400,400,2026-05-04,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Arroz,Bebida,803,803,2026-05-05,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.56
+Soja,Grão,879,147,2026-05-06,Maria,São Paulo,-23.55052,-46.633308,2.33
+Café,Grão,88,347,2026-05-07,Maria,São Paulo,-23.55052,-46.633308,38.57
+Algodão,Cereal,319,118,2026-05-08,Fernanda,Brasília,-15.794229,-47.882166,17.68
+Trigo,Fibra,111,209,2026-05-09,Pedro,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Grão,367,367,2026-05-10,Desconhecido,Fortaleza,-3.71722,-38.5434,1.42
+Soja,Fibra,846,387,2026-05-11,Ricardo,Curitiba,-25.428954,-49.267137,2.33
+Cana-de-açúcar,Grão,200,200,2026-05-12,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Grão,128,128,2026-05-13,João,Salvador,-12.971399,-38.501305,1.28
+Arroz,Grão,928,406,2026-05-14,Fernanda,Recife,-8.04756,-34.877,1.56
+Arroz,Fibra,580,458,2026-05-15,Maria,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Fibra,103,389,2026-05-16,João,Fortaleza,-3.71722,-38.5434,38.57
+Cana-de-açúcar,Grão,205,249,2026-05-17,João,Rio de Janeiro,-22.906847,-43.172896,1.28
+Algodão,Cereal,434,435,2026-05-18,Maria,Recife,-8.04756,-34.877,17.68
+Algodão,Cereal,20,42,2026-05-19,Desconhecido,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Fibra,196,448,2026-05-20,Fernanda,Belo Horizonte,-19.924502,-43.935237,17.68
+Algodão,Grão,517,208,2026-05-21,João,Brasília,-15.794229,-47.882166,17.68
+Algodão,Bebida,242,16,2026-05-22,Maria,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Fibra,230,108,2026-05-23,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Arroz,Grão,235,385,2026-05-24,Patrícia,São Paulo,-23.55052,-46.633308,1.56
+Café,Fibra,26,435,2026-05-25,Fernanda,São Paulo,-23.55052,-46.633308,38.57
+Trigo,Grão,89,334,2026-05-26,Maria,Porto Alegre,-30.034647,-51.217658,1.42
+Milho,Grão,934,320,2026-05-27,Maria,Rio de Janeiro,-22.906847,-43.172896,1.09
+Soja,Grão,600,449,2026-05-28,João,Rio de Janeiro,-22.906847,-43.172896,2.33
+Café,Bebida,379,69,2026-05-29,Maria,Curitiba,-25.428954,-49.267137,38.57
+Cana-de-açúcar,Fibra,638,1,2026-05-30,Pedro,Brasília,-15.794229,-47.882166,1.28
+Soja,Grão,437,313,2026-05-31,Carlos,Rio de Janeiro,-22.906847,-43.172896,2.33
+Trigo,Grão,281,394,2026-06-01,Ana,Salvador,-12.971399,-38.501305,1.42
+Trigo,Cereal,52,235,2026-06-02,Patrícia,Porto Alegre,-30.034647,-51.217658,1.42
+Algodão,Bebida,45,425,2026-06-03,Pedro,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Grão,214,231,2026-06-04,João,Recife,-8.04756,-34.877,1.28
+Arroz,Grão,345,345,2026-06-05,Desconhecido,Recife,-8.04756,-34.877,1.56
+Milho,Fibra,855,272,2026-06-06,Ricardo,Fortaleza,-3.71722,-38.5434,1.09
+Soja,Bebida,724,248,2026-06-07,Fernanda,Salvador,-12.971399,-38.501305,2.33
+Milho,Fibra,496,70,2026-06-08,Fernanda,Curitiba,-25.428954,-49.267137,1.09
+Trigo,Grão,180,180,2026-06-09,Desconhecido,São Paulo,-23.55052,-46.633308,1.42
+Cana-de-açúcar,Grão,726,401,2026-06-10,João,Fortaleza,-3.71722,-38.5434,1.28
+Arroz,Bebida,769,40,2026-06-11,Ana,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Fibra,845,361,2026-06-12,Ricardo,Fortaleza,-3.71722,-38.5434,38.57
+Algodão,Bebida,894,894,2026-06-13,Pedro,Fortaleza,-3.71722,-38.5434,17.68
+Soja,Grão,872,367,2026-06-14,Ricardo,Belo Horizonte,-19.924502,-43.935237,2.33
+Milho,Cereal,89,165,2026-06-15,Patrícia,Recife,-8.04756,-34.877,1.09
+Algodão,Cereal,633,306,2026-06-16,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Bebida,337,238,2026-06-17,Maria,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Bebida,98,275,2026-06-18,João,Fortaleza,-3.71722,-38.5434,1.28
+Cana-de-açúcar,Cereal,801,83,2026-06-19,Fernanda,Salvador,-12.971399,-38.501305,1.28
+Arroz,Bebida,347,26,2026-06-20,Ricardo,Salvador,-12.971399,-38.501305,1.56
+Soja,Grão,873,12,2026-06-21,Desconhecido,Fortaleza,-3.71722,-38.5434,2.33
+Cana-de-açúcar,Bebida,451,10,2026-06-22,João,Belo Horizonte,-19.924502,-43.935237,1.28
+Trigo,Cereal,909,909,2026-06-23,Patrícia,Brasília,-15.794229,-47.882166,1.42
+Trigo,Cereal,653,38,2026-06-24,Desconhecido,Manaus,-3.10194,-60.025,1.42
+Arroz,Grão,722,239,2026-06-25,Pedro,São Paulo,-23.55052,-46.633308,1.56
+Trigo,Grão,504,229,2026-06-26,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.42
+Cana-de-açúcar,Bebida,954,37,2026-06-27,Fernanda,Curitiba,-25.428954,-49.267137,1.28
+Trigo,Grão,531,378,2026-06-28,Desconhecido,Curitiba,-25.428954,-49.267137,1.42
+Algodão,Bebida,162,162,2026-06-29,Pedro,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Fibra,691,203,2026-06-30,Pedro,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Bebida,511,459,2026-07-01,Pedro,Manaus,-3.10194,-60.025,1.28
+Cana-de-açúcar,Bebida,305,479,2026-07-02,Pedro,Belo Horizonte,-19.924502,-43.935237,1.28
+Trigo,Fibra,215,215,2026-07-03,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.42
+Café,Fibra,589,83,2026-07-04,Fernanda,Salvador,-12.971399,-38.501305,38.57
+Milho,Grão,244,216,2026-07-05,Ana,São Paulo,-23.55052,-46.633308,1.09
+Arroz,Cereal,16,396,2026-07-06,Maria,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Bebida,809,407,2026-07-07,Desconhecido,Fortaleza,-3.71722,-38.5434,2.33
+Cana-de-açúcar,Bebida,89,92,2026-07-08,João,Porto Alegre,-30.034647,-51.217658,1.28
+Café,Grão,976,7,2026-07-09,Ricardo,Fortaleza,-3.71722,-38.5434,38.57
+Milho,Cereal,923,299,2026-07-10,João,Belo Horizonte,-19.924502,-43.935237,1.09
+Café,Grão,749,24,2026-07-11,Patrícia,Manaus,-3.10194,-60.025,38.57
+Cana-de-açúcar,Cereal,609,264,2026-07-12,Maria,Rio de Janeiro,-22.906847,-43.172896,1.28
+Cana-de-açúcar,Fibra,939,299,2026-07-13,Desconhecido,Fortaleza,-3.71722,-38.5434,1.28
+Soja,Cereal,304,350,2026-07-14,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Café,Fibra,113,9,2026-07-15,Fernanda,Recife,-8.04756,-34.877,38.57
+Arroz,Grão,858,125,2026-07-16,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.56
+Milho,Bebida,307,320,2026-07-17,Ana,Manaus,-3.10194,-60.025,1.09
+Cana-de-açúcar,Grão,362,119,2026-07-18,Patrícia,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Grão,103,103,2026-07-19,Carlos,Brasília,-15.794229,-47.882166,17.68
+Algodão,Grão,530,530,2026-07-20,Ana,Recife,-8.04756,-34.877,17.68
+Soja,Grão,650,49,2026-07-21,Ricardo,Brasília,-15.794229,-47.882166,2.33
+Algodão,Grão,678,445,2026-07-22,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Bebida,339,439,2026-07-23,Fernanda,Brasília,-15.794229,-47.882166,1.42
+Arroz,Grão,620,270,2026-07-24,Ricardo,Salvador,-12.971399,-38.501305,1.56
+Milho,Bebida,469,469,2026-07-25,Pedro,Brasília,-15.794229,-47.882166,1.09
+Trigo,Grão,952,89,2026-07-26,Patrícia,Brasília,-15.794229,-47.882166,1.42
+Café,Fibra,894,463,2026-07-27,Pedro,Fortaleza,-3.71722,-38.5434,38.57
+Trigo,Grão,439,159,2026-07-28,Carlos,Fortaleza,-3.71722,-38.5434,1.42
+Arroz,Cereal,255,462,2026-07-29,Carlos,Belo Horizonte,-19.924502,-43.935237,1.56
+Milho,Fibra,937,238,2026-07-30,Pedro,Brasília,-15.794229,-47.882166,1.09
+Arroz,Cereal,57,215,2026-07-31,João,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Grão,583,113,2026-08-01,João,Recife,-8.04756,-34.877,2.33
+Milho,Fibra,97,332,2026-08-02,Fernanda,Curitiba,-25.428954,-49.267137,1.09
+Arroz,Fibra,688,412,2026-08-03,Fernanda,Curitiba,-25.428954,-49.267137,1.56
+Algodão,Cereal,577,314,2026-08-04,Maria,São Paulo,-23.55052,-46.633308,17.68
+Cana-de-açúcar,Fibra,133,108,2026-08-05,Maria,Manaus,-3.10194,-60.025,1.28
+Cana-de-açúcar,Cereal,610,610,2026-08-06,Carlos,Salvador,-12.971399,-38.501305,1.28
+Café,Cereal,105,200,2026-08-07,Ana,Fortaleza,-3.71722,-38.5434,38.57
+Milho,Bebida,494,471,2026-08-08,Pedro,Brasília,-15.794229,-47.882166,1.09
+Algodão,Fibra,264,246,2026-08-09,João,Fortaleza,-3.71722,-38.5434,17.68
+Milho,Fibra,627,338,2026-08-10,Desconhecido,Brasília,-15.794229,-47.882166,1.09
+Algodão,Grão,729,353,2026-08-11,Desconhecido,Salvador,-12.971399,-38.501305,17.68
+Soja,Fibra,217,56,2026-08-12,Fernanda,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Bebida,732,106,2026-08-13,Pedro,Fortaleza,-3.71722,-38.5434,1.56
+Milho,Cereal,535,288,2026-08-14,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.09
+Trigo,Cereal,814,302,2026-08-15,Carlos,Brasília,-15.794229,-47.882166,1.42
+Algodão,Fibra,362,499,2026-08-16,Fernanda,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Fibra,549,159,2026-08-17,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.42
+Soja,Cereal,607,105,2026-08-18,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Cana-de-açúcar,Bebida,772,383,2026-08-19,Fernanda,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Cereal,934,934,2026-08-20,Patrícia,Brasília,-15.794229,-47.882166,17.68
+Trigo,Grão,250,249,2026-08-21,Fernanda,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Fibra,250,250,2026-08-22,Carlos,Curitiba,-25.428954,-49.267137,1.28
+Café,Fibra,521,188,2026-08-23,Fernanda,Salvador,-12.971399,-38.501305,38.57
+Arroz,Bebida,47,237,2026-08-24,Fernanda,Curitiba,-25.428954,-49.267137,1.56
+Soja,Fibra,492,269,2026-08-25,Ricardo,Curitiba,-25.428954,-49.267137,2.33
+Soja,Cereal,66,66,2026-08-26,Maria,Manaus,-3.10194,-60.025,2.33
+Arroz,Grão,322,186,2026-08-27,Pedro,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Bebida,14,379,2026-08-28,Pedro,Fortaleza,-3.71722,-38.5434,2.33
+Soja,Bebida,193,193,2026-08-29,Patrícia,Curitiba,-25.428954,-49.267137,2.33
+Café,Grão,7,476,2026-08-30,Ana,Brasília,-15.794229,-47.882166,38.57
+Algodão,Cereal,924,253,2026-08-31,Ana,Curitiba,-25.428954,-49.267137,17.68
+Café,Grão,860,271,2026-09-01,Desconhecido,São Paulo,-23.55052,-46.633308,38.57
+Arroz,Grão,746,130,2026-09-02,Fernanda,Curitiba,-25.428954,-49.267137,1.56
+Milho,Cereal,745,481,2026-09-03,Patrícia,Porto Alegre,-30.034647,-51.217658,1.09
+Trigo,Cereal,248,248,2026-09-04,Carlos,Porto Alegre,-30.034647,-51.217658,1.42
+Cana-de-açúcar,Fibra,317,7,2026-09-05,Ricardo,Brasília,-15.794229,-47.882166,1.28
+Milho,Fibra,659,184,2026-09-06,Pedro,Recife,-8.04756,-34.877,1.09
+Algodão,Bebida,267,72,2026-09-07,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Cana-de-açúcar,Cereal,638,128,2026-09-08,Pedro,Belo Horizonte,-19.924502,-43.935237,1.28
+Soja,Fibra,292,292,2026-09-09,Maria,São Paulo,-23.55052,-46.633308,2.33
+Milho,Bebida,459,76,2026-09-10,Ana,São Paulo,-23.55052,-46.633308,1.09
+Milho,Grão,407,96,2026-09-11,Desconhecido,Salvador,-12.971399,-38.501305,1.09
+Café,Cereal,116,48,2026-09-12,Ana,Recife,-8.04756,-34.877,38.57
+Arroz,Fibra,944,76,2026-09-13,Desconhecido,Salvador,-12.971399,-38.501305,1.56
+Algodão,Cereal,871,292,2026-09-14,Fernanda,Recife,-8.04756,-34.877,17.68
+Café,Cereal,117,188,2026-09-15,Fernanda,Belo Horizonte,-19.924502,-43.935237,38.57
+Trigo,Fibra,335,335,2026-09-16,Fernanda,Manaus,-3.10194,-60.025,1.42
+Café,Fibra,275,275,2026-09-17,Fernanda,Fortaleza,-3.71722,-38.5434,38.57
+Café,Grão,371,362,2026-09-18,Fernanda,São Paulo,-23.55052,-46.633308,38.57
+Milho,Fibra,132,132,2026-09-19,Patrícia,Fortaleza,-3.71722,-38.5434,1.09
+Milho,Grão,314,314,2026-09-20,Ricardo,Belo Horizonte,-19.924502,-43.935237,1.09
+Trigo,Fibra,828,246,2026-09-21,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.42
+Milho,Fibra,918,260,2026-09-22,Ricardo,Belo Horizonte,-19.924502,-43.935237,1.09
+Trigo,Fibra,97,258,2026-09-23,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Milho,Bebida,728,206,2026-09-24,Ana,Rio de Janeiro,-22.906847,-43.172896,1.09
+Trigo,Fibra,565,565,2026-09-25,Patrícia,Curitiba,-25.428954,-49.267137,1.42
+Soja,Bebida,223,223,2026-09-26,Ricardo,Porto Alegre,-30.034647,-51.217658,2.33
+Milho,Cereal,243,200,2026-09-27,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.09
+Algodão,Cereal,405,313,2026-09-28,Maria,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Bebida,11,476,2026-09-29,Carlos,Manaus,-3.10194,-60.025,1.42
+Arroz,Bebida,663,336,2026-09-30,João,Porto Alegre,-30.034647,-51.217658,1.56
+Trigo,Cereal,203,152,2026-10-01,Pedro,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Grão,502,350,2026-10-02,Ricardo,Recife,-8.04756,-34.877,1.28
+Algodão,Fibra,357,146,2026-10-03,Fernanda,Curitiba,-25.428954,-49.267137,17.68
+Milho,Cereal,659,268,2026-10-04,Pedro,Salvador,-12.971399,-38.501305,1.09
+Milho,Grão,761,446,2026-10-05,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.09
+Soja,Fibra,63,342,2026-10-06,Carlos,Recife,-8.04756,-34.877,2.33
+Arroz,Grão,197,197,2026-10-07,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.56
+Trigo,Bebida,49,221,2026-10-08,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Café,Bebida,549,362,2026-10-09,Carlos,Curitiba,-25.428954,-49.267137,38.57
+Milho,Fibra,433,396,2026-10-10,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.09
+Soja,Grão,119,180,2026-10-11,Ricardo,Brasília,-15.794229,-47.882166,2.33
+Trigo,Fibra,68,107,2026-10-12,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.42
+Soja,Cereal,104,104,2026-10-13,Ricardo,São Paulo,-23.55052,-46.633308,2.33
+Café,Fibra,799,405,2026-10-14,Patrícia,Salvador,-12.971399,-38.501305,38.57
+Trigo,Bebida,322,431,2026-10-15,Ricardo,Manaus,-3.10194,-60.025,1.42
+Algodão,Bebida,301,121,2026-10-16,Maria,Curitiba,-25.428954,-49.267137,17.68
+Cana-de-açúcar,Grão,738,247,2026-10-17,Carlos,Brasília,-15.794229,-47.882166,1.28
+Soja,Bebida,309,403,2026-10-18,Carlos,São Paulo,-23.55052,-46.633308,2.33
+Algodão,Cereal,835,27,2026-10-19,Carlos,Recife,-8.04756,-34.877,17.68
+Café,Grão,24,197,2026-10-20,Carlos,São Paulo,-23.55052,-46.633308,38.57
+Algodão,Bebida,953,331,2026-10-21,Fernanda,Recife,-8.04756,-34.877,17.68
+Algodão,Cereal,300,276,2026-10-22,Maria,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Cereal,904,442,2026-10-23,Desconhecido,Porto Alegre,-30.034647,-51.217658,17.68
+Soja,Fibra,445,290,2026-10-24,Ana,Recife,-8.04756,-34.877,2.33
+Algodão,Bebida,355,98,2026-10-25,Pedro,Manaus,-3.10194,-60.025,17.68
+Arroz,Fibra,332,332,2026-10-26,Fernanda,Brasília,-15.794229,-47.882166,1.56
+Soja,Fibra,382,373,2026-10-27,Patrícia,Curitiba,-25.428954,-49.267137,2.33
+Arroz,Grão,41,278,2026-10-28,Ana,Recife,-8.04756,-34.877,1.56
+Soja,Fibra,253,253,2026-10-29,João,Rio de Janeiro,-22.906847,-43.172896,2.33
+Milho,Grão,189,496,2026-10-30,Ana,Rio de Janeiro,-22.906847,-43.172896,1.09
+Café,Bebida,527,253,2026-10-31,Ricardo,Salvador,-12.971399,-38.501305,38.57
+Milho,Grão,756,463,2026-11-01,João,Belo Horizonte,-19.924502,-43.935237,1.09
+Milho,Fibra,421,421,2026-11-02,Patrícia,Recife,-8.04756,-34.877,1.09
+Milho,Fibra,221,264,2026-11-03,Pedro,Salvador,-12.971399,-38.501305,1.09
+Trigo,Bebida,821,364,2026-11-04,Patrícia,Recife,-8.04756,-34.877,1.42
+Algodão,Grão,689,344,2026-11-05,Maria,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Fibra,826,477,2026-11-06,João,Brasília,-15.794229,-47.882166,1.56
+Arroz,Bebida,472,262,2026-11-07,Fernanda,Porto Alegre,-30.034647,-51.217658,1.56
+Arroz,Grão,306,292,2026-11-08,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Milho,Cereal,401,38,2026-11-09,Patrícia,São Paulo,-23.55052,-46.633308,1.09
+Milho,Cereal,932,485,2026-11-10,Maria,São Paulo,-23.55052,-46.633308,1.09
+Trigo,Fibra,201,92,2026-11-11,Pedro,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Fibra,422,180,2026-11-12,João,Fortaleza,-3.71722,-38.5434,17.68
+Cana-de-açúcar,Cereal,950,269,2026-11-13,Desconhecido,Salvador,-12.971399,-38.501305,1.28
+Milho,Bebida,707,205,2026-11-14,Patrícia,Brasília,-15.794229,-47.882166,1.09
+Cana-de-açúcar,Bebida,535,233,2026-11-15,Ana,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Cereal,977,100,2026-11-16,Maria,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Bebida,486,64,2026-11-17,Desconhecido,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Bebida,474,478,2026-11-18,Carlos,Salvador,-12.971399,-38.501305,1.56
+Café,Fibra,622,226,2026-11-19,Maria,Recife,-8.04756,-34.877,38.57
+Algodão,Grão,292,163,2026-11-20,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Fibra,773,113,2026-11-21,Desconhecido,Recife,-8.04756,-34.877,1.56
+Café,Bebida,447,183,2026-11-22,Fernanda,São Paulo,-23.55052,-46.633308,38.57
+Arroz,Cereal,780,424,2026-11-23,Ricardo,Brasília,-15.794229,-47.882166,1.56
+Soja,Bebida,149,275,2026-11-24,Ricardo,Curitiba,-25.428954,-49.267137,2.33
+Arroz,Grão,74,74,2026-11-25,Desconhecido,Belo Horizonte,-19.924502,-43.935237,1.56
+Arroz,Bebida,739,361,2026-11-26,João,Recife,-8.04756,-34.877,1.56
+Milho,Bebida,357,304,2026-11-27,Pedro,Porto Alegre,-30.034647,-51.217658,1.09
+Arroz,Bebida,803,18,2026-11-28,Fernanda,Recife,-8.04756,-34.877,1.56
+Milho,Bebida,82,485,2026-11-29,Maria,Brasília,-15.794229,-47.882166,1.09
+Soja,Bebida,657,413,2026-11-30,Ricardo,Fortaleza,-3.71722,-38.5434,2.33
+Arroz,Grão,824,401,2026-12-01,João,Salvador,-12.971399,-38.501305,1.56
+Milho,Cereal,774,121,2026-12-02,João,Manaus,-3.10194,-60.025,1.09
+Algodão,Bebida,554,167,2026-12-03,Carlos,Belo Horizonte,-19.924502,-43.935237,17.68
+Café,Cereal,623,188,2026-12-04,Carlos,Recife,-8.04756,-34.877,38.57
+Algodão,Grão,462,462,2026-12-05,Ricardo,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Bebida,930,72,2026-12-06,Ana,São Paulo,-23.55052,-46.633308,1.42
+Milho,Fibra,390,159,2026-12-07,Fernanda,São Paulo,-23.55052,-46.633308,1.09
+Soja,Bebida,584,102,2026-12-08,João,Belo Horizonte,-19.924502,-43.935237,2.33
+Algodão,Cereal,642,45,2026-12-09,Pedro,Salvador,-12.971399,-38.501305,17.68
+Trigo,Bebida,19,418,2026-12-10,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Fibra,602,108,2026-12-11,Patrícia,Rio de Janeiro,-22.906847,-43.172896,17.68
+Soja,Cereal,496,258,2026-12-12,Pedro,Brasília,-15.794229,-47.882166,2.33
+Arroz,Grão,851,131,2026-12-13,João,Rio de Janeiro,-22.906847,-43.172896,1.56
+Cana-de-açúcar,Cereal,726,192,2026-12-14,João,Manaus,-3.10194,-60.025,1.28
+Café,Cereal,514,2,2026-12-15,Pedro,Manaus,-3.10194,-60.025,38.57
+Arroz,Grão,266,49,2026-12-16,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.56
+Cana-de-açúcar,Cereal,249,91,2026-12-17,João,Fortaleza,-3.71722,-38.5434,1.28
+Soja,Grão,54,54,2026-12-18,Ana,Recife,-8.04756,-34.877,2.33
+Algodão,Cereal,598,13,2026-12-19,Carlos,Salvador,-12.971399,-38.501305,17.68
+Algodão,Grão,957,957,2026-12-20,Patrícia,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Bebida,508,508,2026-12-21,João,Brasília,-15.794229,-47.882166,17.68
+Algodão,Grão,289,234,2026-12-22,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Cana-de-açúcar,Fibra,793,425,2026-12-23,Carlos,Recife,-8.04756,-34.877,1.28
+Algodão,Fibra,389,353,2026-12-24,Patrícia,Fortaleza,-3.71722,-38.5434,17.68
+Trigo,Bebida,844,356,2026-12-25,João,Brasília,-15.794229,-47.882166,1.42
+Arroz,Cereal,815,301,2026-12-26,Maria,Manaus,-3.10194,-60.025,1.56
+Cana-de-açúcar,Grão,558,57,2026-12-27,Patrícia,Recife,-8.04756,-34.877,1.28
+Arroz,Fibra,947,435,2026-12-28,Patrícia,Fortaleza,-3.71722,-38.5434,1.56
+Soja,Cereal,838,280,2026-12-29,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Soja,Cereal,260,479,2026-12-30,Ana,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Cereal,770,770,2026-12-31,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Milho,Cereal,820,108,2027-01-01,Carlos,Manaus,-3.10194,-60.025,1.09
+Algodão,Grão,593,272,2027-01-02,Ricardo,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Grão,245,150,2027-01-03,Maria,Belo Horizonte,-19.924502,-43.935237,1.28
+Trigo,Bebida,665,243,2027-01-04,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.42
+Café,Cereal,364,470,2027-01-05,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Algodão,Bebida,274,183,2027-01-06,Fernanda,Manaus,-3.10194,-60.025,17.68
+Trigo,Grão,334,491,2027-01-07,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Fibra,168,168,2027-01-08,Carlos,Manaus,-3.10194,-60.025,1.42
+Algodão,Cereal,259,259,2027-01-09,Ana,Belo Horizonte,-19.924502,-43.935237,17.68
+Café,Fibra,380,198,2027-01-10,Patrícia,Curitiba,-25.428954,-49.267137,38.57
+Cana-de-açúcar,Fibra,954,20,2027-01-11,Desconhecido,Recife,-8.04756,-34.877,1.28
+Soja,Cereal,716,469,2027-01-12,Ana,São Paulo,-23.55052,-46.633308,2.33
+Trigo,Grão,233,495,2027-01-13,Ricardo,Manaus,-3.10194,-60.025,1.42
+Café,Bebida,811,11,2027-01-14,Desconhecido,Manaus,-3.10194,-60.025,38.57
+Algodão,Bebida,190,423,2027-01-15,Carlos,Recife,-8.04756,-34.877,17.68
+Soja,Bebida,182,273,2027-01-16,Pedro,Curitiba,-25.428954,-49.267137,2.33
+Soja,Bebida,487,139,2027-01-17,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Cana-de-açúcar,Cereal,389,109,2027-01-18,Maria,Fortaleza,-3.71722,-38.5434,1.28
+Milho,Grão,171,380,2027-01-19,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.09
+Café,Fibra,360,198,2027-01-20,Maria,Brasília,-15.794229,-47.882166,38.57
+Algodão,Cereal,118,118,2027-01-21,Pedro,Porto Alegre,-30.034647,-51.217658,17.68
+Algodão,Bebida,577,53,2027-01-22,João,Fortaleza,-3.71722,-38.5434,17.68
+Trigo,Cereal,461,93,2027-01-23,Maria,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Bebida,656,187,2027-01-24,Maria,São Paulo,-23.55052,-46.633308,1.56
+Café,Fibra,391,417,2027-01-25,Fernanda,Brasília,-15.794229,-47.882166,38.57
+Soja,Fibra,661,451,2027-01-26,Pedro,Rio de Janeiro,-22.906847,-43.172896,2.33
+Algodão,Bebida,912,142,2027-01-27,Ricardo,Belo Horizonte,-19.924502,-43.935237,17.68
+Soja,Cereal,833,249,2027-01-28,Patrícia,Brasília,-15.794229,-47.882166,2.33
+Cana-de-açúcar,Cereal,469,310,2027-01-29,Ricardo,São Paulo,-23.55052,-46.633308,1.28
+Milho,Bebida,217,247,2027-01-30,João,Manaus,-3.10194,-60.025,1.09
+Café,Cereal,357,357,2027-01-31,Ricardo,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Grão,636,362,2027-02-01,Ricardo,Manaus,-3.10194,-60.025,2.33
+Trigo,Grão,179,375,2027-02-02,Ana,Rio de Janeiro,-22.906847,-43.172896,1.42
+Trigo,Bebida,354,354,2027-02-03,João,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Fibra,241,399,2027-02-04,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.42
+Algodão,Cereal,754,754,2027-02-05,Pedro,Recife,-8.04756,-34.877,17.68
+Milho,Fibra,419,238,2027-02-06,Patrícia,São Paulo,-23.55052,-46.633308,1.09
+Trigo,Cereal,121,376,2027-02-07,Fernanda,Fortaleza,-3.71722,-38.5434,1.42
+Café,Cereal,786,221,2027-02-08,João,Curitiba,-25.428954,-49.267137,38.57
+Cana-de-açúcar,Cereal,383,486,2027-02-09,Desconhecido,Belo Horizonte,-19.924502,-43.935237,1.28
+Arroz,Fibra,279,140,2027-02-10,Pedro,Curitiba,-25.428954,-49.267137,1.56
+Trigo,Fibra,965,24,2027-02-11,Patrícia,Salvador,-12.971399,-38.501305,1.42
+Algodão,Cereal,960,343,2027-02-12,Ana,Fortaleza,-3.71722,-38.5434,17.68
+Arroz,Cereal,243,322,2027-02-13,Pedro,Salvador,-12.971399,-38.501305,1.56
+Milho,Cereal,174,174,2027-02-14,Carlos,São Paulo,-23.55052,-46.633308,1.09
+Arroz,Fibra,530,530,2027-02-15,Carlos,Porto Alegre,-30.034647,-51.217658,1.56
+Café,Fibra,210,36,2027-02-16,Ana,Rio de Janeiro,-22.906847,-43.172896,38.57
+Café,Cereal,752,752,2027-02-17,Carlos,Fortaleza,-3.71722,-38.5434,38.57
+Arroz,Grão,568,311,2027-02-18,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.56
+Trigo,Cereal,540,244,2027-02-19,Fernanda,Salvador,-12.971399,-38.501305,1.42
+Soja,Bebida,84,95,2027-02-20,Ana,Salvador,-12.971399,-38.501305,2.33
+Soja,Grão,334,320,2027-02-21,Carlos,Manaus,-3.10194,-60.025,2.33
+Trigo,Fibra,645,429,2027-02-22,Ana,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Bebida,472,472,2027-02-23,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Fibra,547,286,2027-02-24,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.28
+Trigo,Grão,141,213,2027-02-25,Ricardo,Salvador,-12.971399,-38.501305,1.42
+Cana-de-açúcar,Cereal,669,349,2027-02-26,João,Porto Alegre,-30.034647,-51.217658,1.28
+Arroz,Fibra,768,461,2027-02-27,João,São Paulo,-23.55052,-46.633308,1.56
+Café,Grão,559,445,2027-02-28,Patrícia,Recife,-8.04756,-34.877,38.57
+Cana-de-açúcar,Cereal,331,354,2027-03-01,Fernanda,Curitiba,-25.428954,-49.267137,1.28
+Café,Cereal,223,223,2027-03-02,Maria,Salvador,-12.971399,-38.501305,38.57
+Cana-de-açúcar,Cereal,549,17,2027-03-03,Patrícia,Manaus,-3.10194,-60.025,1.28
+Soja,Bebida,857,260,2027-03-04,João,Rio de Janeiro,-22.906847,-43.172896,2.33
+Milho,Bebida,184,188,2027-03-05,Fernanda,Curitiba,-25.428954,-49.267137,1.09
+Café,Cereal,61,380,2027-03-06,Desconhecido,Brasília,-15.794229,-47.882166,38.57
+Trigo,Fibra,24,358,2027-03-07,João,Brasília,-15.794229,-47.882166,1.42
+Soja,Grão,353,353,2027-03-08,Fernanda,Manaus,-3.10194,-60.025,2.33
+Milho,Grão,284,490,2027-03-09,Pedro,Recife,-8.04756,-34.877,1.09
+Milho,Grão,788,283,2027-03-10,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Soja,Fibra,135,28,2027-03-11,Desconhecido,Brasília,-15.794229,-47.882166,2.33
+Café,Cereal,480,38,2027-03-12,Pedro,Fortaleza,-3.71722,-38.5434,38.57
+Milho,Fibra,234,390,2027-03-13,Pedro,Porto Alegre,-30.034647,-51.217658,1.09
+Trigo,Bebida,722,65,2027-03-14,Fernanda,Salvador,-12.971399,-38.501305,1.42
+Cana-de-açúcar,Bebida,912,106,2027-03-15,Desconhecido,Curitiba,-25.428954,-49.267137,1.28
+Algodão,Cereal,361,114,2027-03-16,João,Manaus,-3.10194,-60.025,17.68
+Cana-de-açúcar,Fibra,585,437,2027-03-17,Patrícia,Recife,-8.04756,-34.877,1.28
+Milho,Fibra,930,462,2027-03-18,Carlos,Curitiba,-25.428954,-49.267137,1.09
+Soja,Grão,157,260,2027-03-19,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Cana-de-açúcar,Grão,490,365,2027-03-20,João,Salvador,-12.971399,-38.501305,1.28
+Cana-de-açúcar,Cereal,866,150,2027-03-21,Pedro,Belo Horizonte,-19.924502,-43.935237,1.28
+Milho,Cereal,487,364,2027-03-22,Pedro,Brasília,-15.794229,-47.882166,1.09
+Arroz,Cereal,126,95,2027-03-23,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Bebida,98,232,2027-03-24,Ana,Porto Alegre,-30.034647,-51.217658,38.57
+Trigo,Bebida,255,126,2027-03-24,Desconhecido,Manaus,-3.10194,-60.025,1.42
+Soja,Grão,1,1,2027-03-26,Maria,Rio de Janeiro,-22.906847,-43.172896,2.33
+Trigo,Bebida,638,90,2027-03-27,Maria,Recife,-8.04756,-34.877,1.42
+Trigo,Grão,368,368,2027-03-28,Maria,Recife,-8.04756,-34.877,1.42
+Café,Fibra,575,575,2027-03-29,Fernanda,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Grão,439,228,2027-03-30,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Trigo,Fibra,443,102,2027-03-31,Maria,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Bebida,737,737,2027-04-01,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.28
+Arroz,Bebida,554,354,2027-04-02,Desconhecido,Manaus,-3.10194,-60.025,1.56
+Café,Cereal,499,493,2027-04-03,Carlos,Fortaleza,-3.71722,-38.5434,38.57
+Milho,Bebida,875,291,2027-04-04,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.09
+Arroz,Bebida,941,376,2027-04-05,João,Porto Alegre,-30.034647,-51.217658,1.56
+Trigo,Fibra,458,22,2027-04-06,João,Belo Horizonte,-19.924502,-43.935237,1.42
+Arroz,Bebida,903,903,2027-04-07,Ricardo,Fortaleza,-3.71722,-38.5434,1.56
+Soja,Cereal,393,82,2027-04-08,Desconhecido,São Paulo,-23.55052,-46.633308,2.33
+Algodão,Fibra,447,447,2027-04-09,Maria,Belo Horizonte,-19.924502,-43.935237,17.68
+Cana-de-açúcar,Bebida,429,429,2027-04-10,Maria,Brasília,-15.794229,-47.882166,1.28
+Arroz,Fibra,758,426,2027-04-11,Carlos,Salvador,-12.971399,-38.501305,1.56
+Trigo,Grão,964,193,2027-04-12,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.42
+Arroz,Bebida,794,53,2027-04-13,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Soja,Grão,87,319,2027-04-14,Maria,Brasília,-15.794229,-47.882166,2.33
+Café,Fibra,928,143,2027-04-15,Carlos,Recife,-8.04756,-34.877,38.57
+Algodão,Cereal,984,345,2027-04-16,Fernanda,Manaus,-3.10194,-60.025,17.68
+Milho,Cereal,753,335,2027-04-17,Patrícia,Porto Alegre,-30.034647,-51.217658,1.09
+Arroz,Grão,790,790,2027-04-18,Ricardo,São Paulo,-23.55052,-46.633308,1.56
+Café,Fibra,274,274,2027-04-19,Patrícia,Brasília,-15.794229,-47.882166,38.57
+Algodão,Grão,753,35,2027-04-20,Carlos,Recife,-8.04756,-34.877,17.68
+Café,Grão,711,163,2027-04-21,Maria,Recife,-8.04756,-34.877,38.57
+Cana-de-açúcar,Grão,68,163,2027-04-22,Fernanda,Curitiba,-25.428954,-49.267137,1.28
+Café,Cereal,151,444,2027-04-23,Pedro,Curitiba,-25.428954,-49.267137,38.57
+Soja,Fibra,429,429,2027-04-24,Carlos,Salvador,-12.971399,-38.501305,2.33
+Algodão,Cereal,146,391,2027-04-25,Patrícia,Manaus,-3.10194,-60.025,17.68
+Milho,Grão,398,144,2027-04-26,Pedro,Curitiba,-25.428954,-49.267137,1.09
+Algodão,Fibra,697,53,2027-04-27,Fernanda,Salvador,-12.971399,-38.501305,17.68
+Arroz,Grão,575,295,2027-04-28,Pedro,Porto Alegre,-30.034647,-51.217658,1.56
+Milho,Grão,495,340,2027-04-29,Maria,São Paulo,-23.55052,-46.633308,1.09
+Milho,Grão,207,242,2027-04-30,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Café,Cereal,1,1,2027-05-01,Carlos,Salvador,-12.971399,-38.501305,38.57
+Soja,Grão,521,205,2027-05-02,Fernanda,Salvador,-12.971399,-38.501305,2.33
+Arroz,Bebida,419,405,2027-05-03,Pedro,São Paulo,-23.55052,-46.633308,1.56
+Cana-de-açúcar,Grão,579,460,2027-05-04,Maria,Brasília,-15.794229,-47.882166,1.28
+Algodão,Grão,2,474,2027-05-05,Ana,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Cereal,69,335,2027-05-06,Pedro,Recife,-8.04756,-34.877,1.42
+Arroz,Fibra,72,72,2027-05-07,João,Porto Alegre,-30.034647,-51.217658,1.56
+Arroz,Cereal,944,321,2027-05-08,João,São Paulo,-23.55052,-46.633308,1.56
+Cana-de-açúcar,Fibra,167,391,2027-05-09,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.28
+Soja,Fibra,392,65,2027-05-10,Patrícia,Curitiba,-25.428954,-49.267137,2.33
+Arroz,Cereal,885,42,2027-05-11,Carlos,Manaus,-3.10194,-60.025,1.56
+Algodão,Bebida,28,118,2027-05-12,Desconhecido,Curitiba,-25.428954,-49.267137,17.68
+Soja,Fibra,315,445,2027-05-13,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Soja,Cereal,24,295,2027-05-14,Patrícia,Salvador,-12.971399,-38.501305,2.33
+Algodão,Cereal,628,156,2027-05-15,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Soja,Fibra,111,192,2027-05-16,Ana,Recife,-8.04756,-34.877,2.33
+Algodão,Grão,971,493,2027-05-17,Fernanda,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Cereal,440,2,2027-05-18,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Soja,Bebida,326,497,2027-05-19,Pedro,Recife,-8.04756,-34.877,2.33
+Arroz,Grão,477,43,2027-05-20,Fernanda,Porto Alegre,-30.034647,-51.217658,1.56
+Café,Bebida,535,131,2027-05-21,Ana,Manaus,-3.10194,-60.025,38.57
+Milho,Fibra,890,491,2027-05-22,Carlos,Porto Alegre,-30.034647,-51.217658,1.09
+Arroz,Fibra,32,97,2027-05-23,Ricardo,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Cereal,841,338,2027-05-24,João,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Bebida,681,14,2027-05-25,Fernanda,Manaus,-3.10194,-60.025,1.42
+Soja,Bebida,860,408,2027-05-26,Desconhecido,São Paulo,-23.55052,-46.633308,2.33
+Milho,Fibra,642,127,2027-05-27,Pedro,Fortaleza,-3.71722,-38.5434,1.09
+Soja,Fibra,248,61,2027-05-28,Ricardo,São Paulo,-23.55052,-46.633308,2.33
+Soja,Cereal,553,120,2027-05-29,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Café,Cereal,881,45,2027-05-30,Pedro,Salvador,-12.971399,-38.501305,38.57
+Cana-de-açúcar,Bebida,159,219,2027-05-31,Ana,Belo Horizonte,-19.924502,-43.935237,1.28
+Trigo,Fibra,736,258,2027-06-01,Patrícia,Brasília,-15.794229,-47.882166,1.42
+Cana-de-açúcar,Grão,395,194,2027-06-02,João,Brasília,-15.794229,-47.882166,1.28
+Trigo,Fibra,511,87,2027-06-03,Patrícia,Curitiba,-25.428954,-49.267137,1.42
+Milho,Grão,297,297,2027-06-04,Ana,Curitiba,-25.428954,-49.267137,1.09
+Arroz,Bebida,115,108,2027-06-05,Pedro,Brasília,-15.794229,-47.882166,1.56
+Milho,Fibra,194,194,2027-06-06,Carlos,Fortaleza,-3.71722,-38.5434,1.09
+Cana-de-açúcar,Bebida,761,72,2027-06-07,João,Brasília,-15.794229,-47.882166,1.28
+Arroz,Bebida,335,428,2027-06-08,Patrícia,Brasília,-15.794229,-47.882166,1.56
+Trigo,Cereal,684,342,2027-06-09,Ana,Belo Horizonte,-19.924502,-43.935237,1.42
+Arroz,Bebida,843,204,2027-06-10,Patrícia,Porto Alegre,-30.034647,-51.217658,1.56
+Milho,Cereal,649,113,2027-06-11,Fernanda,Fortaleza,-3.71722,-38.5434,1.09
+Soja,Fibra,641,122,2027-06-12,Patrícia,Recife,-8.04756,-34.877,2.33
+Café,Bebida,53,402,2027-06-13,Maria,Curitiba,-25.428954,-49.267137,38.57
+Algodão,Cereal,562,562,2027-06-14,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Soja,Fibra,903,328,2027-06-15,Patrícia,Fortaleza,-3.71722,-38.5434,2.33
+Arroz,Grão,516,477,2027-06-16,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.56
+Soja,Grão,556,185,2027-06-17,Ricardo,Recife,-8.04756,-34.877,2.33
+Soja,Cereal,546,204,2027-06-18,Pedro,São Paulo,-23.55052,-46.633308,2.33
+Arroz,Bebida,781,423,2027-06-19,Maria,Curitiba,-25.428954,-49.267137,1.56
+Soja,Bebida,556,22,2027-06-20,Pedro,Manaus,-3.10194,-60.025,2.33
+Milho,Fibra,835,473,2027-06-21,Maria,Brasília,-15.794229,-47.882166,1.09
+Café,Cereal,387,220,2027-06-22,Maria,Belo Horizonte,-19.924502,-43.935237,38.57
+Café,Grão,579,16,2027-06-23,Maria,Belo Horizonte,-19.924502,-43.935237,38.57
+Algodão,Bebida,439,268,2027-06-24,Maria,Fortaleza,-3.71722,-38.5434,17.68
+Cana-de-açúcar,Bebida,766,73,2027-06-25,Patrícia,São Paulo,-23.55052,-46.633308,1.28
+Café,Fibra,585,4,2027-06-26,Patrícia,Rio de Janeiro,-22.906847,-43.172896,38.57
+Arroz,Fibra,424,240,2027-06-27,Maria,Manaus,-3.10194,-60.025,1.56
+Cana-de-açúcar,Cereal,154,5,2027-06-28,Maria,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Grão,565,303,2027-06-29,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.28
+Cana-de-açúcar,Grão,711,477,2027-06-30,João,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Fibra,572,179,2027-07-01,Maria,Salvador,-12.971399,-38.501305,1.28
+Milho,Grão,33,386,2027-07-02,Ana,Salvador,-12.971399,-38.501305,1.09
+Arroz,Grão,971,441,2027-07-03,Carlos,Fortaleza,-3.71722,-38.5434,1.56
+Soja,Bebida,903,424,2027-07-04,Patrícia,Recife,-8.04756,-34.877,2.33
+Soja,Fibra,590,590,2027-07-05,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Fibra,173,220,2027-07-06,Patrícia,Porto Alegre,-30.034647,-51.217658,1.56
+Café,Bebida,717,1,2027-07-07,Fernanda,Brasília,-15.794229,-47.882166,38.57
+Trigo,Cereal,143,257,2027-07-08,Ana,Recife,-8.04756,-34.877,1.42
+Soja,Grão,411,411,2027-07-09,Patrícia,Rio de Janeiro,-22.906847,-43.172896,2.33
+Milho,Grão,859,32,2027-07-10,Ricardo,Brasília,-15.794229,-47.882166,1.09
+Soja,Bebida,365,464,2027-07-11,Carlos,Recife,-8.04756,-34.877,2.33
+Soja,Fibra,172,19,2027-07-12,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Milho,Grão,532,461,2027-07-13,Pedro,Recife,-8.04756,-34.877,1.09
+Café,Fibra,522,114,2027-07-14,Desconhecido,Recife,-8.04756,-34.877,38.57
+Soja,Grão,677,389,2027-07-15,João,Recife,-8.04756,-34.877,2.33
+Soja,Grão,650,484,2027-07-16,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,2.33
+Trigo,Grão,593,593,2027-07-17,Fernanda,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Cereal,839,444,2027-07-18,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.28
+Milho,Bebida,428,316,2027-07-19,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.09
+Algodão,Cereal,458,43,2027-07-20,Pedro,Salvador,-12.971399,-38.501305,17.68
+Milho,Cereal,866,69,2027-07-21,Patrícia,São Paulo,-23.55052,-46.633308,1.09
+Café,Cereal,703,169,2027-07-22,Desconhecido,Fortaleza,-3.71722,-38.5434,38.57
+Algodão,Fibra,331,31,2027-07-23,João,Porto Alegre,-30.034647,-51.217658,17.68
+Café,Bebida,942,223,2027-07-24,Pedro,Curitiba,-25.428954,-49.267137,38.57
+Trigo,Grão,811,111,2027-07-25,Desconhecido,Recife,-8.04756,-34.877,1.42
+Arroz,Fibra,645,26,2027-07-26,Ana,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Cereal,838,246,2027-07-27,Maria,Curitiba,-25.428954,-49.267137,17.68
+Soja,Bebida,530,445,2027-07-28,Maria,Fortaleza,-3.71722,-38.5434,2.33
+Café,Fibra,445,74,2027-07-29,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Trigo,Fibra,122,306,2027-07-30,Fernanda,Recife,-8.04756,-34.877,1.42
+Soja,Grão,216,454,2027-07-31,Ana,Porto Alegre,-30.034647,-51.217658,2.33
+Trigo,Grão,528,5,2027-08-01,Pedro,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Cereal,419,419,2027-08-02,João,Fortaleza,-3.71722,-38.5434,1.56
+Cana-de-açúcar,Bebida,574,335,2027-08-03,Desconhecido,Brasília,-15.794229,-47.882166,1.28
+Trigo,Grão,640,69,2027-08-04,Carlos,Curitiba,-25.428954,-49.267137,1.42
+Arroz,Cereal,221,297,2027-08-05,Ricardo,Recife,-8.04756,-34.877,1.56
+Algodão,Fibra,534,534,2027-08-05,Fernanda,Porto Alegre,-30.034647,-51.217658,17.68
+Milho,Cereal,61,138,2027-08-07,Pedro,Salvador,-12.971399,-38.501305,1.09
+Café,Bebida,861,464,2027-08-08,Patrícia,Fortaleza,-3.71722,-38.5434,38.57
+Algodão,Cereal,235,348,2027-08-09,Fernanda,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Grão,73,89,2027-08-10,Carlos,Recife,-8.04756,-34.877,1.42
+Cana-de-açúcar,Bebida,734,734,2027-08-11,Carlos,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Bebida,738,54,2027-08-12,Maria,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Bebida,363,169,2027-08-13,Ana,Manaus,-3.10194,-60.025,17.68
+Soja,Fibra,1,1,2027-08-14,Desconhecido,Belo Horizonte,-19.924502,-43.935237,2.33
+Algodão,Cereal,506,271,2027-08-15,Pedro,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Bebida,914,91,2027-08-16,Ana,Brasília,-15.794229,-47.882166,1.42
+Cana-de-açúcar,Bebida,343,277,2027-08-17,Ricardo,Salvador,-12.971399,-38.501305,1.28
+Arroz,Cereal,85,85,2027-08-18,Desconhecido,Manaus,-3.10194,-60.025,1.56
+Trigo,Grão,134,191,2027-08-19,João,Manaus,-3.10194,-60.025,1.42
+Algodão,Grão,71,71,2027-08-20,Desconhecido,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Cereal,928,447,2027-08-21,Carlos,Fortaleza,-3.71722,-38.5434,1.28
+Soja,Bebida,423,125,2027-08-22,João,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Grão,537,63,2027-08-23,João,Recife,-8.04756,-34.877,1.56
+Milho,Cereal,280,237,2027-08-24,Carlos,São Paulo,-23.55052,-46.633308,1.09
+Algodão,Cereal,396,128,2027-08-25,João,Curitiba,-25.428954,-49.267137,17.68
+Arroz,Fibra,678,230,2027-08-26,Pedro,Brasília,-15.794229,-47.882166,1.56
+Soja,Grão,316,280,2027-08-27,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Milho,Cereal,392,265,2027-08-28,Maria,Manaus,-3.10194,-60.025,1.09
+Trigo,Cereal,613,336,2027-08-29,Ana,Salvador,-12.971399,-38.501305,1.42
+Trigo,Grão,204,175,2027-08-30,Pedro,Salvador,-12.971399,-38.501305,1.42
+Milho,Fibra,325,325,2027-08-31,Ricardo,Manaus,-3.10194,-60.025,1.09
+Soja,Fibra,479,479,2027-09-01,Maria,Recife,-8.04756,-34.877,2.33
+Arroz,Bebida,435,35,2027-09-02,Patrícia,Brasília,-15.794229,-47.882166,1.56
+Soja,Cereal,210,111,2027-09-03,Carlos,Belo Horizonte,-19.924502,-43.935237,2.33
+Cana-de-açúcar,Cereal,776,425,2027-09-04,Ana,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Bebida,962,266,2027-09-05,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,38.57
+Milho,Cereal,105,155,2027-09-06,Carlos,São Paulo,-23.55052,-46.633308,1.09
+Milho,Fibra,639,108,2027-09-07,Patrícia,Recife,-8.04756,-34.877,1.09
+Trigo,Cereal,683,87,2027-09-08,Ricardo,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Grão,992,992,2027-09-09,Carlos,Belo Horizonte,-19.924502,-43.935237,1.42
+Café,Cereal,845,171,2027-09-10,Ricardo,Manaus,-3.10194,-60.025,38.57
+Café,Fibra,773,85,2027-09-11,Pedro,São Paulo,-23.55052,-46.633308,38.57
+Algodão,Grão,770,34,2027-09-12,Desconhecido,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Bebida,102,314,2027-09-13,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.28
+Café,Grão,506,18,2027-09-14,Maria,São Paulo,-23.55052,-46.633308,38.57
+Café,Cereal,463,147,2027-09-15,Pedro,Curitiba,-25.428954,-49.267137,38.57
+Soja,Grão,787,72,2027-09-16,João,Salvador,-12.971399,-38.501305,2.33
+Cana-de-açúcar,Fibra,918,242,2027-09-17,Pedro,Recife,-8.04756,-34.877,1.28
+Café,Bebida,96,112,2027-09-18,Maria,Manaus,-3.10194,-60.025,38.57
+Cana-de-açúcar,Bebida,858,338,2027-09-19,Fernanda,Recife,-8.04756,-34.877,1.28
+Milho,Cereal,807,36,2027-09-20,Ricardo,Manaus,-3.10194,-60.025,1.09
+Milho,Grão,512,415,2027-09-21,João,São Paulo,-23.55052,-46.633308,1.09
+Café,Cereal,204,107,2027-09-22,Pedro,Salvador,-12.971399,-38.501305,38.57
+Algodão,Bebida,20,20,2027-09-23,Maria,Brasília,-15.794229,-47.882166,17.68
+Arroz,Grão,747,747,2027-09-24,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Cana-de-açúcar,Cereal,836,166,2027-09-25,João,São Paulo,-23.55052,-46.633308,1.28
+Trigo,Fibra,724,373,2027-09-26,João,Fortaleza,-3.71722,-38.5434,1.42
+Soja,Fibra,719,242,2027-09-27,Ana,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Cereal,916,364,2027-09-28,Ricardo,Salvador,-12.971399,-38.501305,1.56
+Cana-de-açúcar,Cereal,900,204,2027-09-29,Fernanda,Curitiba,-25.428954,-49.267137,1.28
+Soja,Bebida,990,86,2027-09-30,João,Recife,-8.04756,-34.877,2.33
+Cana-de-açúcar,Bebida,376,229,2027-10-01,Patrícia,São Paulo,-23.55052,-46.633308,1.28
+Café,Fibra,956,27,2027-10-02,Desconhecido,Salvador,-12.971399,-38.501305,38.57
+Café,Grão,172,172,2027-10-03,Maria,Manaus,-3.10194,-60.025,38.57
+Milho,Bebida,376,164,2027-10-04,Ana,Porto Alegre,-30.034647,-51.217658,1.09
+Milho,Cereal,663,384,2027-10-05,Carlos,Recife,-8.04756,-34.877,1.09
+Milho,Bebida,110,408,2027-10-06,Ricardo,Fortaleza,-3.71722,-38.5434,1.09
+Café,Bebida,93,321,2027-10-07,Carlos,Rio de Janeiro,-22.906847,-43.172896,38.57
+Arroz,Bebida,864,136,2027-10-08,Patrícia,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Fibra,57,353,2027-10-09,Patrícia,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Grão,74,92,2027-10-10,João,São Paulo,-23.55052,-46.633308,1.42
+Café,Grão,76,236,2027-10-11,Ricardo,São Paulo,-23.55052,-46.633308,38.57
+Algodão,Bebida,45,447,2027-10-12,João,São Paulo,-23.55052,-46.633308,17.68
+Milho,Bebida,153,249,2027-10-13,Fernanda,Brasília,-15.794229,-47.882166,1.09
+Café,Fibra,466,313,2027-10-14,Ricardo,São Paulo,-23.55052,-46.633308,38.57
+Arroz,Grão,867,239,2027-10-15,Maria,Curitiba,-25.428954,-49.267137,1.56
+Trigo,Fibra,931,194,2027-10-16,Carlos,Manaus,-3.10194,-60.025,1.42
+Algodão,Grão,896,415,2027-10-17,Maria,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Bebida,17,78,2027-10-18,Maria,Manaus,-3.10194,-60.025,1.28
+Café,Bebida,306,71,2027-10-19,Patrícia,Curitiba,-25.428954,-49.267137,38.57
+Algodão,Bebida,307,339,2027-10-20,João,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Bebida,556,6,2027-10-21,Ana,Curitiba,-25.428954,-49.267137,17.68
+Milho,Bebida,442,27,2027-10-22,Patrícia,Salvador,-12.971399,-38.501305,1.09
+Algodão,Grão,827,121,2027-10-23,Carlos,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Cereal,588,194,2027-10-24,Maria,Rio de Janeiro,-22.906847,-43.172896,17.68
+Cana-de-açúcar,Fibra,896,212,2027-10-25,Pedro,São Paulo,-23.55052,-46.633308,1.28
+Cana-de-açúcar,Grão,488,189,2027-10-26,Ana,Curitiba,-25.428954,-49.267137,1.28
+Milho,Fibra,217,424,2027-10-27,João,Manaus,-3.10194,-60.025,1.09
+Trigo,Bebida,591,448,2027-10-28,Desconhecido,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Bebida,334,334,2027-10-29,Carlos,Belo Horizonte,-19.924502,-43.935237,1.42
+Soja,Cereal,139,231,2027-10-30,Fernanda,Curitiba,-25.428954,-49.267137,2.33
+Café,Grão,712,416,2027-10-31,Ricardo,Curitiba,-25.428954,-49.267137,38.57
+Cana-de-açúcar,Grão,199,278,2027-11-01,Carlos,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Cereal,687,81,2027-11-02,João,Curitiba,-25.428954,-49.267137,1.42
+Algodão,Grão,945,266,2027-11-03,Ricardo,Rio de Janeiro,-22.906847,-43.172896,17.68
+Soja,Fibra,235,435,2027-11-04,Patrícia,Recife,-8.04756,-34.877,2.33
+Algodão,Bebida,423,426,2027-11-05,Pedro,São Paulo,-23.55052,-46.633308,17.68
+Cana-de-açúcar,Bebida,709,214,2027-11-06,Fernanda,Fortaleza,-3.71722,-38.5434,1.28
+Trigo,Cereal,4,329,2027-11-07,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.42
+Trigo,Grão,574,458,2027-11-07,Pedro,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Fibra,746,402,2027-11-09,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.28
+Cana-de-açúcar,Bebida,241,116,2027-11-10,Ana,Fortaleza,-3.71722,-38.5434,1.28
+Café,Fibra,944,152,2027-11-11,João,Salvador,-12.971399,-38.501305,38.57
+Cana-de-açúcar,Cereal,140,484,2027-11-12,Fernanda,São Paulo,-23.55052,-46.633308,1.28
+Soja,Grão,385,5,2027-11-13,Ricardo,Rio de Janeiro,-22.906847,-43.172896,2.33
+Café,Cereal,794,224,2027-11-14,Patrícia,Recife,-8.04756,-34.877,38.57
+Arroz,Bebida,115,31,2027-11-15,Ana,São Paulo,-23.55052,-46.633308,1.56
+Soja,Grão,783,220,2027-11-16,Fernanda,Salvador,-12.971399,-38.501305,2.33
+Arroz,Grão,180,119,2027-11-17,Fernanda,Manaus,-3.10194,-60.025,1.56
+Trigo,Cereal,653,64,2027-11-18,João,Recife,-8.04756,-34.877,1.42
+Soja,Bebida,945,2,2027-11-19,Carlos,Salvador,-12.971399,-38.501305,2.33
+Soja,Grão,504,165,2027-11-20,Ana,Belo Horizonte,-19.924502,-43.935237,2.33
+Algodão,Cereal,190,458,2027-11-21,Ricardo,Salvador,-12.971399,-38.501305,17.68
+Milho,Fibra,699,23,2027-11-22,Pedro,Brasília,-15.794229,-47.882166,1.09
+Café,Bebida,671,386,2027-11-23,Pedro,Brasília,-15.794229,-47.882166,38.57
+Milho,Fibra,720,90,2027-11-24,Ana,Curitiba,-25.428954,-49.267137,1.09
+Soja,Bebida,485,148,2027-11-25,João,Rio de Janeiro,-22.906847,-43.172896,2.33
+Trigo,Cereal,48,129,2027-11-26,Carlos,São Paulo,-23.55052,-46.633308,1.42
+Cana-de-açúcar,Cereal,462,159,2027-11-27,Pedro,Fortaleza,-3.71722,-38.5434,1.28
+Soja,Grão,902,252,2027-11-28,Maria,Salvador,-12.971399,-38.501305,2.33
+Trigo,Grão,469,215,2027-11-29,Fernanda,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Fibra,147,486,2027-11-30,Ricardo,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Cereal,350,341,2027-12-01,Patrícia,Curitiba,-25.428954,-49.267137,17.68
+Algodão,Bebida,97,97,2027-12-02,Ana,Belo Horizonte,-19.924502,-43.935237,17.68
+Milho,Cereal,168,493,2027-12-03,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.09
+Soja,Grão,83,488,2027-12-04,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Cereal,807,354,2027-12-05,Ricardo,Fortaleza,-3.71722,-38.5434,1.56
+Arroz,Bebida,532,189,2027-12-06,Desconhecido,Salvador,-12.971399,-38.501305,1.56
+Café,Bebida,911,378,2027-12-07,Patrícia,Belo Horizonte,-19.924502,-43.935237,38.57
+Trigo,Grão,638,43,2027-12-08,Pedro,Fortaleza,-3.71722,-38.5434,1.42
+Trigo,Cereal,906,182,2027-12-09,Carlos,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Grão,537,537,2027-12-10,João,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Cereal,848,197,2027-12-11,Carlos,Brasília,-15.794229,-47.882166,1.28
+Arroz,Grão,410,349,2027-12-12,Pedro,Fortaleza,-3.71722,-38.5434,1.56
+Soja,Grão,825,332,2027-12-13,Ana,Recife,-8.04756,-34.877,2.33
+Milho,Bebida,507,507,2027-12-14,Ricardo,Brasília,-15.794229,-47.882166,1.09
+Arroz,Fibra,320,175,2027-12-15,Fernanda,Recife,-8.04756,-34.877,1.56
+Cana-de-açúcar,Fibra,400,400,2027-12-16,Fernanda,Fortaleza,-3.71722,-38.5434,1.28
+Cana-de-açúcar,Bebida,309,29,2027-12-17,Patrícia,Manaus,-3.10194,-60.025,1.28
+Trigo,Fibra,359,419,2027-12-18,Ana,Salvador,-12.971399,-38.501305,1.42
+Soja,Bebida,419,460,2027-12-19,Desconhecido,Curitiba,-25.428954,-49.267137,2.33
+Café,Cereal,23,4,2027-12-20,Carlos,Belo Horizonte,-19.924502,-43.935237,38.57
+Trigo,Fibra,259,121,2027-12-21,João,Brasília,-15.794229,-47.882166,1.42
+Milho,Cereal,776,479,2027-12-22,Maria,Salvador,-12.971399,-38.501305,1.09
+Soja,Bebida,711,31,2027-12-23,Carlos,Fortaleza,-3.71722,-38.5434,2.33
+Algodão,Cereal,557,440,2027-12-24,João,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Grão,613,73,2027-12-25,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.42
+Soja,Cereal,796,314,2027-12-26,Patrícia,Salvador,-12.971399,-38.501305,2.33
+Soja,Cereal,715,284,2027-12-27,Pedro,Rio de Janeiro,-22.906847,-43.172896,2.33
+Café,Bebida,398,398,2027-12-28,Maria,Brasília,-15.794229,-47.882166,38.57
+Cana-de-açúcar,Bebida,261,330,2027-12-29,Patrícia,Brasília,-15.794229,-47.882166,1.28
+Cana-de-açúcar,Cereal,561,48,2027-12-30,Ana,Manaus,-3.10194,-60.025,1.28
+Soja,Grão,265,265,2027-12-31,Pedro,Rio de Janeiro,-22.906847,-43.172896,2.33
+Algodão,Grão,521,445,2028-01-01,João,Porto Alegre,-30.034647,-51.217658,17.68
+Algodão,Bebida,62,241,2028-01-02,Ana,São Paulo,-23.55052,-46.633308,17.68
+Algodão,Cereal,349,246,2028-01-03,Carlos,Belo Horizonte,-19.924502,-43.935237,17.68
+Milho,Bebida,329,418,2028-01-04,Ricardo,Curitiba,-25.428954,-49.267137,1.09
+Café,Grão,439,11,2028-01-05,Carlos,Porto Alegre,-30.034647,-51.217658,38.57
+Milho,Fibra,933,933,2028-01-06,Carlos,Salvador,-12.971399,-38.501305,1.09
+Café,Fibra,39,27,2028-01-07,Ricardo,Rio de Janeiro,-22.906847,-43.172896,38.57
+Café,Cereal,314,191,2028-01-08,Ricardo,Porto Alegre,-30.034647,-51.217658,38.57
+Arroz,Grão,215,55,2028-01-09,Pedro,Brasília,-15.794229,-47.882166,1.56
+Cana-de-açúcar,Bebida,288,211,2028-01-10,Desconhecido,São Paulo,-23.55052,-46.633308,1.28
+Milho,Grão,906,59,2028-01-11,Pedro,Curitiba,-25.428954,-49.267137,1.09
+Trigo,Fibra,338,91,2028-01-12,Pedro,Brasília,-15.794229,-47.882166,1.42
+Milho,Bebida,505,270,2028-01-13,Maria,Salvador,-12.971399,-38.501305,1.09
+Cana-de-açúcar,Cereal,315,408,2028-01-14,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Grão,808,418,2028-01-15,Fernanda,Recife,-8.04756,-34.877,38.57
+Cana-de-açúcar,Cereal,766,388,2028-01-16,Desconhecido,Fortaleza,-3.71722,-38.5434,1.28
+Café,Grão,212,150,2028-01-17,Carlos,Brasília,-15.794229,-47.882166,38.57
+Trigo,Grão,714,476,2028-01-18,Maria,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Bebida,609,118,2028-01-19,João,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Cereal,31,391,2028-01-20,Ana,Belo Horizonte,-19.924502,-43.935237,17.68
+Café,Bebida,322,33,2028-01-21,Carlos,São Paulo,-23.55052,-46.633308,38.57
+Trigo,Bebida,14,14,2028-01-22,João,Porto Alegre,-30.034647,-51.217658,1.42
+Trigo,Cereal,738,290,2028-01-23,Fernanda,Recife,-8.04756,-34.877,1.42
+Algodão,Bebida,189,376,2028-01-24,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Cana-de-açúcar,Cereal,229,162,2028-01-25,Carlos,Brasília,-15.794229,-47.882166,1.28
+Soja,Cereal,817,210,2028-01-26,Pedro,Brasília,-15.794229,-47.882166,2.33
+Arroz,Bebida,726,59,2028-01-27,Desconhecido,Recife,-8.04756,-34.877,1.56
+Algodão,Bebida,30,413,2028-01-28,Carlos,Salvador,-12.971399,-38.501305,17.68
+Trigo,Grão,12,409,2028-01-29,Desconhecido,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Bebida,825,162,2028-01-30,Ricardo,Porto Alegre,-30.034647,-51.217658,17.68
+Soja,Cereal,556,27,2028-01-31,Maria,Recife,-8.04756,-34.877,2.33
+Soja,Bebida,981,478,2028-02-01,Ricardo,Salvador,-12.971399,-38.501305,2.33
+Café,Fibra,608,434,2028-02-02,Patrícia,Manaus,-3.10194,-60.025,38.57
+Soja,Bebida,142,371,2028-02-03,Carlos,Manaus,-3.10194,-60.025,2.33
+Café,Fibra,750,17,2028-02-04,Ricardo,Brasília,-15.794229,-47.882166,38.57
+Soja,Fibra,640,232,2028-02-05,Ana,Recife,-8.04756,-34.877,2.33
+Soja,Grão,824,116,2028-02-06,Patrícia,Salvador,-12.971399,-38.501305,2.33
+Arroz,Bebida,463,409,2028-02-07,Maria,Curitiba,-25.428954,-49.267137,1.56
+Arroz,Bebida,836,187,2028-02-08,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Trigo,Cereal,247,231,2028-02-09,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.42
+Soja,Cereal,424,182,2028-02-10,Ricardo,Salvador,-12.971399,-38.501305,2.33
+Arroz,Fibra,531,209,2028-02-11,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Arroz,Fibra,774,372,2028-02-12,Fernanda,Recife,-8.04756,-34.877,1.56
+Café,Fibra,81,81,2028-02-13,Fernanda,Rio de Janeiro,-22.906847,-43.172896,38.57
+Café,Cereal,815,79,2028-02-14,Carlos,Recife,-8.04756,-34.877,38.57
+Algodão,Grão,382,60,2028-02-15,Carlos,Curitiba,-25.428954,-49.267137,17.68
+Cana-de-açúcar,Fibra,538,290,2028-02-16,Pedro,Belo Horizonte,-19.924502,-43.935237,1.28
+Arroz,Cereal,664,262,2028-02-17,Carlos,Curitiba,-25.428954,-49.267137,1.56
+Arroz,Bebida,85,482,2028-02-18,João,Salvador,-12.971399,-38.501305,1.56
+Arroz,Fibra,914,424,2028-02-19,Ana,Salvador,-12.971399,-38.501305,1.56
+Algodão,Cereal,329,137,2028-02-20,Patrícia,Fortaleza,-3.71722,-38.5434,17.68
+Soja,Fibra,720,254,2028-02-21,Ricardo,Rio de Janeiro,-22.906847,-43.172896,2.33
+Café,Bebida,617,84,2028-02-22,Pedro,Brasília,-15.794229,-47.882166,38.57
+Arroz,Grão,231,231,2028-02-23,Carlos,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Grão,522,268,2028-02-24,Maria,Recife,-8.04756,-34.877,17.68
+Café,Cereal,683,465,2028-02-25,Maria,Fortaleza,-3.71722,-38.5434,38.57
+Soja,Cereal,1,1,2028-02-26,Fernanda,Curitiba,-25.428954,-49.267137,2.33
+Café,Cereal,298,440,2028-02-26,Fernanda,São Paulo,-23.55052,-46.633308,38.57
+Café,Grão,857,93,2028-02-28,Ricardo,Recife,-8.04756,-34.877,38.57
+Cana-de-açúcar,Bebida,19,235,2028-02-29,Maria,Belo Horizonte,-19.924502,-43.935237,1.28
+Cana-de-açúcar,Fibra,375,86,2028-03-01,Ricardo,São Paulo,-23.55052,-46.633308,1.28
+Milho,Fibra,89,89,2028-03-02,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.09
+Arroz,Grão,319,319,2028-03-03,Ana,Manaus,-3.10194,-60.025,1.56
+Milho,Grão,766,329,2028-03-04,Ricardo,Fortaleza,-3.71722,-38.5434,1.09
+Algodão,Grão,923,491,2028-03-05,João,Recife,-8.04756,-34.877,17.68
+Café,Cereal,687,11,2028-03-06,Carlos,Brasília,-15.794229,-47.882166,38.57
+Arroz,Grão,396,307,2028-03-07,Ana,Fortaleza,-3.71722,-38.5434,1.56
+Milho,Cereal,911,8,2028-03-08,Patrícia,Recife,-8.04756,-34.877,1.09
+Soja,Grão,103,103,2028-03-09,Patrícia,Recife,-8.04756,-34.877,2.33
+Milho,Bebida,883,179,2028-03-10,Fernanda,Fortaleza,-3.71722,-38.5434,1.09
+Café,Fibra,653,653,2028-03-11,João,Porto Alegre,-30.034647,-51.217658,38.57
+Milho,Bebida,59,374,2028-03-12,João,Porto Alegre,-30.034647,-51.217658,1.09
+Milho,Fibra,963,80,2028-03-13,Ricardo,Salvador,-12.971399,-38.501305,1.09
+Soja,Cereal,978,65,2028-03-14,Pedro,Curitiba,-25.428954,-49.267137,2.33
+Cana-de-açúcar,Fibra,695,180,2028-03-15,Ricardo,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Bebida,33,290,2028-03-16,Fernanda,Brasília,-15.794229,-47.882166,1.28
+Trigo,Grão,579,141,2028-03-17,Maria,Manaus,-3.10194,-60.025,1.42
+Cana-de-açúcar,Cereal,829,20,2028-03-18,Maria,Manaus,-3.10194,-60.025,1.28
+Milho,Grão,552,142,2028-03-19,Ricardo,Porto Alegre,-30.034647,-51.217658,1.09
+Algodão,Bebida,243,243,2028-03-20,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Bebida,216,432,2028-03-21,Maria,Porto Alegre,-30.034647,-51.217658,17.68
+Algodão,Fibra,484,177,2028-03-22,Pedro,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Grão,245,100,2028-03-23,Patrícia,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Bebida,404,225,2028-03-24,João,São Paulo,-23.55052,-46.633308,17.68
+Café,Grão,705,116,2028-03-25,Pedro,Rio de Janeiro,-22.906847,-43.172896,38.57
+Trigo,Grão,312,267,2028-03-26,João,Belo Horizonte,-19.924502,-43.935237,1.42
+Arroz,Cereal,492,492,2028-03-27,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Café,Bebida,372,372,2028-03-28,Pedro,Brasília,-15.794229,-47.882166,38.57
+Soja,Cereal,609,328,2028-03-29,Ana,Belo Horizonte,-19.924502,-43.935237,2.33
+Algodão,Grão,610,296,2028-03-30,Patrícia,Salvador,-12.971399,-38.501305,17.68
+Milho,Cereal,91,263,2028-03-31,Carlos,Belo Horizonte,-19.924502,-43.935237,1.09
+Arroz,Cereal,968,404,2028-04-01,Ricardo,Belo Horizonte,-19.924502,-43.935237,1.56
+Arroz,Fibra,296,236,2028-04-02,Carlos,Brasília,-15.794229,-47.882166,1.56
+Algodão,Grão,609,250,2028-04-03,Pedro,Recife,-8.04756,-34.877,17.68
+Milho,Fibra,884,86,2028-04-04,Maria,Belo Horizonte,-19.924502,-43.935237,1.09
+Trigo,Grão,266,266,2028-04-05,João,Manaus,-3.10194,-60.025,1.42
+Arroz,Bebida,408,206,2028-04-06,Pedro,Curitiba,-25.428954,-49.267137,1.56
+Milho,Fibra,118,420,2028-04-07,Fernanda,Porto Alegre,-30.034647,-51.217658,1.09
+Café,Cereal,466,32,2028-04-08,Pedro,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Grão,244,485,2028-04-09,Maria,Porto Alegre,-30.034647,-51.217658,2.33
+Cana-de-açúcar,Cereal,975,155,2028-04-10,Ana,Recife,-8.04756,-34.877,1.28
+Soja,Grão,579,213,2028-04-11,Pedro,Belo Horizonte,-19.924502,-43.935237,2.33
+Milho,Cereal,382,340,2028-04-12,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.09
+Arroz,Cereal,219,221,2028-04-13,Patrícia,Manaus,-3.10194,-60.025,1.56
+Café,Bebida,554,355,2028-04-14,Patrícia,Salvador,-12.971399,-38.501305,38.57
+Arroz,Grão,992,402,2028-04-15,Ricardo,Brasília,-15.794229,-47.882166,1.56
+Soja,Grão,493,493,2028-04-16,Fernanda,Recife,-8.04756,-34.877,2.33
+Trigo,Bebida,474,121,2028-04-17,Maria,Curitiba,-25.428954,-49.267137,1.42
+Trigo,Bebida,107,321,2028-04-18,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.42
+Soja,Bebida,602,398,2028-04-19,Carlos,Recife,-8.04756,-34.877,2.33
+Soja,Bebida,486,213,2028-04-20,Ana,Fortaleza,-3.71722,-38.5434,2.33
+Trigo,Grão,126,479,2028-04-21,Ricardo,Salvador,-12.971399,-38.501305,1.42
+Algodão,Bebida,114,114,2028-04-22,Pedro,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Grão,1,1,2028-04-23,Ricardo,Curitiba,-25.428954,-49.267137,1.56
+Milho,Fibra,67,108,2028-04-24,Desconhecido,Fortaleza,-3.71722,-38.5434,1.09
+Trigo,Cereal,973,973,2028-04-25,João,Rio de Janeiro,-22.906847,-43.172896,1.42
+Cana-de-açúcar,Grão,877,128,2028-04-26,Fernanda,Salvador,-12.971399,-38.501305,1.28
+Trigo,Grão,101,34,2028-04-27,Patrícia,Recife,-8.04756,-34.877,1.42
+Milho,Bebida,781,430,2028-04-28,Ana,Fortaleza,-3.71722,-38.5434,1.09
+Arroz,Cereal,587,295,2028-04-29,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Café,Fibra,161,51,2028-04-30,Patrícia,Porto Alegre,-30.034647,-51.217658,38.57
+Trigo,Grão,20,156,2028-05-01,Ana,Salvador,-12.971399,-38.501305,1.42
+Algodão,Bebida,912,108,2028-05-02,Pedro,Belo Horizonte,-19.924502,-43.935237,17.68
+Soja,Grão,841,19,2028-05-03,João,Curitiba,-25.428954,-49.267137,2.33
+Milho,Cereal,383,19,2028-05-04,Fernanda,Salvador,-12.971399,-38.501305,1.09
+Arroz,Grão,437,437,2028-05-05,Patrícia,Salvador,-12.971399,-38.501305,1.56
+Trigo,Grão,746,138,2028-05-06,Patrícia,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Fibra,360,141,2028-05-07,Fernanda,Salvador,-12.971399,-38.501305,1.56
+Café,Bebida,248,133,2028-05-08,Pedro,Manaus,-3.10194,-60.025,38.57
+Café,Bebida,332,6,2028-05-09,Patrícia,Manaus,-3.10194,-60.025,38.57
+Algodão,Grão,730,229,2028-05-10,Maria,Manaus,-3.10194,-60.025,17.68
+Cana-de-açúcar,Cereal,401,161,2028-05-11,Ana,Rio de Janeiro,-22.906847,-43.172896,1.28
+Soja,Fibra,842,842,2028-05-12,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Grão,811,348,2028-05-13,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.28
+Algodão,Grão,889,18,2028-05-14,Pedro,Belo Horizonte,-19.924502,-43.935237,17.68
+Soja,Bebida,736,247,2028-05-15,Ana,São Paulo,-23.55052,-46.633308,2.33
+Arroz,Grão,263,389,2028-05-16,João,Manaus,-3.10194,-60.025,1.56
+Cana-de-açúcar,Grão,147,176,2028-05-17,Pedro,Fortaleza,-3.71722,-38.5434,1.28
+Trigo,Cereal,395,91,2028-05-18,Pedro,Salvador,-12.971399,-38.501305,1.42
+Soja,Grão,637,286,2028-05-19,Pedro,Belo Horizonte,-19.924502,-43.935237,2.33
+Milho,Bebida,972,476,2028-05-20,Ana,Salvador,-12.971399,-38.501305,1.09
+Café,Cereal,942,153,2028-05-21,Ana,Brasília,-15.794229,-47.882166,38.57
+Algodão,Cereal,35,18,2028-05-22,Ricardo,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Bebida,611,325,2028-05-23,Pedro,Brasília,-15.794229,-47.882166,17.68
+Trigo,Bebida,508,350,2028-05-24,Desconhecido,Manaus,-3.10194,-60.025,1.42
+Arroz,Bebida,772,281,2028-05-25,Ricardo,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Fibra,228,228,2028-05-26,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Soja,Bebida,996,996,2028-05-27,Pedro,Manaus,-3.10194,-60.025,2.33
+Café,Fibra,850,850,2028-05-28,Patrícia,Belo Horizonte,-19.924502,-43.935237,38.57
+Trigo,Cereal,717,73,2028-05-29,Carlos,Recife,-8.04756,-34.877,1.42
+Cana-de-açúcar,Cereal,92,92,2028-05-30,Ana,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Bebida,77,83,2028-05-31,Patrícia,Belo Horizonte,-19.924502,-43.935237,17.68
+Soja,Grão,224,111,2028-06-01,Carlos,Belo Horizonte,-19.924502,-43.935237,2.33
+Trigo,Cereal,379,86,2028-06-02,Ricardo,Brasília,-15.794229,-47.882166,1.42
+Milho,Fibra,742,477,2028-06-03,Pedro,São Paulo,-23.55052,-46.633308,1.09
+Algodão,Bebida,119,200,2028-06-04,Ana,Fortaleza,-3.71722,-38.5434,17.68
+Milho,Cereal,784,287,2028-06-05,Pedro,Rio de Janeiro,-22.906847,-43.172896,1.09
+Arroz,Bebida,192,176,2028-06-06,Carlos,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Fibra,504,504,2028-06-07,Pedro,Manaus,-3.10194,-60.025,17.68
+Cana-de-açúcar,Grão,251,196,2028-06-08,Fernanda,Manaus,-3.10194,-60.025,1.28
+Trigo,Grão,693,272,2028-06-09,Fernanda,Salvador,-12.971399,-38.501305,1.42
+Trigo,Fibra,963,210,2028-06-10,João,Recife,-8.04756,-34.877,1.42
+Soja,Bebida,845,218,2028-06-11,Ana,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Cereal,502,384,2028-06-12,Maria,Manaus,-3.10194,-60.025,1.56
+Cana-de-açúcar,Cereal,721,78,2028-06-13,Ana,Belo Horizonte,-19.924502,-43.935237,1.28
+Algodão,Cereal,77,205,2028-06-14,Fernanda,Salvador,-12.971399,-38.501305,17.68
+Arroz,Cereal,685,90,2028-06-15,Maria,Brasília,-15.794229,-47.882166,1.56
+Soja,Cereal,88,70,2028-06-16,Patrícia,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Bebida,436,30,2028-06-17,Carlos,São Paulo,-23.55052,-46.633308,1.56
+Arroz,Cereal,85,327,2028-06-18,João,Salvador,-12.971399,-38.501305,1.56
+Algodão,Grão,328,328,2028-06-19,Fernanda,São Paulo,-23.55052,-46.633308,17.68
+Soja,Bebida,8,476,2028-06-20,Carlos,Rio de Janeiro,-22.906847,-43.172896,2.33
+Trigo,Cereal,980,317,2028-06-21,Fernanda,Salvador,-12.971399,-38.501305,1.42
+Soja,Grão,77,80,2028-06-22,Pedro,São Paulo,-23.55052,-46.633308,2.33
+Café,Bebida,342,172,2028-06-23,João,Rio de Janeiro,-22.906847,-43.172896,38.57
+Soja,Bebida,860,40,2028-06-24,Ana,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Fibra,215,74,2028-06-25,Pedro,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Grão,111,111,2028-06-26,Ana,Porto Alegre,-30.034647,-51.217658,1.42
+Algodão,Cereal,478,413,2028-06-27,Carlos,Brasília,-15.794229,-47.882166,17.68
+Soja,Fibra,34,25,2028-06-28,Maria,Belo Horizonte,-19.924502,-43.935237,2.33
+Trigo,Cereal,237,266,2028-06-29,Ricardo,Salvador,-12.971399,-38.501305,1.42
+Soja,Grão,730,342,2028-06-30,Pedro,São Paulo,-23.55052,-46.633308,2.33
+Algodão,Grão,27,72,2028-07-01,Patrícia,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Cereal,620,175,2028-07-02,Ana,Porto Alegre,-30.034647,-51.217658,1.42
+Arroz,Fibra,304,154,2028-07-03,João,Salvador,-12.971399,-38.501305,1.56
+Cana-de-açúcar,Cereal,12,12,2028-07-04,Fernanda,Fortaleza,-3.71722,-38.5434,1.28
+Milho,Bebida,326,402,2028-07-05,Desconhecido,Belo Horizonte,-19.924502,-43.935237,1.09
+Arroz,Bebida,809,70,2028-07-06,Maria,Porto Alegre,-30.034647,-51.217658,1.56
+Café,Fibra,545,335,2028-07-07,Desconhecido,Belo Horizonte,-19.924502,-43.935237,38.57
+Algodão,Bebida,350,278,2028-07-08,Pedro,Recife,-8.04756,-34.877,17.68
+Algodão,Cereal,561,428,2028-07-09,Patrícia,Salvador,-12.971399,-38.501305,17.68
+Arroz,Grão,259,56,2028-07-10,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.56
+Cana-de-açúcar,Bebida,239,300,2028-07-11,João,Curitiba,-25.428954,-49.267137,1.28
+Milho,Cereal,921,235,2028-07-12,Ana,Salvador,-12.971399,-38.501305,1.09
+Trigo,Bebida,219,236,2028-07-13,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.42
+Arroz,Fibra,533,267,2028-07-14,Ricardo,Manaus,-3.10194,-60.025,1.56
+Trigo,Fibra,800,277,2028-07-15,Patrícia,Manaus,-3.10194,-60.025,1.42
+Milho,Bebida,42,312,2028-07-16,Carlos,Porto Alegre,-30.034647,-51.217658,1.09
+Café,Bebida,632,398,2028-07-17,João,Porto Alegre,-30.034647,-51.217658,38.57
+Trigo,Fibra,304,42,2028-07-18,Patrícia,Manaus,-3.10194,-60.025,1.42
+Algodão,Bebida,943,379,2028-07-19,Carlos,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Bebida,846,405,2028-07-20,Patrícia,Fortaleza,-3.71722,-38.5434,1.56
+Trigo,Grão,621,425,2028-07-21,Ana,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Bebida,211,211,2028-07-22,Ricardo,Fortaleza,-3.71722,-38.5434,1.28
+Cana-de-açúcar,Cereal,863,86,2028-07-23,Pedro,Recife,-8.04756,-34.877,1.28
+Arroz,Bebida,476,355,2028-07-24,Desconhecido,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Bebida,307,34,2028-07-25,Maria,Manaus,-3.10194,-60.025,1.28
+Algodão,Grão,654,481,2028-07-26,Patrícia,São Paulo,-23.55052,-46.633308,17.68
+Arroz,Grão,253,253,2028-07-27,Ricardo,Recife,-8.04756,-34.877,1.56
+Soja,Cereal,699,143,2028-07-28,João,Salvador,-12.971399,-38.501305,2.33
+Algodão,Bebida,444,444,2028-07-29,Patrícia,Fortaleza,-3.71722,-38.5434,17.68
+Trigo,Grão,524,142,2028-07-30,Carlos,Manaus,-3.10194,-60.025,1.42
+Soja,Cereal,408,408,2028-07-31,Patrícia,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Cereal,982,982,2028-08-01,Ricardo,Salvador,-12.971399,-38.501305,1.56
+Café,Grão,799,799,2028-08-02,Fernanda,Rio de Janeiro,-22.906847,-43.172896,38.57
+Trigo,Fibra,919,319,2028-08-03,Ricardo,Recife,-8.04756,-34.877,1.42
+Milho,Grão,167,469,2028-08-04,Pedro,Brasília,-15.794229,-47.882166,1.09
+Café,Fibra,801,154,2028-08-05,Fernanda,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Grão,487,257,2028-08-06,João,Belo Horizonte,-19.924502,-43.935237,2.33
+Cana-de-açúcar,Grão,825,101,2028-08-07,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.28
+Soja,Grão,763,388,2028-08-08,Carlos,Curitiba,-25.428954,-49.267137,2.33
+Milho,Grão,635,114,2028-08-09,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Café,Bebida,5,39,2028-08-10,João,Recife,-8.04756,-34.877,38.57
+Café,Grão,216,437,2028-08-11,Patrícia,Manaus,-3.10194,-60.025,38.57
+Arroz,Bebida,193,32,2028-08-12,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Cana-de-açúcar,Grão,726,333,2028-08-13,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.28
+Soja,Grão,554,340,2028-08-14,Desconhecido,Curitiba,-25.428954,-49.267137,2.33
+Soja,Grão,985,212,2028-08-15,Carlos,São Paulo,-23.55052,-46.633308,2.33
+Trigo,Grão,1,1,2028-08-16,Fernanda,Fortaleza,-3.71722,-38.5434,1.42
+Milho,Bebida,655,289,2028-08-17,Pedro,Curitiba,-25.428954,-49.267137,1.09
+Café,Bebida,50,363,2028-08-18,Ana,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Cereal,765,289,2028-08-19,João,Rio de Janeiro,-22.906847,-43.172896,2.33
+Soja,Bebida,170,439,2028-08-20,Pedro,Recife,-8.04756,-34.877,2.33
+Trigo,Bebida,693,693,2028-08-21,Fernanda,Porto Alegre,-30.034647,-51.217658,1.42
+Soja,Fibra,983,458,2028-08-22,Maria,Porto Alegre,-30.034647,-51.217658,2.33
+Trigo,Grão,311,467,2028-08-23,Fernanda,Curitiba,-25.428954,-49.267137,1.42
+Cana-de-açúcar,Grão,350,169,2028-08-24,Ana,Manaus,-3.10194,-60.025,1.28
+Café,Grão,698,364,2028-08-25,Patrícia,São Paulo,-23.55052,-46.633308,38.57
+Soja,Cereal,757,228,2028-08-26,Pedro,São Paulo,-23.55052,-46.633308,2.33
+Trigo,Grão,561,450,2028-08-27,Maria,Brasília,-15.794229,-47.882166,1.42
+Algodão,Fibra,525,475,2028-08-28,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Fibra,823,140,2028-08-29,Maria,Curitiba,-25.428954,-49.267137,1.42
+Soja,Grão,90,309,2028-08-30,Maria,Recife,-8.04756,-34.877,2.33
+Trigo,Grão,514,297,2028-08-31,Carlos,Salvador,-12.971399,-38.501305,1.42
+Milho,Cereal,525,349,2028-09-01,João,Porto Alegre,-30.034647,-51.217658,1.09
+Milho,Grão,305,305,2028-09-02,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Cana-de-açúcar,Bebida,145,55,2028-09-03,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Bebida,50,389,2028-09-04,Pedro,Belo Horizonte,-19.924502,-43.935237,38.57
+Soja,Bebida,769,241,2028-09-05,Carlos,São Paulo,-23.55052,-46.633308,2.33
+Algodão,Cereal,991,262,2028-09-06,Pedro,Rio de Janeiro,-22.906847,-43.172896,17.68
+Cana-de-açúcar,Grão,895,895,2028-09-07,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Algodão,Grão,43,368,2028-09-08,Pedro,Salvador,-12.971399,-38.501305,17.68
+Algodão,Bebida,437,72,2028-09-09,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Trigo,Fibra,705,157,2028-09-10,Ana,Salvador,-12.971399,-38.501305,1.42
+Arroz,Fibra,846,321,2028-09-11,Desconhecido,São Paulo,-23.55052,-46.633308,1.56
+Trigo,Bebida,394,394,2028-09-12,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Cana-de-açúcar,Grão,202,30,2028-09-13,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Café,Bebida,276,468,2028-09-14,Carlos,Porto Alegre,-30.034647,-51.217658,38.57
+Soja,Fibra,938,417,2028-09-15,Pedro,Fortaleza,-3.71722,-38.5434,2.33
+Milho,Fibra,622,221,2028-09-16,Maria,Belo Horizonte,-19.924502,-43.935237,1.09
+Cana-de-açúcar,Fibra,332,332,2028-09-17,Maria,São Paulo,-23.55052,-46.633308,1.28
+Café,Bebida,980,980,2028-09-18,Ana,Brasília,-15.794229,-47.882166,38.57
+Cana-de-açúcar,Cereal,481,258,2028-09-19,Carlos,Belo Horizonte,-19.924502,-43.935237,1.28
+Milho,Fibra,635,343,2028-09-20,Ana,Porto Alegre,-30.034647,-51.217658,1.09
+Soja,Cereal,37,128,2028-09-21,Carlos,São Paulo,-23.55052,-46.633308,2.33
+Arroz,Cereal,207,85,2028-09-22,Carlos,Brasília,-15.794229,-47.882166,1.56
+Soja,Bebida,55,55,2028-09-23,João,Porto Alegre,-30.034647,-51.217658,2.33
+Soja,Fibra,565,115,2028-09-24,Maria,Salvador,-12.971399,-38.501305,2.33
+Trigo,Bebida,950,167,2028-09-25,Fernanda,Brasília,-15.794229,-47.882166,1.42
+Trigo,Cereal,528,74,2028-09-26,Ricardo,Manaus,-3.10194,-60.025,1.42
+Soja,Fibra,6,185,2028-09-27,João,Recife,-8.04756,-34.877,2.33
+Trigo,Bebida,443,255,2028-09-28,Ricardo,Recife,-8.04756,-34.877,1.42
+Trigo,Cereal,331,413,2028-09-29,Fernanda,Recife,-8.04756,-34.877,1.42
+Café,Bebida,513,426,2028-09-30,Ricardo,Recife,-8.04756,-34.877,38.57
+Cana-de-açúcar,Fibra,663,663,2028-10-01,Ana,Porto Alegre,-30.034647,-51.217658,1.28
+Algodão,Bebida,632,372,2028-10-02,Maria,Recife,-8.04756,-34.877,17.68
+Algodão,Bebida,411,222,2028-10-03,João,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Grão,83,469,2028-10-04,Fernanda,Salvador,-12.971399,-38.501305,1.56
+Cana-de-açúcar,Cereal,100,48,2028-10-05,Ana,Curitiba,-25.428954,-49.267137,1.28
+Algodão,Grão,411,162,2028-10-06,Patrícia,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Grão,684,266,2028-10-07,Maria,Curitiba,-25.428954,-49.267137,1.56
+Café,Fibra,216,216,2028-10-08,Maria,Salvador,-12.971399,-38.501305,38.57
+Algodão,Grão,498,472,2028-10-09,Pedro,Brasília,-15.794229,-47.882166,17.68
+Trigo,Fibra,960,150,2028-10-10,Desconhecido,Brasília,-15.794229,-47.882166,1.42
+Trigo,Cereal,643,643,2028-10-11,Fernanda,Brasília,-15.794229,-47.882166,1.42
+Trigo,Bebida,482,482,2028-10-12,Pedro,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Cereal,614,328,2028-10-13,Patrícia,Manaus,-3.10194,-60.025,1.56
+Trigo,Cereal,897,243,2028-10-14,Pedro,Fortaleza,-3.71722,-38.5434,1.42
+Café,Bebida,80,419,2028-10-15,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,38.57
+Cana-de-açúcar,Grão,712,449,2028-10-16,Pedro,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Cereal,492,492,2028-10-17,Patrícia,Rio de Janeiro,-22.906847,-43.172896,1.28
+Café,Cereal,211,428,2028-10-18,Pedro,São Paulo,-23.55052,-46.633308,38.57
+Trigo,Bebida,340,340,2028-10-19,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.42
+Soja,Fibra,394,360,2028-10-20,Maria,Salvador,-12.971399,-38.501305,2.33
+Café,Fibra,488,149,2028-10-21,João,Fortaleza,-3.71722,-38.5434,38.57
+Cana-de-açúcar,Cereal,243,240,2028-10-22,João,Curitiba,-25.428954,-49.267137,1.28
+Milho,Grão,410,79,2028-10-23,Fernanda,Recife,-8.04756,-34.877,1.09
+Café,Grão,497,398,2028-10-24,Ricardo,Porto Alegre,-30.034647,-51.217658,38.57
+Algodão,Fibra,304,489,2028-10-25,Ana,Brasília,-15.794229,-47.882166,17.68
+Soja,Grão,887,466,2028-10-26,João,Recife,-8.04756,-34.877,2.33
+Soja,Grão,244,204,2028-10-27,Maria,Rio de Janeiro,-22.906847,-43.172896,2.33
+Cana-de-açúcar,Grão,378,378,2028-10-28,Pedro,Belo Horizonte,-19.924502,-43.935237,1.28
+Café,Bebida,720,357,2028-10-29,Ricardo,Manaus,-3.10194,-60.025,38.57
+Milho,Bebida,780,26,2028-10-30,João,Rio de Janeiro,-22.906847,-43.172896,1.09
+Soja,Grão,77,77,2028-10-31,Pedro,Manaus,-3.10194,-60.025,2.33
+Cana-de-açúcar,Bebida,531,162,2028-11-01,Maria,Rio de Janeiro,-22.906847,-43.172896,1.28
+Trigo,Bebida,192,211,2028-11-02,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.42
+Café,Grão,257,63,2028-11-03,Ricardo,Porto Alegre,-30.034647,-51.217658,38.57
+Café,Grão,868,317,2028-11-04,Desconhecido,Porto Alegre,-30.034647,-51.217658,38.57
+Trigo,Bebida,363,136,2028-11-05,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Trigo,Cereal,91,327,2028-11-06,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.42
+Algodão,Bebida,744,340,2028-11-07,João,Rio de Janeiro,-22.906847,-43.172896,17.68
+Café,Bebida,882,150,2028-11-08,Carlos,Porto Alegre,-30.034647,-51.217658,38.57
+Cana-de-açúcar,Grão,747,217,2028-11-09,Pedro,São Paulo,-23.55052,-46.633308,1.28
+Milho,Cereal,844,318,2028-11-10,João,Curitiba,-25.428954,-49.267137,1.09
+Algodão,Bebida,369,484,2028-11-11,Desconhecido,Fortaleza,-3.71722,-38.5434,17.68
+Algodão,Cereal,476,15,2028-11-12,Patrícia,Rio de Janeiro,-22.906847,-43.172896,17.68
+Milho,Bebida,101,101,2028-11-13,Fernanda,Manaus,-3.10194,-60.025,1.09
+Milho,Bebida,400,149,2028-11-14,Desconhecido,Manaus,-3.10194,-60.025,1.09
+Algodão,Fibra,108,387,2028-11-15,Pedro,Recife,-8.04756,-34.877,17.68
+Arroz,Cereal,573,150,2028-11-16,Ricardo,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Cereal,855,855,2028-11-17,Maria,Manaus,-3.10194,-60.025,17.68
+Cana-de-açúcar,Bebida,744,744,2028-11-18,João,Salvador,-12.971399,-38.501305,1.28
+Soja,Bebida,578,96,2028-11-19,Maria,Belo Horizonte,-19.924502,-43.935237,2.33
+Soja,Cereal,93,93,2028-11-20,Ricardo,São Paulo,-23.55052,-46.633308,2.33
+Cana-de-açúcar,Bebida,519,481,2028-11-21,João,Rio de Janeiro,-22.906847,-43.172896,1.28
+Milho,Bebida,810,260,2028-11-22,Desconhecido,Fortaleza,-3.71722,-38.5434,1.09
+Café,Fibra,284,436,2028-11-23,Fernanda,Manaus,-3.10194,-60.025,38.57
+Soja,Bebida,15,105,2028-11-24,Desconhecido,Brasília,-15.794229,-47.882166,2.33
+Soja,Bebida,673,159,2028-11-25,Maria,Brasília,-15.794229,-47.882166,2.33
+Algodão,Fibra,872,76,2028-11-26,Desconhecido,São Paulo,-23.55052,-46.633308,17.68
+Soja,Bebida,737,2,2028-11-27,Ricardo,Manaus,-3.10194,-60.025,2.33
+Milho,Fibra,161,231,2028-11-28,Patrícia,Salvador,-12.971399,-38.501305,1.09
+Soja,Grão,632,478,2028-11-29,Fernanda,Rio de Janeiro,-22.906847,-43.172896,2.33
+Arroz,Bebida,881,44,2028-11-30,João,Rio de Janeiro,-22.906847,-43.172896,1.56
+Algodão,Fibra,860,489,2028-12-01,Fernanda,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Grão,913,191,2028-12-02,João,Brasília,-15.794229,-47.882166,1.28
+Cana-de-açúcar,Fibra,226,343,2028-12-03,Patrícia,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Fibra,240,448,2028-12-04,Ana,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Grão,455,455,2028-12-05,Carlos,Porto Alegre,-30.034647,-51.217658,1.56
+Algodão,Grão,232,232,2028-12-06,Pedro,Recife,-8.04756,-34.877,17.68
+Algodão,Grão,1,1,2028-12-07,Ricardo,Fortaleza,-3.71722,-38.5434,17.68
+Café,Cereal,681,363,2028-12-08,Maria,Porto Alegre,-30.034647,-51.217658,38.57
+Milho,Cereal,761,357,2028-12-09,Fernanda,São Paulo,-23.55052,-46.633308,1.09
+Café,Grão,760,156,2028-12-10,Patrícia,Recife,-8.04756,-34.877,38.57
+Café,Grão,859,270,2028-12-11,Carlos,Curitiba,-25.428954,-49.267137,38.57
+Trigo,Fibra,734,734,2028-12-12,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Bebida,323,33,2028-12-13,Patrícia,São Paulo,-23.55052,-46.633308,1.28
+Milho,Bebida,139,57,2028-12-14,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.09
+Milho,Fibra,424,166,2028-12-15,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.09
+Cana-de-açúcar,Fibra,956,80,2028-12-16,Ricardo,Salvador,-12.971399,-38.501305,1.28
+Milho,Cereal,49,37,2028-12-17,Patrícia,Porto Alegre,-30.034647,-51.217658,1.09
+Café,Grão,897,380,2028-12-18,Ricardo,Manaus,-3.10194,-60.025,38.57
+Trigo,Cereal,181,12,2028-12-19,Ricardo,São Paulo,-23.55052,-46.633308,1.42
+Arroz,Grão,699,78,2028-12-20,Maria,Brasília,-15.794229,-47.882166,1.56
+Algodão,Grão,706,266,2028-12-21,Fernanda,Salvador,-12.971399,-38.501305,17.68
+Algodão,Bebida,463,180,2028-12-22,Pedro,Porto Alegre,-30.034647,-51.217658,17.68
+Milho,Cereal,768,369,2028-12-23,Ricardo,Rio de Janeiro,-22.906847,-43.172896,1.09
+Café,Cereal,614,328,2028-12-24,Pedro,Recife,-8.04756,-34.877,38.57
+Milho,Cereal,338,363,2028-12-25,Carlos,Porto Alegre,-30.034647,-51.217658,1.09
+Milho,Cereal,356,337,2028-12-26,Maria,Fortaleza,-3.71722,-38.5434,1.09
+Algodão,Fibra,844,21,2028-12-27,Pedro,Fortaleza,-3.71722,-38.5434,17.68
+Trigo,Grão,608,85,2028-12-28,Desconhecido,São Paulo,-23.55052,-46.633308,1.42
+Milho,Bebida,998,443,2028-12-29,Maria,Fortaleza,-3.71722,-38.5434,1.09
+Algodão,Fibra,423,423,2028-12-30,Maria,Curitiba,-25.428954,-49.267137,17.68
+Arroz,Fibra,230,363,2028-12-31,Carlos,Curitiba,-25.428954,-49.267137,1.56
+Café,Fibra,145,29,2029-01-01,Maria,Fortaleza,-3.71722,-38.5434,38.57
+Algodão,Fibra,693,182,2029-01-02,João,Porto Alegre,-30.034647,-51.217658,17.68
+Algodão,Fibra,846,846,2029-01-03,Maria,Porto Alegre,-30.034647,-51.217658,17.68
+Milho,Fibra,918,431,2029-01-04,Desconhecido,Manaus,-3.10194,-60.025,1.09
+Trigo,Bebida,812,306,2029-01-05,João,Salvador,-12.971399,-38.501305,1.42
+Trigo,Grão,493,125,2029-01-06,Carlos,Curitiba,-25.428954,-49.267137,1.42
+Arroz,Fibra,725,122,2029-01-07,Maria,Rio de Janeiro,-22.906847,-43.172896,1.56
+Cana-de-açúcar,Fibra,927,166,2029-01-08,Patrícia,Curitiba,-25.428954,-49.267137,1.28
+Café,Grão,818,199,2029-01-09,Carlos,Salvador,-12.971399,-38.501305,38.57
+Algodão,Grão,245,245,2029-01-10,Maria,Rio de Janeiro,-22.906847,-43.172896,17.68
+Cana-de-açúcar,Fibra,667,172,2029-01-11,Maria,Fortaleza,-3.71722,-38.5434,1.28
+Arroz,Fibra,412,412,2029-01-12,Maria,Manaus,-3.10194,-60.025,1.56
+Café,Fibra,672,298,2029-01-13,Maria,Manaus,-3.10194,-60.025,38.57
+Café,Fibra,39,39,2029-01-14,João,Brasília,-15.794229,-47.882166,38.57
+Soja,Cereal,906,100,2029-01-15,Desconhecido,Salvador,-12.971399,-38.501305,2.33
+Milho,Bebida,338,430,2029-01-16,João,Brasília,-15.794229,-47.882166,1.09
+Soja,Grão,436,387,2029-01-17,Pedro,Porto Alegre,-30.034647,-51.217658,2.33
+Arroz,Grão,775,64,2029-01-18,João,Salvador,-12.971399,-38.501305,1.56
+Algodão,Fibra,656,13,2029-01-19,Patrícia,Belo Horizonte,-19.924502,-43.935237,17.68
+Algodão,Fibra,144,18,2029-01-20,Carlos,Brasília,-15.794229,-47.882166,17.68
+Algodão,Bebida,102,102,2029-01-21,Ricardo,Recife,-8.04756,-34.877,17.68
+Café,Fibra,199,199,2029-01-22,João,Salvador,-12.971399,-38.501305,38.57
+Café,Fibra,108,413,2029-01-23,Ana,Brasília,-15.794229,-47.882166,38.57
+Soja,Grão,103,442,2029-01-24,Patrícia,Manaus,-3.10194,-60.025,2.33
+Milho,Bebida,270,270,2029-01-25,Desconhecido,Rio de Janeiro,-22.906847,-43.172896,1.09
+Arroz,Grão,29,281,2029-01-26,Pedro,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Grão,776,117,2029-01-27,Fernanda,Brasília,-15.794229,-47.882166,1.28
+Cana-de-açúcar,Cereal,780,11,2029-01-28,João,Curitiba,-25.428954,-49.267137,1.28
+Cana-de-açúcar,Grão,659,174,2029-01-29,Desconhecido,Brasília,-15.794229,-47.882166,1.28
+Arroz,Cereal,679,104,2029-01-30,Desconhecido,Brasília,-15.794229,-47.882166,1.56
+Trigo,Cereal,856,471,2029-01-31,Ana,Recife,-8.04756,-34.877,1.42
+Milho,Bebida,45,30,2029-02-01,Patrícia,São Paulo,-23.55052,-46.633308,1.09
+Soja,Grão,636,636,2029-02-02,Ana,Manaus,-3.10194,-60.025,2.33
+Algodão,Fibra,465,465,2029-02-03,Ricardo,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Fibra,818,476,2029-02-04,Ana,Porto Alegre,-30.034647,-51.217658,1.42
+Café,Grão,998,205,2029-02-05,Ricardo,Fortaleza,-3.71722,-38.5434,38.57
+Café,Bebida,570,304,2029-02-06,Fernanda,Porto Alegre,-30.034647,-51.217658,38.57
+Algodão,Fibra,800,477,2029-02-07,Ricardo,Manaus,-3.10194,-60.025,17.68
+Soja,Grão,386,3,2029-02-08,Patrícia,Curitiba,-25.428954,-49.267137,2.33
+Milho,Fibra,626,428,2029-02-09,Desconhecido,Salvador,-12.971399,-38.501305,1.09
+Algodão,Grão,851,217,2029-02-10,Fernanda,Fortaleza,-3.71722,-38.5434,17.68
+Arroz,Bebida,137,499,2029-02-11,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Café,Grão,826,173,2029-02-12,Pedro,Fortaleza,-3.71722,-38.5434,38.57
+Algodão,Fibra,861,177,2029-02-13,Ricardo,São Paulo,-23.55052,-46.633308,17.68
+Cana-de-açúcar,Bebida,911,60,2029-02-14,Fernanda,Salvador,-12.971399,-38.501305,1.28
+Cana-de-açúcar,Grão,756,364,2029-02-15,Ricardo,Recife,-8.04756,-34.877,1.28
+Algodão,Fibra,221,441,2029-02-16,Fernanda,Fortaleza,-3.71722,-38.5434,17.68
+Soja,Fibra,231,328,2029-02-17,Patrícia,Curitiba,-25.428954,-49.267137,2.33
+Milho,Bebida,937,415,2029-02-18,Ana,Belo Horizonte,-19.924502,-43.935237,1.09
+Algodão,Bebida,729,156,2029-02-19,Pedro,Salvador,-12.971399,-38.501305,17.68
+Algodão,Cereal,48,352,2029-02-20,Fernanda,Porto Alegre,-30.034647,-51.217658,17.68
+Arroz,Bebida,117,397,2029-02-21,Maria,Fortaleza,-3.71722,-38.5434,1.56
+Trigo,Fibra,547,473,2029-02-22,Ricardo,Brasília,-15.794229,-47.882166,1.42
+Trigo,Fibra,622,287,2029-02-23,Ana,Manaus,-3.10194,-60.025,1.42
+Café,Grão,121,121,2029-02-24,Maria,Porto Alegre,-30.034647,-51.217658,38.57
+Arroz,Bebida,621,621,2029-02-25,João,Recife,-8.04756,-34.877,1.56
+Café,Fibra,484,51,2029-02-26,Ricardo,Brasília,-15.794229,-47.882166,38.57
+Milho,Grão,528,76,2029-02-27,Maria,Brasília,-15.794229,-47.882166,1.09
+Café,Fibra,703,421,2029-02-28,Fernanda,Fortaleza,-3.71722,-38.5434,38.57
+Cana-de-açúcar,Bebida,303,178,2029-03-01,Ricardo,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Fibra,541,202,2029-03-02,Patrícia,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Bebida,29,117,2029-03-03,Patrícia,Recife,-8.04756,-34.877,1.28
+Café,Cereal,132,132,2029-03-04,Pedro,Belo Horizonte,-19.924502,-43.935237,38.57
+Arroz,Fibra,493,215,2029-03-05,Ana,Manaus,-3.10194,-60.025,1.56
+Algodão,Bebida,351,323,2029-03-06,Ana,Belo Horizonte,-19.924502,-43.935237,17.68
+Soja,Fibra,977,450,2029-03-07,Carlos,São Paulo,-23.55052,-46.633308,2.33
+Arroz,Grão,705,141,2029-03-08,João,Brasília,-15.794229,-47.882166,1.56
+Milho,Cereal,735,130,2029-03-09,Fernanda,Recife,-8.04756,-34.877,1.09
+Arroz,Cereal,568,124,2029-03-10,Desconhecido,Belo Horizonte,-19.924502,-43.935237,1.56
+Algodão,Fibra,126,234,2029-03-11,Desconhecido,Manaus,-3.10194,-60.025,17.68
+Cana-de-açúcar,Bebida,542,374,2029-03-12,Fernanda,Brasília,-15.794229,-47.882166,1.28
+Trigo,Fibra,888,149,2029-03-13,Carlos,Manaus,-3.10194,-60.025,1.42
+Milho,Fibra,648,24,2029-03-14,Maria,São Paulo,-23.55052,-46.633308,1.09
+Algodão,Cereal,340,351,2029-03-15,Maria,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Fibra,14,139,2029-03-16,Patrícia,São Paulo,-23.55052,-46.633308,1.42
+Milho,Cereal,696,150,2029-03-17,Fernanda,Brasília,-15.794229,-47.882166,1.09
+Milho,Bebida,245,131,2029-03-18,Ana,Manaus,-3.10194,-60.025,1.09
+Arroz,Bebida,72,217,2029-03-19,Pedro,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Grão,195,202,2029-03-20,Ana,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Bebida,715,326,2029-03-21,Maria,São Paulo,-23.55052,-46.633308,1.28
+Algodão,Grão,177,345,2029-03-22,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Trigo,Cereal,341,95,2029-03-23,Ricardo,Fortaleza,-3.71722,-38.5434,1.42
+Cana-de-açúcar,Bebida,559,559,2029-03-24,Ricardo,Salvador,-12.971399,-38.501305,1.28
+Trigo,Cereal,785,255,2029-03-25,Desconhecido,Manaus,-3.10194,-60.025,1.42
+Algodão,Grão,279,233,2029-03-26,Carlos,Recife,-8.04756,-34.877,17.68
+Cana-de-açúcar,Bebida,146,294,2029-03-27,Pedro,Manaus,-3.10194,-60.025,1.28
+Arroz,Grão,773,124,2029-03-28,João,Porto Alegre,-30.034647,-51.217658,1.56
+Cana-de-açúcar,Grão,867,67,2029-03-29,Carlos,Brasília,-15.794229,-47.882166,1.28
+Cana-de-açúcar,Fibra,863,403,2029-03-30,Pedro,Manaus,-3.10194,-60.025,1.28
+Algodão,Grão,695,358,2029-03-31,Ana,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Grão,568,400,2029-04-01,Pedro,Recife,-8.04756,-34.877,1.56
+Soja,Grão,163,356,2029-04-02,Pedro,Belo Horizonte,-19.924502,-43.935237,2.33
+Algodão,Grão,548,548,2029-04-03,Patrícia,Manaus,-3.10194,-60.025,17.68
+Café,Fibra,364,169,2029-04-04,Patrícia,Salvador,-12.971399,-38.501305,38.57
+Arroz,Cereal,458,338,2029-04-05,Maria,Salvador,-12.971399,-38.501305,1.56
+Café,Cereal,292,6,2029-04-06,Pedro,Belo Horizonte,-19.924502,-43.935237,38.57
+Algodão,Bebida,823,249,2029-04-07,Ricardo,Rio de Janeiro,-22.906847,-43.172896,17.68
+Algodão,Grão,243,243,2029-04-08,Maria,Rio de Janeiro,-22.906847,-43.172896,17.68
+Cana-de-açúcar,Fibra,345,404,2029-04-09,Carlos,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Grão,313,261,2029-04-10,Pedro,Porto Alegre,-30.034647,-51.217658,17.68
+Cana-de-açúcar,Fibra,888,423,2029-04-11,Ricardo,Porto Alegre,-30.034647,-51.217658,1.28
+Trigo,Bebida,275,183,2029-04-12,João,Porto Alegre,-30.034647,-51.217658,1.42
+Cana-de-açúcar,Fibra,553,50,2029-04-13,Fernanda,Rio de Janeiro,-22.906847,-43.172896,1.28
+Algodão,Bebida,173,7,2029-04-14,Ricardo,Belo Horizonte,-19.924502,-43.935237,17.68
+Arroz,Grão,432,46,2029-04-15,Pedro,Belo Horizonte,-19.924502,-43.935237,1.56
+Soja,Grão,424,113,2029-04-16,Pedro,Brasília,-15.794229,-47.882166,2.33
+Arroz,Bebida,650,415,2029-04-17,Pedro,Manaus,-3.10194,-60.025,1.56
+Algodão,Cereal,402,402,2029-04-18,João,Manaus,-3.10194,-60.025,17.68
+Arroz,Bebida,355,240,2029-04-19,Maria,Rio de Janeiro,-22.906847,-43.172896,1.56
+Trigo,Cereal,455,455,2029-04-20,Ana,Rio de Janeiro,-22.906847,-43.172896,1.42
+Soja,Cereal,433,59,2029-04-21,Ana,Salvador,-12.971399,-38.501305,2.33
+Algodão,Bebida,465,8,2029-04-22,Carlos,Rio de Janeiro,-22.906847,-43.172896,17.68
+Arroz,Fibra,160,160,2029-04-23,Desconhecido,Curitiba,-25.428954,-49.267137,1.56
+Arroz,Cereal,590,32,2029-04-24,Patrícia,Salvador,-12.971399,-38.501305,1.56
+Milho,Bebida,501,377,2029-04-25,Fernanda,São Paulo,-23.55052,-46.633308,1.09
+Cana-de-açúcar,Fibra,663,217,2029-04-26,Carlos,Fortaleza,-3.71722,-38.5434,1.28
+Algodão,Cereal,138,165,2029-04-27,Carlos,Fortaleza,-3.71722,-38.5434,17.68
+Milho,Cereal,344,28,2029-04-28,Patrícia,Salvador,-12.971399,-38.501305,1.09
+Arroz,Grão,314,369,2029-04-29,João,Curitiba,-25.428954,-49.267137,1.56
+Arroz,Grão,90,220,2029-04-30,João,Rio de Janeiro,-22.906847,-43.172896,1.56
+Soja,Fibra,487,240,2029-05-01,Fernanda,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Fibra,564,50,2029-05-02,Ricardo,Manaus,-3.10194,-60.025,1.56
+Cana-de-açúcar,Fibra,13,58,2029-05-03,Fernanda,Salvador,-12.971399,-38.501305,1.28
+Arroz,Bebida,810,224,2029-05-04,João,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Bebida,258,258,2029-05-05,Maria,Salvador,-12.971399,-38.501305,17.68
+Soja,Cereal,392,247,2029-05-06,Pedro,Porto Alegre,-30.034647,-51.217658,2.33
+Soja,Cereal,840,116,2029-05-07,Maria,Manaus,-3.10194,-60.025,2.33
+Trigo,Cereal,445,388,2029-05-08,Pedro,Porto Alegre,-30.034647,-51.217658,1.42
+Soja,Grão,989,989,2029-05-09,Pedro,Rio de Janeiro,-22.906847,-43.172896,2.33
+Trigo,Cereal,910,197,2029-05-10,Maria,Brasília,-15.794229,-47.882166,1.42
+Milho,Bebida,198,492,2029-05-11,Patrícia,Porto Alegre,-30.034647,-51.217658,1.09
+Trigo,Grão,418,410,2029-05-12,Fernanda,Brasília,-15.794229,-47.882166,1.42
+Milho,Grão,842,842,2029-05-13,João,Recife,-8.04756,-34.877,1.09
+Trigo,Bebida,935,268,2029-05-14,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.42
+Algodão,Bebida,413,398,2029-05-15,Ana,Curitiba,-25.428954,-49.267137,17.68
+Trigo,Bebida,661,80,2029-05-16,Fernanda,Recife,-8.04756,-34.877,1.42
+Arroz,Fibra,144,243,2029-05-17,João,Recife,-8.04756,-34.877,1.56
+Algodão,Bebida,642,277,2029-05-18,Fernanda,Recife,-8.04756,-34.877,17.68
+Café,Cereal,65,65,2029-05-19,Ana,Curitiba,-25.428954,-49.267137,38.57
+Milho,Fibra,848,483,2029-05-20,Ana,Salvador,-12.971399,-38.501305,1.09
+Arroz,Fibra,751,406,2029-05-21,João,Belo Horizonte,-19.924502,-43.935237,1.56
+Arroz,Cereal,106,22,2029-05-22,Fernanda,Belo Horizonte,-19.924502,-43.935237,1.56
+Algodão,Bebida,531,433,2029-05-23,Carlos,Salvador,-12.971399,-38.501305,17.68
+Cana-de-açúcar,Grão,992,437,2029-05-24,Fernanda,Recife,-8.04756,-34.877,1.28
+Arroz,Grão,370,362,2029-05-25,Maria,São Paulo,-23.55052,-46.633308,1.56
+Algodão,Bebida,152,179,2029-05-26,Fernanda,Manaus,-3.10194,-60.025,17.68
+Arroz,Cereal,799,260,2029-05-27,Patrícia,Belo Horizonte,-19.924502,-43.935237,1.56
+Trigo,Cereal,437,258,2029-05-28,Carlos,Manaus,-3.10194,-60.025,1.42
+Arroz,Bebida,128,117,2029-05-29,Carlos,Rio de Janeiro,-22.906847,-43.172896,1.56
+Soja,Grão,414,289,2029-05-30,Pedro,Fortaleza,-3.71722,-38.5434,2.33
+Trigo,Bebida,987,987,2029-05-31,Fernanda,Brasília,-15.794229,-47.882166,1.42
+Trigo,Bebida,857,311,2029-06-01,Ricardo,São Paulo,-23.55052,-46.633308,1.42
+Algodão,Cereal,51,51,2029-06-02,Fernanda,Belo Horizonte,-19.924502,-43.935237,17.68
+Algodão,Bebida,50,42,2029-06-03,João,Porto Alegre,-30.034647,-51.217658,17.68
+Soja,Cereal,1,1,2029-06-04,Carlos,Brasília,-15.794229,-47.882166,2.33
+Trigo,Grão,606,221,2029-06-05,Ricardo,Belo Horizonte,-19.924502,-43.935237,1.42
+Trigo,Bebida,707,362,2029-06-06,Patrícia,Porto Alegre,-30.034647,-51.217658,1.42
+Café,Cereal,237,249,2029-06-07,Pedro,Belo Horizonte,-19.924502,-43.935237,38.57
+Cana-de-açúcar,Bebida,432,308,2029-06-08,Carlos,São Paulo,-23.55052,-46.633308,1.28
+Arroz,Bebida,584,35,2029-06-09,Fernanda,Fortaleza,-3.71722,-38.5434,1.56
+Café,Grão,620,372,2029-06-10,Patrícia,Salvador,-12.971399,-38.501305,38.57
+Café,Fibra,772,98,2029-06-11,Pedro,Fortaleza,-3.71722,-38.5434,38.57
+Arroz,Fibra,622,80,2029-06-12,Carlos,Salvador,-12.971399,-38.501305,1.56
+Cana-de-açúcar,Fibra,412,84,2029-06-13,João,Manaus,-3.10194,-60.025,1.28
+Soja,Fibra,177,12,2029-06-14,Ana,Belo Horizonte,-19.924502,-43.935237,2.33
+Arroz,Grão,433,92,2029-06-15,Fernanda,Fortaleza,-3.71722,-38.5434,1.56
+Algodão,Cereal,1,1,2029-06-16,Ricardo,Belo Horizonte,-19.924502,-43.935237,17.68
+Trigo,Grão,195,251,2029-06-17,Pedro,Fortaleza,-3.71722,-38.5434,1.42
+Arroz,Cereal,493,336,2029-06-18,Patrícia,São Paulo,-23.55052,-46.633308,1.56
+Cana-de-açúcar,Fibra,457,385,2029-06-19,Ana,Porto Alegre,-30.034647,-51.217658,1.28
+Algodão,Fibra,316,276,2029-06-20,Maria,Recife,-8.04756,-34.877,17.68
+Trigo,Grão,65,319,2029-06-21,João,Salvador,-12.971399,-38.501305,1.42
+Milho,Fibra,982,403,2029-06-22,Ricardo,Recife,-8.04756,-34.877,1.09
