@@ -58,5 +58,31 @@
 - `df.to_csv('data/banco_agro_projeto_limpo.csv', index=False)`  
   Salva o DataFrame
 
+## 6 - Análise e extração de insights
+
+### Estatísticas e métricas básicas
+- `df['Vendidos'].sum()` → total de produtos vendidos  
+- `df['Estoque'].sum()` → total em estoque  
+- `df['Preco_kg'].mean()` → preço médio por kg  
+- `df['Vendidos'].mean()` → média das vendas
+- `df['Estoque'].mean()` → média do estoque 
+- `df['Produto'].mode()` → Moda dos produtos
+- `df['Faturamento'] = df['Vendidos'] * df['Preco_kg']` → cria coluna de faturamento  
+- `df.groupby('Produto')['Faturamento'].sum().reset_index()` → faturamento total por produto  
+- `df.groupby('Produto')['Vendidos'].sum().reset_index()` → total vendido por produto  
+- `df.groupby('Produto')['Estoque'].sum().reset_index()` → total de estoque por produto  
+
+
+### Ordenação e filtragem
+- `df.sort_values('Faturamento', ascending=False)` → produtos com maior faturamento  
+- `df[df['Vendidos'] > 10]` → filtra produtos com vendas acima de 10 unidades  
+
+### Análise de perdas ou produtos não vendidos
+- `df['Nao_vendidos'] = df['Estoque'] * df['Preco_kg']` → calcula valor de estoque não vendido  
+- `df.groupby('Produto')['Nao_vendidos'].sum().reset_index()` → perdas por produto  
+
+### Contagem e frequência
+- `df['Produto'].value_counts()` → quantidade de ocorrências de cada produto  
+- `df['Vendedor'].value_counts()` → vendas por vendedor  
 
 

@@ -125,7 +125,8 @@ pillow
 pip                     
 pkginfo                   
 platformdirs             
-plotly                   
+plotly 
+plotly.express                  
 pluggy                   
 prometheus_client         
 prompt_toolkit            
