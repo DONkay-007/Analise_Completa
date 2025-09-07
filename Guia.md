@@ -1,4 +1,4 @@
-#       Meus Passos seguidos Para obter insigths 📈📊🔍 Análise de Dados<br>
+#       Meus Passos seguidos Para obter insigths 📈📊🔍 Análise de Dados e ETL <br>
 
 ## 1 - Instalaçãoe e configuração do ambiente
 ## 2 - Importação dos dados
@@ -20,7 +20,7 @@
 - `df.dropna()` -> remove linhas com valores nulos
 - `df.fillna(valor)` -> substitui valores nulos por um valor específico
 
-## 5 - Tratamento e limpeza de dados
+## 5 - Tratamento e limpeza de dados (EXTRACT)
 
 ### Conversão de tipos de dados
 - `pd.to_datetime(df['Data_de_vendas'], errors='coerce')`  
@@ -58,7 +58,7 @@
 - `df.to_csv('data/banco_agro_projeto_limpo.csv', index=False)`  
   Salva o DataFrame
 
-## 6 - Análise e extração de insights
+## 6 - Análise e extração de insights  (TRANSFORM)
 
 ### Estatísticas e métricas básicas
 - `df['Vendidos'].sum()` → total de produtos vendidos  
@@ -84,5 +84,7 @@
 ### Contagem e frequência
 - `df['Produto'].value_counts()` → quantidade de ocorrências de cada produto  
 - `df['Vendedor'].value_counts()` → vendas por vendedor  
+
+## 7 - Criação de visualização com Streamlit (LOAD)
 
 
