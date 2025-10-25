@@ -1,0 +1,149 @@
+{
+  "name": "PROJETO AGRO - Chatbot (Gemini 2.5 Agent) - Ativável v4",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        2240,
+        976
+      ],
+      "id": "cd5479ca-c22e-4c81-80aa-b077b9203239",
+      "name": "Google Gemini Chat Model1",
+      "credentials": {}
+    },
+    {
+      "parameters": {
+        "content": "## AGENTE IA Gemini",
+        "height": 384,
+        "width": 384,
+        "color": 2
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2192,
+        752
+      ],
+      "typeVersion": 1,
+      "id": "93de5f9f-4287-4b56-980c-3b551395986b",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "text": "=Pergunta: {{ $json.pergunta }}\\n\\nBase de dados (CSV):\\n{{ JSON.stringify($json.dados) }}\\n",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1,
+      "position": [
+        2272,
+        816
+      ],
+      "name": "AI Agent (Gemini 2.5)",
+      "id": "d68ac8d0-b329-4136-bb0b-68461e172cd0"
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={ \"resposta\": \"{{$json.result || $json.output || $json.text || 'Sem resposta gerada.'}}\" }\\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [
+        2624,
+        784
+      ],
+      "name": "Respond to Webhook",
+      "id": "cb9b3ba2-25e5-424e-903c-1485b44ab5b9"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "chat-vendas",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        1808,
+        816
+      ],
+      "name": "Webhook1",
+      "id": "5b43c12b-4c2c-4423-923d-0157fbcc3f2a"
+    },
+    {
+      "parameters": {
+        "jsCode": "function csvToJson(csvText) {\\n  if (!csvText) return [];\\n  const linhas = csvText.trim().split(/\\\\r?\\\\n/).filter(Boolean);\\n  if (linhas.length === 0) return [];\\n  const headers = linhas[0].split(',').map(h => h.trim());\\n  return linhas.slice(1).map(l => {\\n    const vals = l.split(',');\\n    const obj = {};\\n    headers.forEach((h, i) => obj[h] = (vals[i] !== undefined) ? vals[i].trim() : null);\\n    return obj;\\n  });\\n}\\n\\nconst req = $input.first().json || {};\\nconst body = req.body || req;  // <<=== CORREÇÃO AQUI\\n\\nreturn [\\n  {\\n    json: {\\n      pergunta: body.mensagem || '',\\n      dados: csvToJson(body.csv || '')\\n    }\\n  }\\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2048,
+        784
+      ],
+      "name": "Parse CSV (Code)1",
+      "id": "7336b3b8-94ce-4c0f-ab95-bf9442cccd1a"
+    }
+  ],
+  "connections": {
+    "Google Gemini Chat Model1": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent (Gemini 2.5)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent (Gemini 2.5)": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook1": {
+      "main": [
+        [
+          {
+            "node": "Parse CSV (Code)1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse CSV (Code)1": {
+      "main": [
+        [
+          {
+            "node": "AI Agent (Gemini 2.5)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "5da7c9d1-bcfc-4c4e-8836-d3d8d03d9942",
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
+  "id": "2dUFRHbbRCormytE",
+  "tags": []
+}
