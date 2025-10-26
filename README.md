@@ -79,6 +79,10 @@ O projeto utiliza o arquivo `banco_agro_projeto.csv`, que contém informações 
 
 ---
 
+# Como rodar o Projeto passo a passo 📉
+
+- No Markdonw Guia.md terá uma parte específica falando sobre esse tema, mais dúvidas de como baixar entre em contato pelas minha redes socias, abraço.
+
 ## 🚀 Próximos Passos
 
 - Aprimorar os modelos de previsão de vendas com algoritmos mais avançados.
@@ -90,4 +94,4 @@ O projeto utiliza o arquivo `banco_agro_projeto.csv`, que contém informações 
 ## 💡 Contato
 
 📧 **Email:** luisfilipemnovais@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/luisfilipenovais](https://linkedin.com/in/luisfilipenovais)
+💼 **LinkedIn:** [https://www.linkedin.com/in/luis-filipe-moreira-356427381/](https://www.linkedin.com/in/luis-filipe-moreira-356427381/)

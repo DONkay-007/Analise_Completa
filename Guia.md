@@ -70,3 +70,59 @@ df.to_csv('data/banco_agro_projeto_limpo.csv', index=False)
 - Relatórios automáticos locais.  
 - Pipeline de dados limpo e escalável.
 
+---
+
+## ⚙️ Como Executar o Projeto
+
+Fico feliz que tenha interesse em rodar meu projeto! Para facilitar, preparei um guia rápido para você configurar o ambiente e executar a aplicação.
+
+### **Pré-requisitos**
+
+Antes de começar, certifique-se de que possui:
+*   **Python 3.8 ou superior** ([Download](https://www.python.org/downloads/))
+*   **Git** ([Download](https://git-scm.com/downloads))
+
+### **Passo a Passo**
+
+### **1. Clone o Repositório**
+
+Abra seu terminal e execute os comandos abaixo.
+
+```bash
+git clone https://github.com/LuisF-08/Analise_Completa.git
+cd Analise_Completa
+```
+
+## **2. Crie e Ative um Ambiente Virtual**
+
+Isso mantém as dependências do projeto isoladas e evita conflitos.
+
+### *   **No Windows:**
+    ```bash
+    python -m venv venv
+    .\venv\Scripts\activate
+    ```
+
+### *   **No macOS e Linux:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+### **3. Instale as Dependências**
+
+Com o ambiente virtual ativado, use o arquivo `requirements.txt` que preparei para instalar todas as bibliotecas de uma só vez(obs: não são todos eles que utilizei no projeto mas é bom colocar pois ele podem ser usados em atualizações futuras).
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### **4. Rodando o Projeto**
+
+Tudo pronto! Inicie o dashboard interativo com o comando:
+
+    ```bash
+    streamlit run app.py
+    ```
+
+automaticamente irá abrir uma aba em seu navegador, use com sabedoria😁.
